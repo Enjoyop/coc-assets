@@ -1,0 +1,16 @@
+"Name","TID","InfoTID","Sprite","UnlockedTownHall","ExplicitPriority"
+"String","String","String","String","int","int"
+"Clans","TID_FEATURE_CLANS","TID_FEATURE_CLANS_DESC","icon_cj_clan",2
+"ClanWars","TID_FEATURE_CLAN_WARS","TID_FEATURE_CLAN_WARS_DESC","icon_cj_clan_wars",2
+"Lab","TID_FEATURE_LABORATORY","TID_FEATURE_LABORATORY_DESC","icon_cj_laboratory",2
+"BB","TID_FEATURE_BUILDER_BASE","TID_FEATURE_BUILDER_BASE_DESC","icon_cj_builderbase",3
+"Spells","TID_FEATURE_SPELLS","TID_FEATURE_SPELLS_DESC","icon_cj_spells",4,499999
+"Capital","TID_FEATURE_CLAN_CAPITAL","TID_FEATURE_CLAN_CAPITAL_DESC","icon_cj_clan_capital",5
+"ClanGames","TID_FEATURE_CLAN_GAMES","TID_FEATURE_CLAN_GAMES_DESC","icon_cj_clan_games",5
+"Trader","TID_TRADER_FEATURE","TID_TRADER_FEATURE_DESCRIPTION","icon_cj_trader",5
+"DarkElixir","TID_FEATURE_DARK_ELIXIR","TID_FEATURE_DARK_ELIXIR_DESC","icon_cj_dark_elixir",6
+"Heroes","TID_HEROES_FEATURE","TID_HEROES_FEATURE_DESCRIPTION","icon_cj_heroes",6,199999
+"SeasonChallenges","TID_FEATURE_SEASON_CHALLENGES","TID_FEATURE_SEASON_CHALLENGES_DESC","icon_cj_goldpass",6
+"Super Troops","TID_SUPER_TROOPS_FEATURE","TID_SUPER_TROOPS_FEATURE_DESCRIPTION","icon_cj_supertroops",10
+"Sieges","TID_SIEGES_FEATURE","TID_SIEGES_FEATURE_DESCRIPTION","icon_cj_sieges",11,599999
+"Pets","TID_PETS_FEATURE","TID_PETS_FEATURE_DESCRIPTION","icon_cj_pets",13,299999

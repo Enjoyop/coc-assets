@@ -1,0 +1,5 @@
+"Name","Geometry","Texture","NormalMap","MaterialMap","EmissionMap","OpacityMap","CameraDistance","ViewportWidth","ViewportHeight","ParticleEffect3D","Environment"
+"String","String","String","String","String","String","String","int","int","int","String","String"
+"Mortar Rocket","sc3d/mortar_rocket_01.scw","sc3d/mortar_rocket_01_tex.pvr","sc3d/mortar_rocket_01_normal.pvr","sc3d/mortar_rocket_01_material.pvr",,,10000,225,225,"rocket_trail_01",
+"Mortar Rocket 2","sc3d/mortar_rocket_01.scw","sc3d/mortar_rocket_02_tex.pvr","sc3d/mortar_rocket_01_normal.pvr","sc3d/mortar_rocket_01_material.pvr",,,10000,225,225,"rocket_trail_01",
+"Mortar Rocket 5","sc3d/mortar_rocket_05.scw","sc3d/mortar_rocket_05_tex.pvr","sc3d/mortar_rocket_05_normal.pvr","sc3d/mortar_rocket_05_material.pvr",,,10000,225,225,"rocket_trail_01",

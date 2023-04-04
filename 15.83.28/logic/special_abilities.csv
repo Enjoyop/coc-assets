@@ -1,0 +1,11 @@
+"Name","TID","InfoTID","ShortTID","Animation","AttackRange","AttackSpeed","DPS","CoolDownOverride","IsJumper","SmoothJump","JumpHeightPercentage","FrostOnHitTime","FrostOnHitPercent","AttackEffect","AttackEffect2","HitEffect","HitEffect2","Projectile","Speed","AirTargets","GroundTargets","MultiTargets","NumMultiTargets","PushBack","DieDamage","DieDamageRadius","DieDamageEffect","DieDamageDelay","DieDamageSpell","ActivationEffect","SpellOnDamage","DamageToTriggerSpell","SpellOnDamageCount","AuraSpell","AuraSpellLevel","ActiveUntilFirstHit"
+"String","String","String","String","String","int","int","int","int","boolean","boolean","int","int","int","String","String","String","String","String","int","boolean","boolean","boolean","int","int","int","int","String","int","String","String","String","int","int","String","int","boolean"
+"Ram Rider Charge","TID_CHARACTER_RAM_RIDER_CHARGE",,,"RamRiderCharge",60,100,1700,,"TRUE","TRUE",1,4000,50,,,"RamRider Hit","RamRider Big Hit","NULL",450,,,,,,,,,,,,,,,"RamRiderDestroyWalls",,"TRUE"
+,,,,,,,1800,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,1900,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,2000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,2100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,2200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,2300,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,2400,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,2500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

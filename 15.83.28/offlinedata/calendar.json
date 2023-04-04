@@ -1,0 +1,885 @@
+{
+	"events": [
+		{
+			"id": 5249,
+			"name": "Trader 2.0 WEEK 9 ROTATION [final][test copy]",
+			"version": 2,
+			"visibleTime": "20221101T081500.000Z",
+			"startTime": "20221101T081500.000Z",
+			"endTime": "20221202T080000.000Z",
+			"visibleEndTime": "20221202T080000.000Z",
+			"type": 7,
+			"offer": [
+				{
+					"item": "46000007",
+					"amount": 1,
+					"cost": 25,
+					"maxBuys": 3
+				},
+				{
+					"item": "46000019",
+					"amount": 1,
+					"cost": 75,
+					"maxBuys": 3
+				},
+				{
+					"item": "46000006",
+					"amount": 1,
+					"cost": 115,
+					"maxBuys": 3
+				},
+				{
+					"item": "46000022",
+					"amount": 1,
+					"cost": 120,
+					"maxBuys": 3
+				},
+				{
+					"item": "46000014",
+					"amount": 1,
+					"cost": 285,
+					"maxBuys": 3
+				},
+				{
+					"item": "46000008",
+					"amount": 1,
+					"cost": 1500,
+					"maxBuys": 1
+				},
+				{
+					"item": "46000010",
+					"amount": 1,
+					"cost": 3000,
+					"maxBuys": 1
+				},
+				{
+					"item": "46000003",
+					"amount": 1,
+					"cost": 500,
+					"maxBuys": 1
+				},
+				{
+					"item": "46000000",
+					"amount": 1,
+					"cost": 925,
+					"maxBuys": 1
+				},
+				{
+					"item": "46000001",
+					"amount": 1,
+					"cost": 925,
+					"maxBuys": 1
+				},
+				{
+					"item": "82000007",
+					"amount": 1,
+					"cost": 250,
+					"maxBuys": 1
+				}
+			],
+			"capital": [
+				{
+					"item": "3000001",
+					"amount": 2500000,
+					"cost": 300,
+					"maxBuys": 999
+				},
+				{
+					"item": "3000002",
+					"amount": 2500000,
+					"cost": 300,
+					"maxBuys": 999
+				},
+				{
+					"item": "3000003",
+					"amount": 25000,
+					"cost": 300,
+					"maxBuys": 999
+				},
+				{
+					"item": "3000007",
+					"amount": 1000000,
+					"cost": 250,
+					"maxBuys": 999
+				},
+				{
+					"item": "3000008",
+					"amount": 1000000,
+					"cost": 250,
+					"maxBuys": 999
+				},
+				{
+					"item": "46000007",
+					"amount": 1,
+					"cost": 100,
+					"maxBuys": 3
+				},
+				{
+					"item": "46000019",
+					"amount": 1,
+					"cost": 100,
+					"maxBuys": 3
+				},
+				{
+					"item": "46000005",
+					"amount": 1,
+					"cost": 150,
+					"maxBuys": 3
+				},
+				{
+					"item": "46000021",
+					"amount": 1,
+					"cost": 150,
+					"maxBuys": 3
+				},
+				{
+					"item": "46000006",
+					"amount": 1,
+					"cost": 200,
+					"maxBuys": 3
+				},
+				{
+					"item": "46000022",
+					"amount": 1,
+					"cost": 200,
+					"maxBuys": 3
+				},
+				{
+					"item": "82000042",
+					"amount": 1,
+					"cost": 300,
+					"maxBuys": 1
+				}
+			],
+			"free": [
+				{
+					"item": "3000001",
+					"amount": 500000,
+					"start": 0,
+					"end": 10080
+				}
+			]
+		},
+		{
+			"type": 8,
+			"id": 31734,
+			"version": 6,
+			"visibleTime": "19700101T100000.000Z",
+			"startTime": "20180625T070000.000Z",
+			"endTime": "20180625T110000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"scFile": {
+				"Path": "/6a3c7980-6237-42ce-969f-f2b566440397_silly.sc",
+				"ChecksumSha1": "04d0d40abec935e7c1f39cbfc1f06fde62743e4d"
+			},
+			"signupDuration": 3600,
+			"bracketSize": 4,
+			"warSizes": [
+				15,
+				30
+			],
+			"warDuration": 3600,
+			"warAttacks": 1,
+			"warWinLootMultiplier": 1,
+			"warDrawLootMultiplier": 1,
+			"warLoseLootMultiplier": 1
+		},
+		{
+			"type": 13,
+			"id": 734,
+			"version": 6,
+			"visibleTime": "20191001T070000.000Z",
+			"startTime": "20191001T070000.000Z",
+			"endTime": "20191101T070000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/ec21bcfa-17e8-4112-a408-0a9a1227b72e_boost_war.png",
+				"ChecksumSha1": "bdac46baaca6a51e208aaefbbaede81f22a07adb"
+			},
+			"scFile": {
+				"Path": "/310c63cc-0ebf-49af-bd32-4cff9c9c0e4b_halloween_background_orange.sc",
+				"ChecksumSha1": "d5fa4f3ee38b2fe92b572110f8013a1580d1996d"
+			},
+			"localizationFile": {
+				"Path": "/7879b308-d9ac-4e6c-b030-af60d40d967d_Season_Challenges_Events_Tab_test.csv",
+				"ChecksumSha1": "a169ec44e3d16a8110cda93f3cc9904bc489d9a8"
+			},
+			"weeks": [
+				{
+					"tasks": [
+						"53000174",
+						"53000363",
+						"53000305",
+						"53000322",
+						"53000034",
+						"53000036"
+					]
+				},
+				{
+					"tasks": [
+						"53000166",
+						"53000209",
+						"53000117",
+						"53000279",
+						"53000143",
+						"53000090"
+					]
+				},
+				{
+					"tasks": [
+						"53000072",
+						"53000171",
+						"53000070",
+						"53000309",
+						"53000010",
+						"53000362"
+					]
+				},
+				{
+					"tasks": [
+						"53000206",
+						"53000088",
+						"53000151",
+						"53000013",
+						"53000146",
+						"53000326"
+					]
+				}
+			],
+			"rewardTiers": [
+				{
+					"points": 40,
+					"freeReward": "3000001",
+					"freeRewardAmount": 500000,
+					"premiumReward": "37000040",
+					"premiumRewardAmount": 99
+				},
+				{
+					"points": 80,
+					"premiumReward": "37000034",
+					"premiumRewardAmount": 10
+				},
+				{
+					"points": 120,
+					"freeReward": "3000002",
+					"freeRewardAmount": 500000,
+					"premiumReward": "37000037",
+					"premiumRewardAmount": 10
+				},
+				{
+					"points": 160,
+					"premiumReward": "37000074",
+					"premiumRewardAmount": 10
+				},
+				{
+					"points": 200,
+					"freeReward": "3000003",
+					"freeRewardAmount": 5000,
+					"premiumReward": "37000039",
+					"premiumRewardAmount": 100000
+				},
+				{
+					"points": 260,
+					"premiumReward": "46000001",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 320,
+					"freeReward": "46000005",
+					"freeRewardAmount": 1,
+					"premiumReward": "46000020",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 380,
+					"premiumReward": "46000002",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 440,
+					"freeReward": "46000021",
+					"freeRewardAmount": 1,
+					"premiumReward": "46000013",
+					"premiumRewardAmount": 5
+				},
+				{
+					"points": 500,
+					"premiumReward": "46000005",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 580,
+					"freeReward": "46000007",
+					"freeRewardAmount": 1,
+					"premiumReward": "37000034",
+					"premiumRewardAmount": 15
+				},
+				{
+					"points": 660,
+					"premiumReward": "37000074",
+					"premiumRewardAmount": 15
+				},
+				{
+					"points": 740,
+					"freeReward": "3000001",
+					"freeRewardAmount": 1000000,
+					"premiumReward": "37000039",
+					"premiumRewardAmount": 150000
+				},
+				{
+					"points": 820,
+					"premiumReward": "37000037",
+					"premiumRewardAmount": 15
+				},
+				{
+					"points": 900,
+					"freeReward": "3000002",
+					"freeRewardAmount": 1000000,
+					"premiumReward": "46000013",
+					"premiumRewardAmount": 5
+				},
+				{
+					"points": 980,
+					"premiumReward": "46000021",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 1060,
+					"freeReward": "3000003",
+					"freeRewardAmount": 10000,
+					"premiumReward": "46000014",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 1140,
+					"premiumReward": "46000007",
+					"premiumRewardAmount": 5
+				},
+				{
+					"points": 1220,
+					"freeReward": "46000019",
+					"freeRewardAmount": 1,
+					"premiumReward": "37000034",
+					"premiumRewardAmount": 20
+				},
+				{
+					"points": 1300,
+					"premiumReward": "37000074",
+					"premiumRewardAmount": 20
+				},
+				{
+					"points": 1400,
+					"freeReward": "46000022",
+					"freeRewardAmount": 1,
+					"premiumReward": "37000039",
+					"premiumRewardAmount": 200000
+				},
+				{
+					"points": 1500,
+					"premiumReward": "37000037",
+					"premiumRewardAmount": 20
+				},
+				{
+					"points": 1600,
+					"freeReward": "46000014",
+					"freeRewardAmount": 1,
+					"premiumReward": "46000013",
+					"premiumRewardAmount": 5
+				},
+				{
+					"points": 1700,
+					"premiumReward": "46000011",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 1850,
+					"freeReward": "3000001",
+					"freeRewardAmount": 1500000,
+					"premiumReward": "46000008",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 2000,
+					"premiumReward": "46000010",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 2150,
+					"freeReward": "3000002",
+					"freeRewardAmount": 1500000,
+					"premiumReward": "46000000",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 2300,
+					"premiumReward": "37000039",
+					"premiumRewardAmount": 250000
+				},
+				{
+					"points": 2450,
+					"freeReward": "3000003",
+					"freeRewardAmount": 15000,
+					"premiumReward": "37000034",
+					"premiumRewardAmount": 30
+				},
+				{
+					"points": 2600,
+					"freeReward": "46000003",
+					"freeRewardAmount": 1,
+					"premiumReward": "52000054",
+					"premiumRewardAmount": 1
+				}
+			],
+			"startingSeasonBankSize": 50000,
+			"tierSkipCost": 100,
+			"keyRewardImage": {
+				"Path": "/d5ca7fd9-57e4-4b38-be48-4418150e3c03_bp_skin_aq_ice_image.png",
+				"ChecksumSha1": "bfed1550d196438453921c5fe7ae325b3109d18d"
+			}
+		},
+		{
+			"type": 0,
+			"id": 4011,
+			"version": 6,
+			"visibleTime": "19700101T100000.000Z",
+			"startTime": "20221115T070000.000Z",
+			"endTime": "20221215T110000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"functions": [
+				{
+					"name": "EnableTroop",
+					"parameters": [
+						"4000094"
+					]
+				}
+			]
+		},
+		{
+			"type": 0,
+			"id": 4012,
+			"version": 6,
+			"visibleTime": "19700101T100000.000Z",
+			"startTime": "20190825T070000.000Z",
+			"endTime": "20200101T110000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"functions": [
+				{
+					"name": "EnableTroop",
+					"parameters": [
+						"4000030"
+					]
+				}
+			]
+		},
+		{
+			"type": 0,
+			"id": 4013,
+			"version": 6,
+			"visibleTime": "19700101T100000.000Z",
+			"startTime": "20190825T070000.000Z",
+			"endTime": "20200101T110000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"functions": [
+				{
+					"name": "EnableSpell",
+					"parameters": [
+						"26000006"
+					]
+				}
+			]
+		},
+		{
+			"type": 5,
+			"id": 6883,
+			"version": 6,
+			"visibleTime": "20191001T070000.000Z",
+			"startTime": "20191001T070000.000Z",
+			"endTime": "20191101T070000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"notificationTid": "TID_CLAN_GAMES_STARTED_NOTIFICATION",
+			"localizationFile": {
+				"gameId": "clashofclans",
+				"Path": "/35425c5c-e5cf-40e6-87b0-b2174bc1078e_9thClash_Clan_Games.csv",
+				"Status": "COMPLETE",
+				"Type": "csv",
+				"Checksum": "66a2ecc9b4da19eccade6a6e4e5062ed",
+				"ChecksumSha1": "314e347b016f81313c155f76c947fd05fbd80e9b",
+				"Id": "35425c5c-e5cf-40e6-87b0-b2174bc1078e",
+				"File": "9thClash_Clan_Games.csv",
+				"Operations": [],
+				"Timestamp": "20210811T052842.166Z"
+			},
+			"thresholds": [
+				{
+					"clanXP": 20,
+					"rewards": [
+						{
+							"type": "3000004",
+							"amount": 20,
+							"guaranteed": true
+						},
+						{
+							"type": "46000007",
+							"amount": 1,
+							"guaranteed": true
+						},
+						{
+							"type": "3000000",
+							"amount": 20,
+							"guaranteed": true
+						},
+						{
+							"type": "46000006",
+							"amount": 1,
+							"guaranteed": false
+						}
+					],
+					"points": 3000
+				},
+				{
+					"clanXP": 40,
+					"rewards": [
+						{
+							"type": "3000005",
+							"amount": 30,
+							"guaranteed": false
+						},
+						{
+							"type": "46000014",
+							"amount": 1,
+							"guaranteed": false
+						},
+						{
+							"type": "46000019",
+							"amount": 1,
+							"guaranteed": false
+						}
+					],
+					"points": 7500
+				},
+				{
+					"clanXP": 60,
+					"rewards": [
+						{
+							"type": "46000020",
+							"amount": 1,
+							"guaranteed": false
+						},
+						{
+							"type": "46000022",
+							"amount": 1,
+							"guaranteed": false
+						},
+						{
+							"type": "3000000",
+							"amount": 50,
+							"guaranteed": false
+						}
+					],
+					"points": 12000
+				},
+				{
+					"clanXP": 80,
+					"rewards": [
+						{
+							"type": "3000006",
+							"amount": 80,
+							"guaranteed": true
+						},
+						{
+							"type": "46000023",
+							"amount": 1,
+							"guaranteed": true
+						},
+						{
+							"type": "46000013",
+							"amount": 6,
+							"guaranteed": true
+						},
+						{
+							"type": "46000007",
+							"amount": 2,
+							"guaranteed": false
+						}
+					],
+					"points": 18000
+				},
+				{
+					"clanXP": 100,
+					"rewards": [
+						{
+							"type": "3000004",
+							"amount": 100,
+							"guaranteed": false
+						},
+						{
+							"type": "46000012",
+							"amount": 1,
+							"guaranteed": false
+						},
+						{
+							"type": "46000021",
+							"amount": 2,
+							"guaranteed": false
+						}
+					],
+					"points": 30000
+				},
+				{
+					"clanXP": 120,
+					"rewards": [
+						{
+							"type": "46000004",
+							"amount": 1,
+							"guaranteed": false
+						},
+						{
+							"type": "46000005",
+							"amount": 2,
+							"guaranteed": false
+						},
+						{
+							"type": "46000006",
+							"amount": 2,
+							"guaranteed": false
+						}
+					],
+					"points": 50000
+				},
+				{
+					"clanXP": 140,
+					"rewards": [
+						{
+							"type": "46000010",
+							"amount": 1,
+							"guaranteed": false
+						},
+						{
+							"type": "46000014",
+							"amount": 2,
+							"guaranteed": false
+						},
+						{
+							"type": "3000000",
+							"amount": 100,
+							"guaranteed": false
+						}
+					],
+					"points": 75000
+				}
+			],
+			"boostedTaskExtraProbabilityPercentage": 200,
+			"maxVisibleTasks": 1000,
+			"pointsPerPlayer": 5000,
+			"imageFile": {
+				"Path": "/dfdd0116-8ba7-4a52-bcce-18585cc1615d_clan_games_generic.png",
+				"ChecksumSha1": "288060adc9bc92427255bfc1a2337503ac0922a6",
+				"File": "clan_games_generic.png",
+				"Checksum": "32db69cbf67088c1499c2ce6e771069d"
+			},
+			"boostedTaskExtraScorePercentage": 100,
+			"endingSoonNotificationMinutesFromEnd": 180,
+			"boostedTasks": [
+				"45000005",
+				"45000013",
+				"45000016",
+				"45000018",
+				"45000020",
+				"45000029",
+				"45000031",
+				"45000039",
+				"45000040",
+				"45000050",
+				"45000054",
+				"45000056",
+				"45000061",
+				"45000063",
+				"45000066",
+				"45000072",
+				"45000073",
+				"45000078",
+				"45000079",
+				"45000092",
+				"45000094",
+				"45000095",
+				"45000097",
+				"45000100",
+				"45000102",
+				"45000105",
+				"45000119",
+				"45000126",
+				"45000135",
+				"45000137",
+				"45000139",
+				"45000143",
+				"45000148",
+				"45000149",
+				"45000150",
+				"45000153",
+				"45000154",
+				"45000157",
+				"45000160",
+				"45000165",
+				"45000167",
+				"45000168",
+				"45000171",
+				"45000178",
+				"45000185",
+				"45000187",
+				"45000188",
+				"45000199",
+				"45000206",
+				"45000207",
+				"45000208",
+				"45000221",
+				"45000253",
+				"45000258",
+				"45000260"
+			],
+			"scFile": {
+				"Path": "/fafe919c-5dbe-4a10-8af1-62a2a863d9c7_Clan_Games_Background.sc",
+				"ChecksumSha1": "240a083bf5daeec4949f61c22244e0c3ea58c41d",
+				"File": "Clan Games Background.sc",
+				"Checksum": "a276c519f5526b5e72842f18af94bcaa"
+			},
+			"personalRewardPoints": 4000
+		},
+		{
+			"type": 26,
+			"id": 1025,
+			"version": 6,
+			"visibleTime": "19700101T100000.000Z",
+			"startTime": "20180625T070000.000Z",
+			"endTime": "20230625T110000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"arcadeEnabled": true,
+			"arcadeUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+			"levels": [
+				{
+					"level": "17000134",
+					"availableFrom": "20220530T074100.000Z"
+				},
+				{
+					"level": "17000135",
+					"availableFrom": "20220530T074100.000Z"
+				},
+				{
+					"level": "17000136",
+					"availableFrom": "20220530T074100.000Z"
+				},
+				{
+					"level": "17000137",
+					"availableFrom": "20220530T104100.000Z"
+				},
+				{
+					"level": "17000138",
+					"availableFrom": "20220601T104100.000Z"
+				},
+				{
+					"level": "17000139",
+					"availableFrom": "20220601T104100.000Z"
+				},
+				{
+					"level": "17000140",
+					"availableFrom": "20220601T104100.000Z"
+				},
+				{
+					"level": "17000141",
+					"availableFrom": "20220601T104100.000Z"
+				},
+				{
+					"level": "17000142",
+					"availableFrom": "20220601T104100.000Z"
+				},
+				{
+					"level": "17000143",
+					"availableFrom": "20220601T104100.000Z"
+				},
+				{
+					"level": "17000144",
+					"availableFrom": "20220601T104100.000Z"
+				}
+			],
+			"rewards": [
+				{
+					"type": "46000006",
+					"quantity": 1,
+					"stars": 3
+				},
+				{
+					"type": "46000020",
+					"quantity": 1,
+					"stars": 9
+				},
+				{
+					"type": "60000006",
+					"quantity": 1,
+					"stars": 15
+				},
+				{
+					"type": "82000067",
+					"quantity": 1,
+					"stars": 21
+				},
+				{
+					"type": "46000004",
+					"quantity": 1,
+					"stars": 27
+				},
+				{
+					"type": "82000055",
+					"quantity": 1,
+					"stars": 33
+				}
+			]
+		},
+		{
+			"id": 5737,
+			"name": "QA enabling Santa Spell",
+			"version": 4,
+			"visibleTime": "20221123T121600.000Z",
+			"startTime": "20221123T121600.000Z",
+			"endTime": "20221212T141600.000Z",
+			"visibleEndTime": "20221212T141600.000Z",
+			"type": "Generic",
+			"parameters": {},
+			"isEnabled": true,
+			"targetingRule": null,
+			"isVariantBase": false,
+			"analyticsMetadata": null,
+			"isIndividuallyTargeted": false,
+			"visibilityType": "calendar",
+			"visibilityConstraints": null,
+			"visibilityDuration": 0,
+			"eventGroupId": 0,
+			"eventSequenceId": 0,
+			"activationTime": 0,
+			"preStartVisibilityDuration": 0,
+			"duration": 0,
+			"postEndVisibilityDuration": 0,
+			"metadata": null,
+			"abTestLabel": null,
+			"abTestTreatmentGroupCount": 0,
+			"validationResult": {
+				"result": "ok",
+				"message": null,
+				"fieldValidationResults": [],
+				"parameterValidationResults": [],
+				"confirmationMessage": null
+			},
+			"functions": [
+				{
+					"name": "EnableSpell",
+					"parameters": [
+						"26000006"
+					]
+				}
+			]
+		}
+	]
+}

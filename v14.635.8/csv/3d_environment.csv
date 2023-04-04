@@ -1,0 +1,4 @@
+"Name","Diffuse","DiffuseMenu","Specular","SpecularMenu"
+"String","String","String","String","String"
+"Default","sc3d/diffuse_lightmap_pbr.png","sc3d/diffuse_lightmap_menu_pbr.png","sc3d/specular_lightmap_pbr.png","sc3d/specular_lightmap_menu_pbr.png"
+"New","sc3d/diffuse_lightmap2_pbr.png","sc3d/diffuse_lightmap_menu2_pbr.png","sc3d/specular_lightmap2_pbr.png","sc3d/specular_lightmap_menu2_pbr.png"

@@ -1,0 +1,9 @@
+"Name","PartSlots","SlotTID","DefaultPart","Placeholder",SlotUiSortingNumber
+"String","String","String","String","String",int
+"CcPlayerHouse","Ground","TID_BUILDING_CUSTOMIZE_CATEGORY_GROUND","PlayerHouse_Ground_Fence01","sc/buildings_cc.sc#playerhouse_parts/ground_placeholder",3
+,"Foot","TID_BUILDING_CUSTOMIZE_CATEGORY_FOOT","PlayerHouse_Foot_Classic01","sc/buildings_cc.sc#playerhouse_parts/walls_placeholder",2
+,"Roof","TID_BUILDING_CUSTOMIZE_CATEGORY_ROOF","PlayerHouse_Roof_Classic01","sc/buildings_cc.sc#playerhouse_parts/roof_placeholder",1
+,"Deco","TID_BUILDING_CUSTOMIZE_CATEGORY_DECO","PlayerHouse_Deco_Mundane01","sc/buildings_cc.sc#playerhouse_parts/deco_placeholder",4
+"CcPlayerHouseUnoccupied","Ground","TID_BUILDING_CUSTOMIZE_CATEGORY_GROUND","EmptyHouse_Ground_01","sc/buildings_cc.sc#playerhouse_parts/ground_placeholder",1
+,"Roof","TID_BUILDING_CUSTOMIZE_CATEGORY_ROOF","EmptyHouse_Roof_01","sc/buildings_cc.sc#playerhouse_parts/ground_placeholder",2
+,"Deco","TID_BUILDING_CUSTOMIZE_CATEGORY_DECO","EmptyHouse_Deco_01","sc/buildings_cc.sc#playerhouse_parts/ground_placeholder",3
