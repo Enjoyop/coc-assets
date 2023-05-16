@@ -1,0 +1,5 @@
+"Name","Diffuse","DiffuseMultiplier","DiffuseMenu","DiffuseMenuMultiplier","Specular","SpecularMultiplier","SpecularMenu","SpecularMenuMultiplier","Tonemap"
+"String","String","float","String","float","String","float","String","float","boolean"
+"Default","sc3d/diffuse_lightmap_pbr.png",2,"sc3d/diffuse_lightmap_menu_pbr.png",2,"sc3d/specular_lightmap_pbr.png",16,"sc3d/specular_lightmap_menu_pbr.png",16,"FALSE"
+"New","sc3d/diffuse_lightmap2_pbr.png",2,"sc3d/diffuse_lightmap_menu2_pbr.png",2,"sc3d/specular_lightmap2_pbr.png",16,"sc3d/specular_lightmap_menu2_pbr.png",16,"FALSE"
+"BB","sc3d/irradiance_game_bb.png",2,"sc3d/irradiance_menu_bb.png",2,"sc3d/env_game_bb.png",16,"sc3d/env_menu_bb.png",16,"TRUE"

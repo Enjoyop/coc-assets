@@ -1,0 +1,14 @@
+"Name","TID","CanBuy","ShopCategoryResource","ShopCategoryArmy","ShopCategoryDefense","Npc","ParentClass"
+"String","String","boolean","boolean","boolean","boolean","boolean","String"
+"Resource","TID_BUILDING_CLASS_RESOURCE","TRUE","TRUE",,,,
+"Army","TID_BUILDING_CLASS_ARMY","TRUE",,"TRUE",,,
+"Defense","TID_BUILDING_CLASS_DEFENSE","TRUE",,,"TRUE",,
+"Town Hall",,"FALSE",,,,,
+"Wall","TID_BUILDING_CLASS_WALL","TRUE",,,"TRUE",,
+"Worker",,"TRUE","TRUE",,,,
+"Npc",,"FALSE",,,,"TRUE",
+"Specialized",,"FALSE",,,,,
+"Town Hall2",,"FALSE",,,,,
+"Worker2",,"FALSE","TRUE",,,,
+"Npc Town Hall",,"FALSE",,,,"TRUE","Town Hall"
+"NonFunctional",,"FALSE",,,,,
