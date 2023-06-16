@@ -1,0 +1,13 @@
+"Name","TID","Character","Count","Distance"
+"String","String","String","int","int"
+"Super Barbarian Squad","TID_SUPER_BARBARIANS","Super Barbarian",4,300
+"Sneaky Archer Squad","TID_SNEAKY_ARCHERS","Sneaky Archer",5,400
+"Super Giant Squad","TID_SUPER_GIANTS","Super Giant",2,400
+"Minion Squad","TID_MINION_HORDE","Minion",6,400
+"Super Wizard Squad","TID_SUPER_WIZARDS","Super Wizard",3,300
+"Rocket Balloon Squad","TID_ROCKET_BALLOONS","Rocket Balloon",2,150
+"Skeleton Barrel Squad","TID_SKELETON_BARRELS","Skeleton Barrel",3,300
+"Siege Cart Squad","TID_RAID_CART","Siege Cart",1,0
+,,"Capital Barbarian",4,400
+"Hog Squad","TID_HOG_RAIDERS","Hog Rider",2,300
+,,"Hog Glider",1,0
