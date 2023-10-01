@@ -1,3 +1,6 @@
 # coc-assets
 Entities required for those who want to create clash of clans  servers.\n
-For v14.635.8
+In game assets showing the evolution of Clash of Clans so far.\n
+
+
+NOTE: Some versions are missing.

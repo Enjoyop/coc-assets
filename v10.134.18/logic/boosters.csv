@@ -1,0 +1,17 @@
+"Name","TID","InfoTID","SWF","ExportName","IconSWF","IconExportName","Enabled","MaxItems","DiamondValue","DisplayOrder","FinishTroopUpgrade","FinishBuildingUpgrade","FinishSpellUpgrade","FinishHeroUpgrade","MaxLevelArmy","BoostResource","BoostProduction","FillStorageResource","UpgradeWall","BoostBuilders"
+"String","String","String","String","String","String","String","boolean","int","int","int","boolean","boolean","boolean","boolean","boolean","boolean","boolean","String","boolean","boolean"
+"FinishTroopUpgrade","TID_BOOSTER_FINISH_TROOP_UPGRADE","TID_BOOSTER_FINISH_TROOP_UPGRADE_INFO",,,"sc/ui.sc","book_of_troops","TRUE",1,50,0,"TRUE",,,,,,,,,
+"FinishBuildingUpgrade","TID_BOOSTER_FINISH_BUILDING_UPGRADE","TID_BOOSTER_FINISH_BUILDING_UPGRADE_INFO",,,"sc/ui.sc","book_of_buildings","TRUE",1,50,0,,"TRUE",,,,,,,,
+"FinishSpellUpgrade","TID_BOOSTER_FINISH_SPELL_UPGRADE","TID_BOOSTER_FINISH_SPELL_UPGRADE_INFO",,,"sc/ui.sc","book_of_spells","TRUE",1,50,0,,,"TRUE",,,,,,,
+"FinishHeroUpgrade","TID_BOOSTER_FINISH_HERO_UPGRADE","TID_BOOSTER_FINISH_HERO_UPGRADE_INFO",,,"sc/ui.sc","book_of_heroes","TRUE",1,50,0,,,,"TRUE",,,,,,
+"FinishAnyUpgrade","TID_BOOSTER_FINISH_ANY_UPGRADE","TID_BOOSTER_FINISH_ANY_UPGRADE_INFO",,,"sc/ui.sc","book_of_everything","TRUE",1,50,0,"TRUE","TRUE","TRUE","TRUE",,,,,,
+"MaxLevelArmy","TID_BOOSTER_MAX_LEVEL_ARMY","TID_BOOSTER_MAX_LEVEL_ARMY_INFO",,,"sc/ui.sc","potion_of_strenght","TRUE",5,10,2,,,,,"TRUE",,,,,
+"BoostResource","TID_BOOSTER_BOOST_RESOURCES","TID_BOOSTER_BOOST_RESOURCES_INFO",,,"sc/ui.sc","potion_of_resources","TRUE",5,10,2,,,,,,"TRUE",,,,
+"BoostProduction","TID_BOOSTER_BOOST_PRODUCTION","TID_BOOSTER_BOOST_PRODUCTION_INFO",,,"sc/ui.sc","potion_of_training","TRUE",5,10,2,,,,,,,"TRUE",,,
+"FillGoldStorage","TID_BOOSTER_FILL_GOLD_STORAGE","TID_BOOSTER_FILL_GOLD_STORAGE_INFO",,,"sc/ui.sc","rune_of_gold","TRUE",1,50,1,,,,,,,,"Gold",,
+"FillElixirStorage","TID_BOOSTER_FILL_ELIXIR_STORAGE","TID_BOOSTER_FILL_ELIXIR_STORAGE_INFO",,,"sc/ui.sc","rune_of_elixir","TRUE",1,50,1,,,,,,,,"Elixir",,
+"FillDarkElixirStorage","TID_BOOSTER_FILL_DARK_ELIXIR_STORAGE","TID_BOOSTER_FILL_DARK_ELIXIR_STORAGE_INFO",,,"sc/ui.sc","rune_of_dark_elixir","TRUE",1,50,1,,,,,,,,"DarkElixir",,
+"FillGold2Storage","TID_BOOSTER_FILL_GOLD2_STORAGE","TID_BOOSTER_FILL_GOLD2_STORAGE_INFO",,,"sc/ui.sc","rune_of_builder_gold","TRUE",1,50,1,,,,,,,,"Gold2",,
+"FillElixir2Storage","TID_BOOSTER_FILL_ELIXIR2_STORAGE","TID_BOOSTER_FILL_ELIXIR2_STORAGE_INFO",,,"sc/ui.sc","rune_of_builder_elixir","TRUE",1,50,1,,,,,,,,"Elixir2",,
+"UpgradeWall","TID_BOOSTER_WALL_UPGRADE","TID_BOOSTER_WALL_UPGRADE_INFO",,,"sc/ui.sc","ring_of_walls","TRUE",25,5,0,,,,,,,,,"TRUE",
+"BoostBuilders","TID_BOOSTER_BUILDERS","TID_BOOSTER_BUILDERS_INFO",,,"sc/ui.sc","potion_of_speed","TRUE",5,10,2,,,,,,,,,,"TRUE"

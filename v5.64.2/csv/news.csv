@@ -1,0 +1,5 @@
+"Name","ID","Enabled","EnabledIOS","EnabledAndroid","TID","InfoTID","ButtonTID","ButtonURL","LoadResources","ItemSWF","ItemExportName","IconSWF","IconExportName","IncludedCountries","ExcludedCountries","MinLevel","MaxDiamonds","ClickToDismiss"
+"String","int","Boolean","Boolean","Boolean","String","String","String","String","Boolean","String","String","String","String","String","String","int","int","Boolean"
+"PuzzleAndDragon",21,"FALSE","TRUE","FALSE","TID_XP_TITLE_PUZZLEANDDRAGONS","TID_XP_TEXT_PUZZLEANDDRAGONS","TID_XP_BUTTON_PUZZLEANDDRAGONS","https://itunes.apple.com/gb/app/puzzle-dragons/id709128984?l=ja&ls=1&mt=8","TRUE","sc/promo_puzzle_and_dragons.sc","promo_entry",,,"GB",,4,6000,"TRUE"
+"HayDay",22,"FALSE","TRUE","FALSE","TID_XP_TITLE_HAYDAY","TID_XP_TEXT_HAYDAY","TID_XP_BUTTON_HAYDAY","http://hastrk1.com/serve?action=click&publisher_id=39352&site_id=8690&offer_id=245128","TRUE","sc/promo_hay_day.sc","promo_entry_hayday",,,"JP",,3,0,"TRUE"
+"TestNews",20,"TRUE","TRUE","TRUE","TID_NEWS_UPDATE_INFO_TITLE","TID_NEWS_UPDATE_INFO_TEXT",,,"FALSE","sc/ui.sc","news_entry","sc/ui.sc","evil_airtrap_lvl1_info_news",,,0,0,"FALSE"

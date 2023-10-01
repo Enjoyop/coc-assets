@@ -1,0 +1,10 @@
+"Name","TID","InfoTID","SWF","ExportName","IconSWF","IconExportName","Enabled","MaxItems","DiamondValue","FinishTroopUpgrade","FinishBuildingUpgrade","FinishSpellUpgrade","FinishHeroUpgrade","MaxLevelArmy","BoostResource","BoostProduction"
+"String","String","String","String","String","String","String","boolean","int","int","boolean","boolean","boolean","boolean","boolean","boolean","boolean"
+"FinishTroopUpgrade","TID_BOOSTER_FINISH_TROOP_UPGRADE","TID_BOOSTER_FINISH_TROOP_UPGRADE_INFO",,,"sc/ui.sc","book_of_troops","TRUE",1,50,"TRUE",,,,,,
+"FinishBuildingUpgrade","TID_BOOSTER_FINISH_BUILDING_UPGRADE","TID_BOOSTER_FINISH_BUILDING_UPGRADE_INFO",,,"sc/ui.sc","book_of_buildings","TRUE",1,50,,"TRUE",,,,,
+"FinishSpellUpgrade","TID_BOOSTER_FINISH_SPELL_UPGRADE","TID_BOOSTER_FINISH_SPELL_UPGRADE_INFO",,,"sc/ui.sc","book_of_spells","TRUE",1,50,,,"TRUE",,,,
+"FinishHeroUpgrade","TID_BOOSTER_FINISH_HERO_UPGRADE","TID_BOOSTER_FINISH_HERO_UPGRADE_INFO",,,"sc/ui.sc","book_of_heroes","TRUE",1,50,,,,"TRUE",,,
+"FinishAnyUpgrade","TID_BOOSTER_FINISH_ANY_UPGRADE","TID_BOOSTER_FINISH_ANY_UPGRADE_INFO",,,"sc/ui.sc","book_of_everything","TRUE",1,100,"TRUE","TRUE","TRUE","TRUE",,,
+"MaxLevelArmy","TID_BOOSTER_MAX_LEVEL_ARMY","TID_BOOSTER_MAX_LEVEL_ARMY_INFO",,,"sc/ui.sc","potion_of_strenght","TRUE",5,25,,,,,"TRUE",,
+"BoostResource","TID_BOOSTER_BOOST_RESOURCES","TID_BOOSTER_BOOST_RESOURCES_INFO",,,"sc/ui.sc","potion_of_resources","TRUE",5,25,,,,,,"TRUE",
+"BoostProduction","TID_BOOSTER_BOOST_PRODUCTION","TID_BOOSTER_BOOST_PRODUCTION_INFO",,,"sc/ui.sc","potion_of_training","TRUE",5,25,,,,,,,"TRUE"

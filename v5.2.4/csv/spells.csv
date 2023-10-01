@@ -1,0 +1,26 @@
+"Name","TID","InfoTID","DisableProduction","SpellForgeLevel","LaboratoryLevel","TrainingResource","TrainingCost","HousingSpace","TrainingTime","DeployTimeMS","ChargingTimeMS","HitTimeMS","UpgradeTimeH","UpgradeResource","UpgradeCost","BoostTimeMS","SpeedBoost","SpeedBoost2","JumpHousingLimit","JumpBoostMS","DamageBoostPercent","Damage","Radius","NumberOfHits","RandomRadius","TimeBetweenHitsMS","IconSWF","IconExportName","BigPicture","PreDeployEffect","DeployEffect","DeployEffect2Delay","DeployEffect2","ChargingEffect","HitEffect","RandomRadiusAffectsOnlyGfx","FreezeTimeMS"
+"String","String","String","boolean","int","int","String","int","int","int","int","int","int","int","String","int","int","int","int","int","int","int","int","int","int","int","int","String","String","String","String","String","int","String","String","String","boolean","int"
+"LighningStorm","TID_LIGHTNING_STORM","TID_LIGHTNING_STORM_INFO",,1,1,"Gold",15000,1,1800,800,1000,1100,24,"Elixir",200000,0,0,0,,,,50,200,6,350,400,"sc/ui.sc","icon_spell_lightning","icon_spell_lightning","Lightning predeploy","Lightning area Halloween",,,"Lightning Spell","Lightning Spell Hit Halloween","false",
+,,,,,1,,16500,,,,,,48,,500000,0,0,0,,,,55,200,6,350,400,,"icon_spell_lightning2",,,,,,,,,
+,,,,,2,,18000,,,,,,72,,1000000,0,0,0,,,,60,200,6,350,400,,"icon_spell_lightning3",,,,,,,,,
+,,,,,3,,20000,,,,,,96,,2000000,0,0,0,,,,65,200,6,350,400,,"icon_spell_lightning4",,,,,,,,,
+,,,,,6,,22000,,,,,,336,,8000000,0,0,0,,,,70,200,6,350,400,,"icon_spell_lightning5",,,,,,,,,
+,,,,,8,,24000,,,,,,,,,0,0,0,,,,75,200,6,350,400,,"icon_spell_lightning6",,,,,,,,,
+"HealingWave","TID_HEALING_WAVE","TID_HEALING_WAVE_INFO",,2,2,"Gold",15000,1,1800,800,300,400,24,"Elixir",300000,0,0,0,,,,-15,500,40,200,300,"sc/ui.sc","icon_spell_healing","icon_spell_healing","Heal predeploy","Heal area",,"Heal area top",,"Heal spell","true",
+,,,,,2,,16500,,,,,,48,,600000,0,0,0,,,,-20,500,40,200,300,,"icon_spell_healing2",,,,,,,,,
+,,,,,4,,18000,,,,,,72,,1200000,0,0,0,,,,-25,500,40,200,300,,"icon_spell_healing3",,,,,,,,,
+,,,,,5,,20000,,,,,,120,,2400000,0,0,0,,,,-30,500,40,200,300,,"icon_spell_healing4",,,,,,,,,
+,,,,,6,,22000,,,,,,168,,4800000,0,0,0,,,,-35,500,40,200,300,,"icon_spell_healing5",,,,,,,,,
+,,,,,7,,24000,,,,,,,,,0,0,0,,,,-40,500,40,200,300,,"icon_spell_healing6",,,,,,,,,
+"Haste","TID_HASTE","TID_HASTE_INFO",,3,3,"Gold",23000,1,2700,800,300,400,48,"Elixir",450000,1000,20,10,,,130,0,500,60,400,300,"sc/ui.sc","icon_spell_rage","icon_spell_rage","Rage predeploy","Rage deploy",,"Rage deploy top",,,"true",
+,,,,,3,,25000,,,,,,72,,900000,1000,22,11,,,140,0,500,60,400,300,,"icon_spell_rage2",,,,,,,,,
+,,,,,4,,27000,,,,,,120,,1800000,1000,24,12,,,150,0,500,60,400,300,,"icon_spell_rage3",,,,,,,,,
+,,,,,5,,30000,,,,,,168,,3000000,1000,26,13,,,160,0,500,60,400,300,,"icon_spell_rage4",,,,,,,,,
+,,,,,6,,33000,,,,,,,,,1000,28,14,,,180,0,500,60,400,300,,"icon_spell_rage5",,,,,,,,,
+"Jump","TID_JUMP_SPELL","TID_JUMP_SPELL_INFO",,4,4,"Gold",23000,1,2700,800,300,400,120,"Elixir",4000000,0,0,0,100,1000,,0,500,66,400,300,"sc/ui.sc","icon_spell_jump","icon_spell_jump","Jump predeploy","Jump deploy lvl1",,"Jump deploy top lvl1",,,"true",
+,,,,,5,,29000,,,,,,,,,0,0,0,100,1000,,0,500,133,400,300,,"icon_spell_jump2","icon_spell_jump","Jump predeploy","Jump deploy lvl2",,"Jump deploy top lvl2",,,,
+"xmas","TID_XMAS_SPELL","TID_XMAS_SPELL_INFO","true",1,1,"Gold",19000,1,90000,800,4500,6000,,"Elixir",,0,0,0,,,,300,100,5,400,100,"sc/ui.sc","icon_spell_xmas","icon_spell_xmas","xmas predeploy","xmas Red Smoke",2500,"xmas test","xmas Drop Bombs","xmas boom","false",
+"Freeze","TID_FREEZE_SPELL","TID_FREEZE_SPELL_INFO",,5,8,"Gold",26000,1,2700,800,300,400,120,"Elixir",4000000,0,0,0,,,,0,350,1,400,0,"sc/ui.sc","icon_spell_freeze","icon_spell_freeze","Freeze predeploy","Freeze deploy lvl1",,"Freeze deploy2 lvl1",,,"true",4000
+,,,,,8,,29000,,,,,,240,,6000000,0,0,0,,,,0,350,1,400,0,,"icon_spell_freeze2",,,"Freeze deploy lvl2",,"Freeze deploy2 lvl2",,,,5000
+,,,,,8,,31000,,,,,,336,,8000000,0,0,0,,,,0,350,1,400,0,,"icon_spell_freeze3",,,"Freeze deploy lvl3",,"Freeze deploy2 lvl3",,,,6000
+,,,,,8,,33000,,,,,,,,,0,0,0,,,,0,350,1,400,0,,"icon_spell_freeze4",,,"Freeze deploy lvl4",,"Freeze deploy2 lvl4",,,,7000

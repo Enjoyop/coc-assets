@@ -1,0 +1,32 @@
+"Name","Character","IsDefaultSkin","EnabledByCalendar","TID","InfoTID","IconSWF","IconExportName","Geometry","Texture","Animation","AltAnimation","CameraDistance","ViewportWidth","ViewportHeight","DeploySfx","DeploySfxVolume","DieSfx","DieSfxVolume","CelebrateSfx","CelebrateSfxVolume"
+"String","String","boolean","boolean","String","String","String","String","String","String","String","String","int","int","int","String","int","String","int","String","int"
+"BarbarianKingDefault","Barbarian King","true",,"TID_BARBARIAN_KING",,"sc/info_barbarian.sc","unit_barbarianKing_big","sc3d/barbking_default_geo.scw","sc3d/barbking_default_01.pvr","BarbarianKingDefaultSkin",,10000,225,225,"sfx/barbarian_king_deploy.ogg",90,"sfx/barbarian_king_die_01.ogg",90,"sfx/barbarian_king_scream_01.ogg",80
+,,,,,,,,,,,,,,,,,,,"sfx/barbarian_king_deploy.ogg",90
+"BarbarianKingGladiator","Barbarian King",,,"TID_BARBARIAN_KING_GLADIATOR",,"sc/info_barbarian.sc","unit_barbarianKing_big","sc3d/barbking_gladiator_geo_dl_opt.scw","sc3d/barbking_gladiator_01_dl_opt.pvr","BarbarianKingGladiatorSkin",,10000,225,225,"sfx/barbarian_king_deploy.ogg",90,"sfx/barbarian_king_die_01.ogg",90,"sfx/barbarian_king_scream_01.ogg",80
+,,,,,,,,,,,,,,,,,,,"sfx/barbarian_king_deploy.ogg",90
+"ArcherQueenDefault","Archer Queen","true",,"TID_ARCHER_QUEEN",,"sc/info_archer.sc","unit_archerQueen_big","sc3d/archerqueen_default_geo.scw","sc3d/archerqueen_default_01.pvr","ArcherQueenDefaultSkin",,10000,225,225,"sfx/archer_queen_deploy_01.ogg",90,"sfx/archer_queen_die_01.ogg",80,"sfx/archer_queen_scream_01.ogg",90
+"GrandWardenDefault","Grand Warden","true",,"TID_GRAND_WARDEN",,"sc/info_ancientelder.sc","unit_elder_big","sc3d/barbking_default_geo.scw","sc3d/barbking_default_01.pvr","BarbarianKingDefaultSkin","BarbarianKingDefaultSkin",10000,225,225,,,,,,
+"BarbarianKingChronos001","Barbarian King",,"true",,,,,,,,,,,,,,,,,
+"BarbarianKingChronos002","Barbarian King",,"true",,,,,,,,,,,,,,,,,
+"BarbarianKingChronos003","Barbarian King",,"true",,,,,,,,,,,,,,,,,
+"BarbarianKingChronos004","Barbarian King",,"true",,,,,,,,,,,,,,,,,
+"BarbarianKingChronos005","Barbarian King",,"true",,,,,,,,,,,,,,,,,
+"BarbarianKingChronos006","Barbarian King",,"true",,,,,,,,,,,,,,,,,
+"BarbarianKingChronos007","Barbarian King",,"true",,,,,,,,,,,,,,,,,
+"BarbarianKingChronos008","Barbarian King",,"true",,,,,,,,,,,,,,,,,
+"ArcherQueenChronos001","Archer Queen",,"true",,,,,,,,,,,,,,,,,
+"ArcherQueenChronos002","Archer Queen",,"true",,,,,,,,,,,,,,,,,
+"ArcherQueenChronos003","Archer Queen",,"true",,,,,,,,,,,,,,,,,
+"ArcherQueenChronos004","Archer Queen",,"true",,,,,,,,,,,,,,,,,
+"ArcherQueenChronos005","Archer Queen",,"true",,,,,,,,,,,,,,,,,
+"ArcherQueenChronos006","Archer Queen",,"true",,,,,,,,,,,,,,,,,
+"ArcherQueenChronos007","Archer Queen",,"true",,,,,,,,,,,,,,,,,
+"ArcherQueenChronos008","Archer Queen",,"true",,,,,,,,,,,,,,,,,
+"GrandWardenChronos001","Grand Warden",,"true",,,,,,,,,,,,,,,,,
+"GrandWardenChronos002","Grand Warden",,"true",,,,,,,,,,,,,,,,,
+"GrandWardenChronos003","Grand Warden",,"true",,,,,,,,,,,,,,,,,
+"GrandWardenChronos004","Grand Warden",,"true",,,,,,,,,,,,,,,,,
+"GrandWardenChronos005","Grand Warden",,"true",,,,,,,,,,,,,,,,,
+"GrandWardenChronos006","Grand Warden",,"true",,,,,,,,,,,,,,,,,
+"GrandWardenChronos007","Grand Warden",,"true",,,,,,,,,,,,,,,,,
+"GrandWardenChronos008","Grand Warden",,"true",,,,,,,,,,,,,,,,,

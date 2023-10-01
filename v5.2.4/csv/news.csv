@@ -1,0 +1,5 @@
+"Name","ID","Enabled","EnabledIOS","EnabledAndroid","TID","InfoTID","ButtonTID","ButtonURL","ItemSWF","ItemExportName","IconSWF","IconExportName","IncludedCountries","ExcludedCountries","MinLevel","MaxDiamonds","ClickToDismiss"
+"String","int","Boolean","Boolean","Boolean","String","String","String","String","String","String","String","String","String","String","int","int","Boolean"
+"PuzzleAndDragon",0,"FALSE","TRUE","FALSE","TID_XP_TITLE_PUZZLEANDDRAGONS","TID_XP_TEXT_PUZZLEANDDRAGONS","TID_XP_BUTTON_PUZZLEANDDRAGONS","https://itunes.apple.com/us/app/puzzle-dragons-english/id563474464?mt=8","sc/ui.sc","promo_entry","sc/news.sc","promo_entry_image","US",,4,6000,"TRUE"
+"TestNews",7,"TRUE","TRUE","FALSE","TID_NEWS_UPDATE_INFO_TITLE","TID_NEWS_UPDATE_INFO_TEXT",,,"sc/ui.sc","news_entry","sc/ui.sc","halloween_news_icon",,,0,0,"FALSE"
+"TestNewsAndroid",8,"TRUE","FALSE","TRUE","TID_NEWS_UPDATE_INFO_TITLE","TID_NEWS_UPDATE_INFO_TEXT",,,"sc/ui.sc","news_entry","sc/buildings.sc","evil_airTrap_setup",,,0,0,"FALSE"

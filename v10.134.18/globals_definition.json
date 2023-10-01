@@ -1,0 +1,136 @@
+{
+	"Globals": {
+		"parameters": {
+			"GiftPackExtension": {
+				"type": "string"
+			},
+			"DuelLootLimitCooldownInMinutes": {
+				"type": "number",
+				"min": 0,
+				"max": 10000
+			},
+			"DuelBonusLimitWinsPerDay": {
+				"type": "number",
+				"min": 1,
+				"max": 100
+			},
+			"DuelBonusPercentWin": {
+				"type": "number",
+				"min": 0,
+				"max": 10000
+			},
+			"DuelBonusPercentLose": {
+				"type": "number",
+				"min": 0,
+				"max": 10000
+			},
+			"DuelBonusPercentDraw": {
+				"type": "number",
+				"min": 0,
+				"max": 10000
+			},
+			"DuelBonusMaxDiamondCostPercent": {
+				"type": "number",
+				"min": 1,
+				"max": 10000
+			},
+			"AllianceGamesPreparationTimeInMinutes": {
+				"type": "number",
+				"min": 0,
+				"max": 10000
+			},
+			"AllianceGamesMinTaskDifficulty": {
+				"type": "number",
+				"min": 0,
+				"max": 10000
+			},
+			"AllianceGamesMaxTaskDifficulty": {
+				"type": "number",
+				"min": 0,
+				"max": 10000
+			},
+			"AllianceGamesPointsPerPlayer": {
+				"type": "number",
+				"min": 0,
+				"max": 10000
+			},
+			"AllianceGamesInitialTaskTrashCooldownInMinutes": {
+				"type": "number",
+				"min": 0,
+				"max": 10000
+			},
+			"AllianceGamesTaskTrashCooldownIncrementInMinutes": {
+				"type": "number",
+				"min": 0,
+				"max": 10000
+			}
+		}
+	},
+	"Village1": {
+		"description": "Parameters for village1",
+		"parameters": {
+			"SpecialObstacle": {
+				"type": "string"
+			}
+		}
+	},
+	"Village2": {
+		"description": "Parameters for village2",
+		"parameters": {
+			"TownHallMaxLevel": {
+				"type": "number",
+				"min": 0,
+				"max": 8
+			},
+			"ScoreChangeForLosing": {
+				"type": "list",
+				"listItemType": {
+					"type": "object",
+					"typeName": "Pair",
+					"fields": {
+						"Milestone": {
+							"type": "number",
+							"min": 0,
+							"max": 10000
+						},
+						"Percentage": {
+							"type": "number",
+							"min": 0,
+							"max": 100
+						}
+					}
+				}
+			},
+			"StrengthRangeForScore": {
+				"type": "list",
+				"listItemType": {
+					"type": "object",
+					"typeName": "Pair",
+					"fields": {
+						"Milestone": {
+							"type": "number",
+							"min": 0,
+							"max": 10000
+						},
+						"Percentage": {
+							"type": "number",
+							"min": 0,
+							"max": 10000
+						}
+					}
+				}
+			}
+		}
+	},
+	"KillSwitches": {
+		"description": "Various kill switches",
+		"parameters": {
+			"BattleWaitForProjectileDestruction": {
+				"type": "boolean"
+			},
+			"BattleWaitForDieDamage": {
+				"type": "boolean"
+			}
+		}
+	}
+}

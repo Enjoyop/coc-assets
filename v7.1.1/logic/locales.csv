@@ -1,0 +1,19 @@
+"Name","Description","IconSWF","IconExportName","HasEvenSpaceCharacters","UsedSystemFont","TestLanguage"
+"String","String","String","String","boolean","String","boolean"
+"EN",,"sc/ui.sc","flag_gb",,,
+"FR",,"sc/ui.sc","flag_france",,,
+"DE",,"sc/ui.sc","flag_germany",,,
+"ES",,"sc/ui.sc","flag_spain",,,
+"IT",,"sc/ui.sc","flag_italy",,,
+"NL",,"sc/ui.sc","flag_netherlands",,,
+"NO",,"sc/ui.sc","flag_norway",,,
+"PT",,"sc/ui.sc","flag_brazil",,,
+"TR",,"sc/ui.sc","flag_turkey",,,
+"CN",,"sc/ui.sc","flag_china","TRUE","STHeitiSC-Medium",
+"JP",,"sc/ui.sc","flag_japan","TRUE","HiraKakuProN-W6",
+"KR",,"sc/ui.sc","flag_southkorea","TRUE",,
+"RU",,"sc/ui.sc","flag_ru",,,
+"TEXT","Longest text","sc/ui.sc","flag_southkorea",,,"TRUE"
+"WORD","Longest word","sc/ui.sc","flag_southkorea",,,"TRUE"
+"DOUBLE","Double String","sc/ui.sc","flag_southkorea",,,"TRUE"
+"EMPTY","Empty texts","sc/ui.sc","flag_southkorea",,,"TRUE"
