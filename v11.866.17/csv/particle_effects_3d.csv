@@ -1,0 +1,9 @@
+"Name","Emitter","AttachToBone","LockTransformation","ParticleSizeForBoundsCheck","BoundsCheck"
+"String","String","String","boolean","int","boolean"
+"test","test","L_gunbone_01_s","true",200,"true"
+,"test2","L_gunbone_01_s","true",200,"true"
+"skeleton_Glow","test2","spine_mid_s","true",200,
+"autumn_Walk","hero_autumn_walk","back_item_03_s",,600,"true"
+"empty","empty","spine_mid_s","true",200,"true"
+"autumn_Celebrate","hero_autumn_burst_3D","spine_mid_s",,1800,"true"
+"pekka_sword","hero_pekka_sword","L_gunbone_01_s","true",300,"true"

@@ -1,0 +1,13 @@
+"Name","Emitter","AttachToBone","LockTransformation","OnTop","BoundsCheck","ParticleSizeForBoundsCheck"
+"String","String","String","boolean","boolean","boolean","int"
+"autumn_Celebrate","hero_autumn_burst_3D","spine_mid_s","true","false","true",1800
+"autumn_Walk","hero_autumn_walk","back_item_03_s","true","false","true",600
+"empty","empty","spine_mid_s","true","false","true",200
+"ice_Celebrate","hero_ice_burst","spine_mid_s","true","false","true",2000
+,"hero_ice_snow_spiral",,"true","false","true",0
+"ice_mist","hero_ice_mist","spine_mid_s","true","false","true",900
+"jolly_sword","hero_jolly_sword","L_gunbone_01_s","true","false","true",300
+"pekka_sword","hero_pekka_sword","L_gunbone_01_s","true","false","true",300
+"skeleton_Glow","test2","spine_mid_s","true","false","true",200
+"test","test","L_gunbone_01_s","true","false","true",200
+,"test2","L_gunbone_01_s","true","false","true",200

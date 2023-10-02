@@ -1,0 +1,32 @@
+"Name","FileName","LocalizedName","HasEvenSpaceCharacters","isRTL","UsedSystemFont","HelpshiftSDKLanguage","HelpshiftSDKLanguageAndroid","SortOrder","TestLanguage","TestExcludes","BoomboxEnabled","BoomboxUrl","BoomboxStagingUrl","BoomboxForYouEnabled","BoomboxCommunityEnabled","HelpshiftLanguageTagOverride","ForcedFontName","SelfHelpUrl"
+"String","String","String","boolean","boolean","String","String","String","int","boolean","String","boolean","String","String","boolean","boolean","String","String","String"
+"EN","localization/texts.csv","English",,,,"en",,1,,,"true","https://inbox.clashofclans.com","https://inbox-staging.clashofclans.com","true","true","EN",,"https://ingame.help.supercellsupport.com/clash-of-clans/en/index.html"
+"FR","localization/texts.csv","Français",,,,"fr",,2,,,"true","https://inbox.clashofclans.com/fr","https://inbox-staging.clashofclans.com/fr",,"true","FR",,"https://ingame.help.supercellsupport.com/clash-of-clans/fr/index.html"
+"DE","localization/texts.csv","Deutsch",,,,"de",,3,,,"true","https://inbox.clashofclans.com/de","https://inbox-staging.clashofclans.com/de",,"true","DE",,"https://ingame.help.supercellsupport.com/clash-of-clans/de/index.html"
+"ES","localization/texts.csv","Español",,,,"es",,4,,,"true","https://inbox.clashofclans.com/es","https://inbox-staging.clashofclans.com/es",,"true","ES",,"https://ingame.help.supercellsupport.com/clash-of-clans/es/index.html"
+"IT","localization/texts.csv","Italiano",,,,"it",,5,,,"true","https://inbox.clashofclans.com/it","https://inbox-staging.clashofclans.com/it",,"true","IT",,"https://ingame.help.supercellsupport.com/clash-of-clans/it/index.html"
+"NL","localization/texts.csv","Nederlands",,,,"nl",,6,,,"true","https://inbox.clashofclans.com","https://inbox-staging.clashofclans.com/nl","true","true","NL",,"https://ingame.help.supercellsupport.com/clash-of-clans/nl/index.html"
+"NO","localization/texts.csv","Norsk",,,,,,7,,,"true","https://inbox.clashofclans.com","https://inbox-staging.clashofclans.com/no","true","true","NO",,"https://ingame.help.supercellsupport.com/clash-of-clans/en/index.html"
+"PT","localization/texts.csv","Português",,,,"pt","pt_Br",8,,,"true","https://inbox.clashofclans.com/pt","https://inbox-staging.clashofclans.com/pt",,"true","PT",,"https://ingame.help.supercellsupport.com/clash-of-clans/pt/index.html"
+"TR","localization/texts.csv","Türkçe",,,,"tr",,9,,,"true","https://inbox.clashofclans.com","https://inbox-staging.clashofclans.com/tr","true","true","TR",,"https://ingame.help.supercellsupport.com/clash-of-clans/tr/index.html"
+"CN","localization/texts.csv","简体中文","TRUE",,"STHeitiSC-Medium","zh-Hans","zh_CN",11,,,"true","https://clashofclans.scinbox.qq.com","https://testclashofclans.scinbox.qq.com","true",,"CN",,
+"JP","localization/texts.csv","日本語","TRUE",,"HiraKakuProN-W6","ja",,13,,,"true","https://inbox.clashofclans.com/ja","https://inbox-staging.clashofclans.com/ja",,"true","JP",,"https://ingame.help.supercellsupport.com/clash-of-clans/ja/index.html"
+"KR","localization/texts.csv","한국어","TRUE",,,"ko",,14,,,"true","https://inbox.clashofclans.com/ko","https://inbox-staging.clashofclans.com/ko",,"true","KR",,"https://ingame.help.supercellsupport.com/clash-of-clans/ko/index.html"
+"RU","localization/texts.csv","Pусский",,,,"ru",,10,,,"true","https://inbox.clashofclans.com","https://inbox-staging.clashofclans.com/ru","true","true","RU",,"https://ingame.help.supercellsupport.com/clash-of-clans/ru/index.html"
+"TEXT",,"Longest Text",,,,"zh-hans","zh_CN",1000,"TRUE","AR",,"http://supercell-inbox-reef-testing.s3-website-eu-west-1.amazonaws.com","https://supercell-inbox-reef-testing.s3-website-eu-west-1.amazonaws.com","true",,"EN",,
+,,,,,,,,,,"FA",,,,,,,,
+"WORD",,"Longest Word",,,,"cn","zh_TW",1001,"TRUE","AR",,,,,,"EN",,
+,,,,,,,,,,"FA",,,,,,,,
+"DOUBLE",,"Double String",,,,"zh-Hans","zh_CN",1002,"TRUE",,,,,,,"EN",,
+"EMPTY",,"Empty Texts",,,,"ko","ko",1003,"TRUE",,,,,,,"EN",,
+"CNT","localization/texts.csv","繁體中文","TRUE",,"STHeitiSC-Medium","zh-Hant","zh_TW",12,,,"true","https://inbox.clashofclans.com/zh","https://inbox-staging.clashofclans.com/zh",,"true","CNT",,"https://ingame.help.supercellsupport.com/clash-of-clans/zh/index.html"
+"AR","localization/texts.csv","العربية",,"TRUE",,"ar",,15,,,"true","https://inbox.clashofclans.com","https://inbox-staging.clashofclans.com/ar","true","true","AR",,"https://ingame.help.supercellsupport.com/clash-of-clans/ar/index.html"
+"FA","localization/texts.csv","فارسی",,"TRUE",,,,16,,,"true","https://inbox.clashofclans.com","https://inbox-staging.clashofclans.com/fa","true","true",,,"https://ingame.help.supercellsupport.com/clash-of-clans/fa/index.html"
+"ID","localization/texts.csv","Bahasa Indonesia",,,,"id",,17,,,"true","https://inbox.clashofclans.com/id","https://inbox-staging.clashofclans.com/id",,"true",,,"https://ingame.help.supercellsupport.com/clash-of-clans/id/index.html"
+"MS","localization/texts.csv","Bahasa Melayu",,,,"ms",,18,,,"true","https://inbox.clashofclans.com","https://inbox-staging.clashofclans.com/ms","true","true",,,"https://ingame.help.supercellsupport.com/clash-of-clans/ms/index.html"
+"TEST",,"Test Language",,,,,,999,"TRUE",,,,,,,,,
+"VI","localization/texts.csv","Tiếng Việt",,,,"vi",,19,,,"true","https://inbox.clashofclans.com","https://inbox-staging.clashofclans.com/vi","true","true",,,"https://ingame.help.supercellsupport.com/clash-of-clans/vi/index.html"
+"DOUBLEDOUBLE",,"Double Double String",,,,"zh-Hans","zh_CN",1004,"TRUE",,,,,,,,,
+"QUADRUPLE",,"Quad String",,,,"zh-Hans","zh_CN",1005,"TRUE",,,,,,,,,
+"TH","localization/texts.csv","ภาษาไทย",,,"HelveticaNeue-Bold","th",,20,,,"true","https://inbox.clashofclans.com","https://inbox-staging.clashofclans.com/th","true","true",,,"https://ingame.help.supercellsupport.com/clash-of-clans/th/index.html"
+"FI","localization/texts.csv","Suomi",,,,"fi",,21,,,"true","https://inbox.clashofclans.com","https://inbox-staging.clashofclans.com/fi","true","true",,,"https://ingame.help.supercellsupport.com/clash-of-clans/fi/index.html"

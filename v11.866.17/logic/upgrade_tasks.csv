@@ -1,0 +1,7 @@
+"Arto Upgrade Tasks",,,,,,,,,,,,,
+,"Name","TaskType","ProgressType","Set","TID","IconSWF","IconExportName","Quantity","Quantity2","Data1","Data2","Disabled","FluffTID"
+,"String","String","String","String","String","String","String","int","int","String","String","boolean","String"
+,"GearUp","GearUp","Accumulative","Regular","TID_ARTO_TASK_GEAR_UP","sc/ui.sc","req_icon_gearup",3,,,,,"TID_ARTO_TASK_GEAR_UP_FLUFF"
+,"UpgradeTroop","UpgradeUnit","Accumulative","Regular","TID_ARTO_TASK_UPGRADE_GENERIC","sc/ui.sc","req_icon_cannon_cart",1,18,"Moving Cannon",,,"TID_ARTO_TASK_CANNON_CART_FLUFF"
+,"UpgradeMegaTesla","UpgradeBuilding","Accumulative","Regular","TID_ARTO_TASK_UPGRADE_GENERIC","sc/ui.sc","req_icon_mega_tesla",1,9,"Mega Tesla",,,"TID_ARTO_TASK_MEGA_TESLA_FLUFF"
+,"UpgradeWarMachine","UpgradeHero","Accumulative","Regular","TID_ARTO_TASK_UPGRADE_GENERIC","sc/ui.sc","req_icon_battle_machine",1,30,"Warmachine",,,"TID_ARTO_TASK_BATTLE_MACHINE_FLUFF"

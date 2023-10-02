@@ -1,0 +1,3 @@
+"Name","EnabledByCalendar","DefaultBackground","FreeBackground","TID","SWF","Foreground","Background"
+"String","boolean","boolean","boolean","String","String","String","String"
+"Default",,"true","true",,"sc/background_player.sc","Player_Background",
