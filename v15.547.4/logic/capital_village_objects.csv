@@ -1,0 +1,4 @@
+"Name","Disabled","TID","InfoTID","SWF","ExportName","TileX100","TileY100","AutomaticUpgrades","BuildTimeD","BuildTimeH","BuildTimeM","BuildTimeS","RequiresBuilder","BuildResource","BuildCost","TownHallLevel","PickUpEffect","Animations","AnimX","AnimY","AnimID","AnimDir","AnimVisibilityOdds","HasInfoScreen","VillageType","UnitHousing","HousesUnits","AllianceBuilding"
+"String","boolean","String","String","String","String","int","int","boolean","int","int","int","int","boolean","String","int","int","String","String","int","int","int","int","int","boolean","int","int","boolean","boolean"
+"BalloonBus",,"TID_BALLOON_BUS","TID_BALLOON_BUS","sc/content.sc","balloon_bus1_broken",3400,5750,,,,,,"false",,,,"Tap Ship",,,,,,,"FALSE",,,,
+,,,,"sc/content.sc","balloon_bus1",3400,5750,,,,,,,,,,,,,,,,,,,,,

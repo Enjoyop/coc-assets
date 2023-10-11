@@ -1,0 +1,4 @@
+"Name","SWF","ExportName","ScaleTimeline","UseDirections","ParticleEmitter","Effect","StartHeight","IsBallistic","ShadowSWF","ShadowExportName","UseRotate","DirectionFrame","PlayOnce","UseTopLayer","Scale","BallisticHeight","TrajectoryStyle","DestroyedEffect","BounceEffect","StartOffsetFromGunBone"
+"String","String","String","boolean","boolean","String","String","int","boolean","String","String","boolean","boolean","boolean","boolean","int","int","int","String","String","boolean"
+"ArcherQueenCNY arrow","sc/buildings.sc","hero_cny_multi_arrow",,,,,65,,"sc/buildings.sc","bolt_projectile_shadow","true",,,,,,,,,
+"ArcherQueenCNY arrow rage","sc/buildings.sc","hero_cny_multi_arrow_rage",,,,,65,,"sc/buildings.sc","bolt_projectile_shadow","true",,,,,,,,,

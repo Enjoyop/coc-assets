@@ -1,0 +1,147 @@
+{
+	"Globals": {
+		"GiftPackExtension": "",
+		"DuelLootLimitCooldownInMinutes": 1320,
+		"DuelBonusLimitWinsPerDay": 3,
+		"DuelBonusPercentWin": 100,
+		"DuelBonusPercentLose": 0,
+		"DuelBonusPercentDraw": 0,
+		"DuelBonusMaxDiamondCostPercent": 10
+	},
+	"KillSwitches": {
+		"BattleWaitForProjectileDestruction": true,
+		"BattleWaitForDieDamage": true,
+		"MinRangeForAvoidingWallsInAttackPositionSelection": 1500,
+		"AirWardenRetargetingDelay": 800,
+		"WardenGroupRefreshInterval": 1800,
+		"BuildingClosestPointFix": true,
+		"AccurateTroopMovement": true,
+		"AccuratePathLineOfSight": true,
+		"CornerCuttingForSieges": true
+	},
+	"Village2": {
+		"StrengthRangeForScore": [
+			{
+				"Percentage": 60,
+				"Milestone": 0
+			},
+			{
+				"Percentage": 80,
+				"Milestone": 200
+			},
+			{
+				"Percentage": 100,
+				"Milestone": 400
+			},
+			{
+				"Percentage": 120,
+				"Milestone": 600
+			},
+			{
+				"Percentage": 140,
+				"Milestone": 800
+			},
+			{
+				"Percentage": 160,
+				"Milestone": 1000
+			},
+			{
+				"Percentage": 180,
+				"Milestone": 1200
+			},
+			{
+				"Percentage": 200,
+				"Milestone": 1400
+			},
+			{
+				"Percentage": 400,
+				"Milestone": 1600
+			},
+			{
+				"Percentage": 600,
+				"Milestone": 1800
+			},
+			{
+				"Percentage": 1000,
+				"Milestone": 2000
+			}
+		],
+		"TownHallMaxLevel": 9,
+		"ScoreChangeForLosing": [
+			{
+				"Percentage": 0,
+				"Milestone": 0
+			},
+			{
+				"Percentage": 30,
+				"Milestone": 400
+			},
+			{
+				"Percentage": 55,
+				"Milestone": 800
+			},
+			{
+				"Percentage": 70,
+				"Milestone": 1200
+			},
+			{
+				"Percentage": 85,
+				"Milestone": 1600
+			},
+			{
+				"Percentage": 95,
+				"Milestone": 2000
+			},
+			{
+				"Percentage": 100,
+				"Milestone": 2400
+			}
+		]
+	},
+	"Village1": {
+		"LegendLeagueTrophyChange": [
+			{
+				"Min": 0,
+				"DPPerTrophy": 10
+			},
+			{
+				"Min": 5,
+				"DPPerTrophy": 9
+			},
+			{
+				"Min": 16,
+				"DPPerTrophy": 3
+			},
+			{
+				"Min": 40,
+				"DPPerTrophy": 0
+			}
+		],
+		"LegendLeagueDailyAttacks": [
+			{
+				"Trophies": 1,
+				"Count": 8
+			}
+		]
+	},
+	"RegionalRules": {
+		"AgeRestrictions": [
+			{
+				"Country": "US",
+				"Age": 16
+			}
+		],
+		"GlobalAgeRestriction": 16,
+		"GlobalAskAgeTutorial": false
+	},
+	"MinVersion": {
+		"BaseVersion": "",
+		"GlobalMinimumVersion": 0,
+		"PlatformMinimumVersions": [
+			{
+				"Platform": "iOS",
+				"MinimumVersion": 0
+			}
+		]
+	}
+}

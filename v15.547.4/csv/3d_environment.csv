@@ -1,0 +1,4 @@
+"Name","Diffuse","DiffuseMultiplier","DiffuseMenu","DiffuseMenuMultiplier","Specular","SpecularMultiplier","SpecularMenu","SpecularMenuMultiplier","Tonemap"
+"String","String","float","String","float","String","float","String","float","boolean"
+"Default","sc3d/irradiance_game.png",2,"sc3d/irradiance_menu.png",2,"sc3d/env_game.png",16,"sc3d/env_menu.png",16,"true"
+"BB","sc3d/irradiance_game_bb.png",2,"sc3d/irradiance_menu_bb.png",2,"sc3d/env_game_bb.png",16,"sc3d/env_menu_bb.png",16,"true"

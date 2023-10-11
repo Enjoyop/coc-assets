@@ -1,0 +1,12 @@
+"Name","BuilderHallLevel","DefaultScenery","Defenses","Traps","Elixir Pump2","Elixir Storage2","Gold Mine2","Gold Storage2","WallStraight","Troop Housing2"
+"String","int","String","int","int","int","int","int","int","int","int"
+1,6,"BBDefault",13,12,1,1,1,1,100,4
+,7,,,,,,,,,
+,8,,,,,,,,,
+,9,,14,,,,,,,
+,10,,,,,,,,,
+2,6,"BB_Stage2",13,12,1,1,1,1,100,1
+,7,,,,,,,,,2
+,8,,,,2,,2,,,
+,9,,14,,,,,,,
+,10,,,,,,,,,
