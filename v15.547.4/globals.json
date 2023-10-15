@@ -1,0 +1,173 @@
+{
+	"Globals": {
+		"DuelBonusMaxDiamondCostPercent": 100,
+		"GiftPackExtension": "xmas",
+		"DuelBonusPercentDraw": 0,
+		"DuelBonusLimitWinsPerDay": 3,
+		"DuelLootLimitCooldownInMinutes": 1320,
+		"DuelBonusPercentLose": 0,
+		"DuelBonusPercentWin": 100
+	},
+	"MinVersion": {
+		"BaseVersion": "15.292",
+		"PlatformMinimumVersions": [
+			{
+				"Platform": "iOS",
+				"MinimumVersion": 12
+			},
+			{
+				"Platform": "android",
+				"MinimumVersion": 12
+			},
+			{
+				"Platform": "amazon",
+				"MinimumVersion": 12
+			}
+		]
+	},
+	"KillSwitches": {
+		"AirWardenRetargetingDelay": 800,
+		"CornerCuttingForSieges": true,
+		"WardenGroupRefreshInterval": 1800,
+		"BattleWaitForDieDamage": true,
+		"AccuratePathLineOfSight": true,
+		"MinRangeForAvoidingWallsInAttackPositionSelection": 1500,
+		"RemoveInvalidBlockingObstacles": true,
+		"AccurateTroopMovement": true,
+		"BattleWaitForProjectileDestruction": true,
+		"BuildingClosestPointFix": true,
+		"SiegeUnloadMaxTime": 1750
+	},
+	"Village2": {
+		"StrengthRangeForScore": [
+			{
+				"Percentage": 80,
+				"Milestone": 0
+			},
+			{
+				"Percentage": 80,
+				"Milestone": 200
+			},
+			{
+				"Percentage": 100,
+				"Milestone": 400
+			},
+			{
+				"Percentage": 120,
+				"Milestone": 600
+			},
+			{
+				"Percentage": 140,
+				"Milestone": 800
+			},
+			{
+				"Percentage": 160,
+				"Milestone": 1000
+			},
+			{
+				"Percentage": 180,
+				"Milestone": 1200
+			},
+			{
+				"Percentage": 200,
+				"Milestone": 1400
+			},
+			{
+				"Percentage": 400,
+				"Milestone": 1600
+			},
+			{
+				"Percentage": 600,
+				"Milestone": 1800
+			},
+			{
+				"Percentage": 1000,
+				"Milestone": 2000
+			},
+			{
+				"Percentage": 10000,
+				"Milestone": 10000
+			}
+		],
+		"ScoreChangeForLosing": [
+			{
+				"Percentage": 0,
+				"Milestone": 0
+			},
+			{
+				"Percentage": 30,
+				"Milestone": 400
+			},
+			{
+				"Percentage": 55,
+				"Milestone": 800
+			},
+			{
+				"Percentage": 70,
+				"Milestone": 1200
+			},
+			{
+				"Percentage": 85,
+				"Milestone": 1600
+			},
+			{
+				"Percentage": 95,
+				"Milestone": 2000
+			},
+			{
+				"Percentage": 100,
+				"Milestone": 2400
+			}
+		]
+	},
+	"RegionalRules": {
+		"AgeRestrictions": [
+			{
+				"Country": "US",
+				"Age": 16
+			},
+			{
+				"Country": "GB",
+				"Age": 16
+			},
+			{
+				"Country": "KR",
+				"Age": 16
+			}
+		],
+		"GlobalAskAgeTutorial": true,
+		"GlobalAgeRestriction": 16,
+		"ParentalConsent": [
+			{
+				"ConsentUrl": "",
+				"Country": "KR"
+			}
+		]
+	},
+	"Village1": {
+		"LegendLeagueTrophyChange": [
+			{
+				"Min": 0,
+				"DPPerTrophy": 10
+			},
+			{
+				"Min": 5,
+				"DPPerTrophy": 9
+			},
+			{
+				"Min": 16,
+				"DPPerTrophy": 3
+			},
+			{
+				"Min": 40,
+				"DPPerTrophy": 0
+			}
+		],
+		"LegendLeagueDailyAttacks": [
+			{
+				"Trophies": 1,
+				"Count": 8
+			}
+		]
+	}
+}
