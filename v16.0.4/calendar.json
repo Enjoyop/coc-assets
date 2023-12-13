@@ -1,0 +1,1046 @@
+{
+	"events": [
+		{
+			"type": 31,
+			"id": 36570,
+			"version": 1,
+			"variantId": 1,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20230901T052300.000Z",
+			"endTime": "20331001T052300.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/7c81155c-119f-4da3-ad5f-ee1b650c7d47_Clash_Gems_Box.png",
+				"ChecksumSha1": "32ba6e603a4da0e87395b88138835eb0464c6d17"
+			},
+			"billingPackage": "22000003",
+			"additionalValue": 50
+		},
+		{
+			"type": 31,
+			"id": 36571,
+			"version": 1,
+			"variantId": 1,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20230901T052300.000Z",
+			"endTime": "20331001T052300.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/8a3cd1fe-4313-4d4c-b584-34db333da08e_Clash_Gems_Pile.png",
+				"ChecksumSha1": "d5d3db55a3667eac19fe9a380695a2607f08e3c7"
+			},
+			"billingPackage": "22000000",
+			"additionalValue": 17
+		},
+		{
+			"type": 31,
+			"id": 36572,
+			"version": 1,
+			"variantId": 1,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20230901T052300.000Z",
+			"endTime": "20331001T052300.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/de8ca657-bcfe-4e28-8a57-48893e580beb_Clash_Gems_Sack.png",
+				"ChecksumSha1": "e19ce878105d39fabbcf16513aee7632b51a5dd2"
+			},
+			"billingPackage": "22000002",
+			"additionalValue": 45
+		},
+		{
+			"type": 31,
+			"id": 36573,
+			"version": 1,
+			"variantId": 1,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20230901T052300.000Z",
+			"endTime": "20331001T052300.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/0982794e-fc3b-4410-9219-166d01f4fefb_Clash_Gems_Bag.png",
+				"ChecksumSha1": "540633be804f9e60810304bf8e4ec7c25db3acee"
+			},
+			"billingPackage": "22000001",
+			"additionalValue": 40
+		},
+		{
+			"type": 31,
+			"id": 36574,
+			"version": 1,
+			"variantId": 1,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20230901T052300.000Z",
+			"endTime": "20331001T052300.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/94561c67-1012-4e36-8498-c83bdbc5b118_Clash_Gems_Chest.png",
+				"ChecksumSha1": "c5e878a97d7c860c4a839a722a05d0dcc592ff79"
+			},
+			"billingPackage": "22000004",
+			"additionalValue": 63
+		},
+		{
+			"type": 31,
+			"id": 36575,
+			"version": 1,
+			"variantId": 1,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20230901T052300.000Z",
+			"endTime": "20331001T052300.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/20e9c3df-0bd4-4f26-82b4-59da85d3d283_Clash_Gems_Pocket.png",
+				"ChecksumSha1": "fc3affaec94f29b8c118b8e6bbc310e4b306436e"
+			},
+			"billingPackage": "22000006"
+		},
+		{
+			"type": 1,
+			"id": 40359,
+			"version": 1,
+			"variantId": 1,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20231120T000000.000Z",
+			"endTime": "20331124T000000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"localizationFile": {
+				"Path": "/7164b811-8dca-418c-807e-f22e956ce66f_2023_Offer_ABtest.csv",
+				"ChecksumSha1": "2d1301030db546dd5664cc9c0fa3272451dfcd55"
+			},
+			"deliverables": [
+				{
+					"type": "2",
+					"building": "1000015",
+					"buildingNumber": 3,
+					"buildingLevel": 0
+				}
+			],
+			"billingPackage": "22000190",
+			"amountCanBePurchased": 1,
+			"priority": 970,
+			"availableInVillage": true,
+			"availableFrontPage": true,
+			"diamondCountOverride": 500,
+			"tid": "TID_DIAMOND_BUNDLE_BUILDER",
+			"shopItemBGTheme": "2",
+			"shopItemBGColor": "0",
+			"shopItemValueSticker": "2",
+			"value": 3,
+			"useGoldShopButton": true,
+			"useRibbon": true
+		},
+		{
+			"type": 1,
+			"id": 40360,
+			"version": 1,
+			"variantId": 1,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20231120T000000.000Z",
+			"endTime": "20331124T000000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"localizationFile": {
+				"Path": "/7164b811-8dca-418c-807e-f22e956ce66f_2023_Offer_ABtest.csv",
+				"ChecksumSha1": "2d1301030db546dd5664cc9c0fa3272451dfcd55"
+			},
+			"deliverables": [
+				{
+					"type": "2",
+					"building": "1000015",
+					"buildingNumber": 5,
+					"buildingLevel": 0
+				}
+			],
+			"billingPackage": "22000197",
+			"amountCanBePurchased": 1,
+			"priority": 970,
+			"availableInVillage": true,
+			"availableFrontPage": true,
+			"diamondCountOverride": 2000,
+			"tid": "TID_DIAMOND_BUNDLE_BUILDER",
+			"shopItemBGTheme": "2",
+			"shopItemBGColor": "0",
+			"shopItemValueSticker": "2",
+			"value": 3,
+			"useGoldShopButton": true,
+			"useRibbon": true
+		},
+		{
+			"type": 1,
+			"id": 40361,
+			"version": 1,
+			"variantId": 1,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20231120T000000.000Z",
+			"endTime": "20331124T000000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"localizationFile": {
+				"Path": "/7164b811-8dca-418c-807e-f22e956ce66f_2023_Offer_ABtest.csv",
+				"ChecksumSha1": "2d1301030db546dd5664cc9c0fa3272451dfcd55"
+			},
+			"deliverables": [
+				{
+					"type": "2",
+					"building": "1000015",
+					"buildingNumber": 4,
+					"buildingLevel": 0
+				}
+			],
+			"billingPackage": "22000192",
+			"amountCanBePurchased": 1,
+			"priority": 970,
+			"availableInVillage": true,
+			"availableFrontPage": true,
+			"diamondCountOverride": 1000,
+			"tid": "TID_DIAMOND_BUNDLE_BUILDER",
+			"shopItemBGTheme": "2",
+			"shopItemBGColor": "0",
+			"shopItemValueSticker": "2",
+			"value": 3,
+			"useGoldShopButton": true,
+			"useRibbon": true
+		},
+		{
+			"type": 11,
+			"id": 31032,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20211001T080100.000Z",
+			"endTime": "20301001T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"items": [
+				{
+					"deliverable": {
+						"type": "1",
+						"resource": "3000001",
+						"resourceAmount": 2500000
+					},
+					"cost": 25
+				},
+				{
+					"deliverable": {
+						"type": "1",
+						"resource": "3000002",
+						"resourceAmount": 2500000
+					},
+					"cost": 25
+				},
+				{
+					"deliverable": {
+						"type": "8",
+						"magicItem": "46000007",
+						"magicItemAmount": 1,
+						"source": 0
+					},
+					"cost": 10
+				},
+				{
+					"deliverable": {
+						"type": "8",
+						"magicItem": "46000006",
+						"magicItemAmount": 1,
+						"source": 0
+					},
+					"cost": 10
+				},
+				{
+					"deliverable": {
+						"type": "8",
+						"magicItem": "46000022",
+						"magicItemAmount": 1,
+						"source": 0
+					},
+					"cost": 20
+				},
+				{
+					"deliverable": {
+						"type": "8",
+						"magicItem": "46000014",
+						"magicItemAmount": 1,
+						"source": 0
+					},
+					"cost": 30
+				},
+				{
+					"deliverable": {
+						"type": "8",
+						"magicItem": "46000013",
+						"magicItemAmount": 10,
+						"source": 0
+					},
+					"cost": 50
+				},
+				{
+					"deliverable": {
+						"type": "8",
+						"magicItem": "46000015",
+						"magicItemAmount": 1,
+						"source": 0
+					},
+					"cost": 120,
+					"cooldownHours": 168
+				},
+				{
+					"deliverable": {
+						"type": "8",
+						"magicItem": "46000016",
+						"magicItemAmount": 1,
+						"source": 0
+					},
+					"cost": 120,
+					"cooldownHours": 168
+				},
+				{
+					"deliverable": {
+						"type": "8",
+						"magicItem": "46000017",
+						"magicItemAmount": 1,
+						"source": 0
+					},
+					"cost": 120,
+					"cooldownHours": 168
+				},
+				{
+					"deliverable": {
+						"type": "8",
+						"magicItem": "46000018",
+						"magicItemAmount": 1,
+						"source": 0
+					},
+					"cost": 165,
+					"cooldownHours": 168
+				},
+				{
+					"deliverable": {
+						"type": "3",
+						"decoration": "18000051"
+					},
+					"cost": 100
+				},
+				{
+					"deliverable": {
+						"type": "3",
+						"decoration": "18000050"
+					},
+					"cost": 250,
+					"minLeague": "48000009"
+				},
+				{
+					"deliverable": {
+						"type": "3",
+						"decoration": "18000049"
+					},
+					"cost": 500,
+					"minLeague": "48000012"
+				},
+				{
+					"deliverable": {
+						"type": "3",
+						"decoration": "18000048"
+					},
+					"cost": 1000,
+					"minLeague": "48000015"
+				},
+				{
+					"deliverable": {
+						"type": "3",
+						"decoration": "18000047"
+					},
+					"cost": 2000,
+					"minLeague": "48000018"
+				},
+				{
+					"deliverable": {
+						"type": "9",
+						"skin": "52000091"
+					},
+					"cost": 2000
+				},
+				{
+					"deliverable": {
+						"type": "9",
+						"skin": "52000102"
+					},
+					"cost": 2000
+				},
+				{
+					"deliverable": {
+						"type": "9",
+						"skin": "52000080"
+					},
+					"cost": 2000
+				},
+				{
+					"deliverable": {
+						"type": "9",
+						"skin": "52000112"
+					},
+					"cost": 2000
+				},
+				{
+					"deliverable": {
+						"type": "12",
+						"villageBackground": "60000042"
+					},
+					"cost": 2400
+				}
+			]
+		},
+		{
+			"type": 13,
+			"id": 40283,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "20231201T080100.000Z",
+			"startTime": "20231201T080100.000Z",
+			"endTime": "20240101T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/4c0e89da-7e56-4a78-9e53-7ff23d3da313_event_banner_Gingerbread_GW.png",
+				"ChecksumSha1": "56116911580217e52b80bf4e860e535e433c9fdb"
+			},
+			"scFile": {
+				"Path": "/6847a8a9-b5b1-40f4-a36c-76ce6ea47c54_battlepass_background_gold.sc",
+				"ChecksumSha1": "14b21f884914345a687f7fdb749fc201d32a4ea4"
+			},
+			"localizationFile": {
+				"Path": "/a3885bad-f229-47df-ade9-5f61dbb6ea07_December_Season___1___1_.csv",
+				"ChecksumSha1": "c489fe6b0581282f7c34a7a7e39e22c125abfcfb"
+			},
+			"weeks": [
+				{
+					"tasks": [
+						"53000363",
+						"53000414",
+						"53000013",
+						"53000303",
+						"53000203",
+						"53000135"
+					]
+				},
+				{
+					"tasks": [
+						"53000152",
+						"53000171",
+						"53000384",
+						"53000279",
+						"53000131",
+						"53000154"
+					]
+				},
+				{
+					"tasks": [
+						"53000366",
+						"53000387",
+						"53000190",
+						"53000349",
+						"53000071",
+						"53000076"
+					]
+				},
+				{
+					"tasks": [
+						"53000168",
+						"53000367",
+						"53000021",
+						"53000356",
+						"53000324",
+						"53000120"
+					]
+				}
+			],
+			"rewardTiers": [
+				{
+					"points": 0,
+					"premiumReward": "52000123",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 40,
+					"freeReward": "46000007",
+					"freeRewardAmount": 2,
+					"premiumReward": "37000040",
+					"premiumRewardAmount": 99
+				},
+				{
+					"points": 80,
+					"premiumReward": "37000034",
+					"premiumRewardAmount": 10
+				},
+				{
+					"points": 120,
+					"freeReward": "46000019",
+					"freeRewardAmount": 1,
+					"premiumReward": "37000074",
+					"premiumRewardAmount": 10
+				},
+				{
+					"points": 160,
+					"premiumReward": "37000037",
+					"premiumRewardAmount": 10
+				},
+				{
+					"points": 200,
+					"freeReward": "3000013",
+					"freeRewardAmount": 500,
+					"premiumReward": "37000039",
+					"premiumRewardAmount": 100000
+				},
+				{
+					"points": 240,
+					"premiumReward": "37000122",
+					"premiumRewardAmount": 40000
+				},
+				{
+					"points": 280,
+					"freeReward": "46000025",
+					"freeRewardAmount": 1,
+					"premiumReward": "46000024",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 320,
+					"premiumReward": "46000000",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 360,
+					"freeReward": "46000006",
+					"freeRewardAmount": 1,
+					"premiumReward": "46000005",
+					"premiumRewardAmount": 2
+				},
+				{
+					"points": 400,
+					"premiumReward": "37000123",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 460,
+					"freeReward": "46000022",
+					"freeRewardAmount": 1,
+					"premiumReward": "46000021",
+					"premiumRewardAmount": 2
+				},
+				{
+					"points": 520,
+					"premiumReward": "46000013",
+					"premiumRewardAmount": 5
+				},
+				{
+					"points": 580,
+					"freeReward": "46000023",
+					"freeRewardAmount": 1,
+					"premiumReward": "37000039",
+					"premiumRewardAmount": 150000
+				},
+				{
+					"points": 640,
+					"premiumReward": "37000122",
+					"premiumRewardAmount": 60000
+				},
+				{
+					"points": 700,
+					"freeReward": "46000005",
+					"freeRewardAmount": 1,
+					"premiumReward": "37000124",
+					"premiumRewardAmount": 2
+				},
+				{
+					"points": 760,
+					"premiumReward": "37000125",
+					"premiumRewardAmount": 4
+				},
+				{
+					"points": 820,
+					"freeReward": "46000021",
+					"freeRewardAmount": 1,
+					"premiumReward": "37000034",
+					"premiumRewardAmount": 15
+				},
+				{
+					"points": 880,
+					"premiumReward": "37000074",
+					"premiumRewardAmount": 15
+				},
+				{
+					"points": 940,
+					"freeReward": "3000013",
+					"freeRewardAmount": 1000,
+					"premiumReward": "37000037",
+					"premiumRewardAmount": 15
+				},
+				{
+					"points": 1000,
+					"premiumReward": "46000008",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 1080,
+					"freeReward": "3000001",
+					"freeRewardAmount": 1000000,
+					"premiumReward": "46000009",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 1160,
+					"premiumReward": "37000039",
+					"premiumRewardAmount": 200000
+				},
+				{
+					"points": 1240,
+					"freeReward": "3000002",
+					"freeRewardAmount": 1000000,
+					"premiumReward": "37000122",
+					"premiumRewardAmount": 80000
+				},
+				{
+					"points": 1320,
+					"premiumReward": "3000013",
+					"premiumRewardAmount": 2000
+				},
+				{
+					"points": 1400,
+					"freeReward": "3000007",
+					"freeRewardAmount": 1000000,
+					"premiumReward": "46000011",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 1480,
+					"premiumReward": "37000034",
+					"premiumRewardAmount": 20
+				},
+				{
+					"points": 1560,
+					"freeReward": "3000008",
+					"freeRewardAmount": 1000000,
+					"premiumReward": "37000074",
+					"premiumRewardAmount": 20
+				},
+				{
+					"points": 1640,
+					"premiumReward": "37000037",
+					"premiumRewardAmount": 20
+				},
+				{
+					"points": 1720,
+					"freeReward": "3000003",
+					"freeRewardAmount": 10000,
+					"premiumReward": "46000012",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 1800,
+					"premiumReward": "46000002",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 1880,
+					"freeReward": "3000001",
+					"freeRewardAmount": 2000000,
+					"premiumReward": "37000039",
+					"premiumRewardAmount": 300000
+				},
+				{
+					"points": 1960,
+					"premiumReward": "37000122",
+					"premiumRewardAmount": 100000
+				},
+				{
+					"points": 2040,
+					"freeReward": "3000002",
+					"freeRewardAmount": 2000000,
+					"premiumReward": "46000013",
+					"premiumRewardAmount": 5
+				},
+				{
+					"points": 2120,
+					"premiumReward": "46000010",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 2200,
+					"freeReward": "3000013",
+					"freeRewardAmount": 1500,
+					"premiumReward": "46000014",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 2300,
+					"premiumReward": "46000003",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 2400,
+					"freeReward": "3000003",
+					"freeRewardAmount": 20000,
+					"premiumReward": "46000020",
+					"premiumRewardAmount": 1
+				},
+				{
+					"points": 2500,
+					"premiumReward": "3000013",
+					"premiumRewardAmount": 3000
+				},
+				{
+					"points": 2600,
+					"freeReward": "46000003",
+					"freeRewardAmount": 1,
+					"premiumReward": "46000001",
+					"premiumRewardAmount": 1
+				}
+			],
+			"keyRewardImage": {
+				"Path": "/17829da6-1e55-4a57-a3cf-49ece2cff1e5_Gingerbread_GW_Reward_flipped.png",
+				"ChecksumSha1": "df7a0c67f2aeb91fcae400d0acb438ae49c18e91"
+			}
+		},
+		{
+			"type": 28,
+			"id": 40295,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "20231211T070100.000Z",
+			"startTime": "20231215T070000.000Z",
+			"endTime": "20231218T070000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/5d114d56-5d81-4ec6-8113-841c22dc6fbb_raid_weekend.png",
+				"ChecksumSha1": "e189252645367f9192eb496ac7df8b0dae1f7e61"
+			},
+			"scFile": {
+				"Path": "/34202d5d-0a6d-4416-9ac4-77499d207857_purple_background.sc",
+				"ChecksumSha1": "0b48e0186b6651a30cb26e4e2b4adb89691e31e9"
+			},
+			"localizationFile": {
+				"Path": "/333d101e-7f1b-402a-8b46-5a936da1e47d.csv",
+				"ChecksumSha1": "ea15df7670dcc48da585fc62e7072478b10f9308",
+				"Key": "bd9ed69a803b73d71ee7b02c9f21cfc59d52c13a408dbf159c312f39a0d84dad",
+				"Nonce": "778ebf768d75acb79276f26d14d2b1e5dacb38852b2f349e"
+			},
+			"attackCount": 5
+		},
+		{
+			"type": 0,
+			"id": 40315,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "20231209T080000.000Z",
+			"startTime": "20231211T080000.000Z",
+			"endTime": "20231214T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/d317c61f-6dc8-44c7-a39b-b31a0e1b7f84_armyboost__1_.png",
+				"ChecksumSha1": "f7c7ae4472125dc01a7953a7387368b5d9d33b18"
+			},
+			"scFile": {
+				"Path": "/e9e2c86f-f6cd-466a-94fc-9b57d4b5cf1e_green_background.sc",
+				"ChecksumSha1": "d96e4eead9cdf35d8684f7532d226e02619e0f19"
+			},
+			"localizationFile": {
+				"Path": "/16ff3dfe-7d0c-4e38-8d7e-8216caec20c1_1_Gem_Army_Boost.csv",
+				"ChecksumSha1": "1ff35c3cf95a0a3e163c7930975a79f0c343e183"
+			},
+			"functions": [
+				{
+					"name": "BuildingBoost",
+					"parameters": [
+						"1000022",
+						"1"
+					]
+				},
+				{
+					"name": "BuildingBoost",
+					"parameters": [
+						"1000025",
+						"1"
+					]
+				},
+				{
+					"name": "BuildingBoost",
+					"parameters": [
+						"1000030",
+						"1"
+					]
+				},
+				{
+					"name": "BuildingBoost",
+					"parameters": [
+						"1000066",
+						"1"
+					]
+				},
+				{
+					"name": "SpellBrewingBoost",
+					"parameters": [
+						"1"
+					]
+				},
+				{
+					"name": "TroopTrainingBoost",
+					"parameters": [
+						"1"
+					]
+				}
+			]
+		},
+		{
+			"type": 7,
+			"id": 40334,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20231212T080000.000Z",
+			"endTime": "20231219T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"free": [
+				{
+					"item": "3000002",
+					"amount": 500000,
+					"start": 0,
+					"end": 10080
+				}
+			],
+			"offer": [
+				{
+					"item": "46000007",
+					"amount": 1,
+					"maxBuys": 3,
+					"cost": 25
+				},
+				{
+					"item": "46000025",
+					"amount": 1,
+					"maxBuys": 3,
+					"cost": 100
+				},
+				{
+					"item": "46000006",
+					"amount": 1,
+					"maxBuys": 3,
+					"cost": 115
+				},
+				{
+					"item": "46000022",
+					"amount": 1,
+					"maxBuys": 3,
+					"cost": 120
+				},
+				{
+					"item": "46000024",
+					"amount": 1,
+					"maxBuys": 3,
+					"cost": 120
+				},
+				{
+					"item": "46000005",
+					"amount": 1,
+					"maxBuys": 3,
+					"cost": 150
+				},
+				{
+					"item": "46000014",
+					"amount": 1,
+					"maxBuys": 3,
+					"cost": 285
+				},
+				{
+					"item": "46000012",
+					"amount": 1,
+					"maxBuys": 1,
+					"cost": 1500
+				},
+				{
+					"item": "46000009",
+					"amount": 1,
+					"maxBuys": 1,
+					"cost": 1500
+				},
+				{
+					"item": "46000003",
+					"amount": 1,
+					"maxBuys": 1,
+					"cost": 500
+				},
+				{
+					"item": "46000000",
+					"amount": 1,
+					"maxBuys": 1,
+					"cost": 925
+				},
+				{
+					"item": "46000020",
+					"amount": 1,
+					"maxBuys": 1,
+					"cost": 500
+				},
+				{
+					"item": "46000013",
+					"amount": 5,
+					"maxBuys": 3,
+					"cost": 250
+				}
+			],
+			"capital": [
+				{
+					"item": "3000001",
+					"amount": 2500000,
+					"maxBuys": 1,
+					"cost": 300
+				},
+				{
+					"item": "3000002",
+					"amount": 2500000,
+					"maxBuys": 1,
+					"cost": 300
+				},
+				{
+					"item": "3000003",
+					"amount": 25000,
+					"maxBuys": 1,
+					"cost": 300
+				},
+				{
+					"item": "3000007",
+					"amount": 1000000,
+					"maxBuys": 1,
+					"cost": 250
+				},
+				{
+					"item": "3000008",
+					"amount": 1000000,
+					"maxBuys": 1,
+					"cost": 250
+				},
+				{
+					"item": "46000007",
+					"amount": 1,
+					"maxBuys": 3,
+					"cost": 100
+				},
+				{
+					"item": "46000019",
+					"amount": 1,
+					"maxBuys": 3,
+					"cost": 100
+				},
+				{
+					"item": "46000025",
+					"amount": 1,
+					"maxBuys": 3,
+					"cost": 150
+				},
+				{
+					"item": "46000005",
+					"amount": 1,
+					"maxBuys": 3,
+					"cost": 150
+				},
+				{
+					"item": "46000021",
+					"amount": 1,
+					"maxBuys": 3,
+					"cost": 150
+				},
+				{
+					"item": "46000006",
+					"amount": 1,
+					"maxBuys": 3,
+					"cost": 200
+				},
+				{
+					"item": "46000022",
+					"amount": 1,
+					"maxBuys": 3,
+					"cost": 200
+				},
+				{
+					"item": "46000013",
+					"amount": 5,
+					"maxBuys": 3,
+					"cost": 300
+				},
+				{
+					"item": "82000045",
+					"amount": 1,
+					"maxBuys": 1,
+					"cost": 3500
+				},
+				{
+					"item": "82000028",
+					"amount": 1,
+					"maxBuys": 1,
+					"cost": 3500
+				},
+				{
+					"item": "82000038",
+					"amount": 1,
+					"maxBuys": 1,
+					"cost": 3500
+				},
+				{
+					"item": "82000056",
+					"amount": 1,
+					"maxBuys": 1,
+					"cost": 3000
+				},
+				{
+					"item": "82000007",
+					"amount": 1,
+					"maxBuys": 1,
+					"cost": 2500
+				},
+				{
+					"item": "82000065",
+					"amount": 1,
+					"maxBuys": 1,
+					"cost": 2000
+				}
+			],
+			"personallyTargeted": false
+		}
+	]
+}
