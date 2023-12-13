@@ -1,0 +1,76 @@
+{
+	"Globals": {
+		"DuelBonusLimitWinsPerDay": 3,
+		"DuelBonusMaxDiamondCostPercent": 100,
+		"DuelBonusPercentDraw": 0,
+		"DuelBonusPercentLose": 0,
+		"DuelBonusPercentWin": 100,
+		"DuelLootLimitCooldownInMinutes": 1320,
+		"GiftPackExtension": "xmas"
+	},
+	"KillSwitches": {
+		"AccuratePathLineOfSight": true,
+		"AccurateTroopMovement": true,
+		"AirWardenRetargetingDelay": 800,
+		"BattleWaitForDieDamage": true,
+		"BattleWaitForProjectileDestruction": true,
+		"BuildingClosestPointFix": true,
+		"CornerCuttingForSieges": true,
+		"MinRangeForAvoidingWallsInAttackPositionSelection": 1500,
+		"RemoveInvalidBlockingObstacles": true,
+		"SiegeUnloadMaxTime": 1750,
+		"WardenGroupRefreshInterval": 1800
+	},
+	"MinVersion": {
+		"BaseVersion": "15.547",
+		"PlatformMinimumVersions": [
+			{"MinimumVersion": 10, "Platform": "iOS"},
+			{"MinimumVersion": 10, "Platform": "android"},
+			{"MinimumVersion": 10, "Platform": "amazon"}
+		]
+	},
+	"RegionalRules": {
+		"AgeRestrictions": [],
+		"GlobalAgeRestriction": 16,
+		"GlobalAskAgeTutorial": true,
+		"ParentalConsent": [
+			{"ConsentUrl": "", "Country": "KR"}
+		]
+	},
+	"Village1": {
+		"LegendLeagueDailyAttacks": [
+			{"Count": 8, "Trophies": 1}
+		],
+		"LegendLeagueTrophyChange": [
+			{"DPPerTrophy": 10, "Min": 0},
+			{"DPPerTrophy": 9, "Min": 5},
+			{"DPPerTrophy": 3, "Min": 16},
+			{"DPPerTrophy": 0, "Min": 40}
+		]
+	},
+	"Village2": {
+		"ScoreChangeForLosing": [
+			{"Milestone": 0, "Percentage": 0},
+			{"Milestone": 400, "Percentage": 30},
+			{"Milestone": 800, "Percentage": 55},
+			{"Milestone": 1200, "Percentage": 70},
+			{"Milestone": 1600, "Percentage": 85},
+			{"Milestone": 2000, "Percentage": 95},
+			{"Milestone": 2400, "Percentage": 100}
+		],
+		"StrengthRangeForScore": [
+			{"Milestone": 0, "Percentage": 80},
+			{"Milestone": 200, "Percentage": 80},
+			{"Milestone": 400, "Percentage": 100},
+			{"Milestone": 600, "Percentage": 120},
+			{"Milestone": 800, "Percentage": 140},
+			{"Milestone": 1000, "Percentage": 160},
+			{"Milestone": 1200, "Percentage": 180},
+			{"Milestone": 1400, "Percentage": 200},
+			{"Milestone": 1600, "Percentage": 400},
+			{"Milestone": 1800, "Percentage": 600},
+			{"Milestone": 2000, "Percentage": 1000},
+			{"Milestone": 10000, "Percentage": 10000}
+		]
+	}
+}

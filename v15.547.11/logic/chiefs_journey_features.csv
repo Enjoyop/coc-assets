@@ -1,0 +1,25 @@
+"Name","TID","InfoTID","Sprite","Destination","UnlockedTownHall","ExplicitPriority","LinkedData"
+"String","String","String","String","int","int","int","String"
+"FeatureClans","TID_FEATURE_CLANS","TID_FEATURE_CLANS_DESC","icon_cj_clan",0,2,,
+"FeatureClanWars","TID_FEATURE_CLAN_WARS","TID_FEATURE_CLAN_WARS_DESC","icon_cj_clan_wars",0,2,,
+"FeatureLab","TID_FEATURE_LABORATORY","TID_FEATURE_LABORATORY_DESC","icon_cj_laboratory",0,2,,
+"FeatureBB","TID_FEATURE_BUILDER_BASE","TID_FEATURE_BUILDER_BASE_DESC","icon_cj_builderbase",0,3,,
+"FeatureSpells","TID_FEATURE_SPELLS","TID_FEATURE_SPELLS_DESC","icon_cj_spells",0,4,499999,
+"FeatureCapital","TID_FEATURE_CLAN_CAPITAL","TID_FEATURE_CLAN_CAPITAL_DESC","icon_cj_clan_capital",0,5,,
+"FeatureClanGames","TID_FEATURE_CLAN_GAMES","TID_FEATURE_CLAN_GAMES_DESC","icon_cj_clan_games",0,5,,
+"FeatureTrader","TID_TRADER_FEATURE","TID_TRADER_FEATURE_DESCRIPTION","icon_cj_trader",0,5,,
+"FeatureDarkElixir","TID_FEATURE_DARK_ELIXIR","TID_FEATURE_DARK_ELIXIR_DESC","icon_cj_dark_elixir",0,6,,
+"FeatureHeroes","TID_HEROES_FEATURE","TID_HEROES_FEATURE_DESCRIPTION","icon_cj_heroes",0,6,199999,
+"FeatureSeasonChallenges","TID_FEATURE_SEASON_CHALLENGES","TID_FEATURE_SEASON_CHALLENGES_DESC","icon_cj_goldpass",0,6,,
+"FeatureSuperTroops","TID_SUPER_TROOPS_FEATURE","TID_SUPER_TROOPS_FEATURE_DESCRIPTION","icon_cj_supertroops",0,10,,
+"FeatureSieges","TID_SIEGES_FEATURE","TID_SIEGES_FEATURE_DESCRIPTION","icon_cj_sieges",0,11,599999,
+"FeaturePets","TID_PETS_FEATURE","TID_PETS_FEATURE_DESCRIPTION","icon_cj_pets",0,13,299999,
+"FeatureBattleBuilder","TID_BATTLE_BUILDER_FEATURE","TID_BATTLE_BUILDER_FEATURE_DESC","icon_cj_battle_builders",0,13,299999,
+"FeatureGemMine",,,,1,2,,"Gem Mine"
+"FeatureClockTower",,,,1,3,,"Clock Tower"
+"FeatureStage2","TID_SECOND_STAGE_FEATURE","TID_SECOND_STAGE_FEATURE_DESCRIPTION","icon_cj_second_stage",1,5,,
+"FeatureOTTO","TID_OTTO_FEATURE","TID_OTTO_FEATURE_DESCRIPTION","icon_cj_otto",1,5,,
+"FeatureOTTOOutpost",,,,1,5,,"Outpost Stage2"
+"FeatureHealingHut",,,,1,5,,"Recovery Building"
+"FeatureReinforcementCamp",,,,1,5,,"Reinforcement Camp"
+"FeatureBOB","TID_BOB_FEATURE","TID_BOB_FEATURE_DESCRIPTION","icon_cj_bob",1,8,,

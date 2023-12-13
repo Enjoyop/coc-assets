@@ -1,0 +1,821 @@
+{
+	"events": [
+		{
+			"type": 31,
+			"id": 36570,
+			"version": 1,
+			"variantId": 1,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20230901T052300.000Z",
+			"endTime": "20331001T052300.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/7c81155c-119f-4da3-ad5f-ee1b650c7d47_Clash_Gems_Box.png",
+				"ChecksumSha1": "32ba6e603a4da0e87395b88138835eb0464c6d17"
+			},
+			"billingPackage": "22000003",
+			"additionalValue": 50
+		},
+		{
+			"type": 31,
+			"id": 36571,
+			"version": 1,
+			"variantId": 1,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20230901T052300.000Z",
+			"endTime": "20331001T052300.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/8a3cd1fe-4313-4d4c-b584-34db333da08e_Clash_Gems_Pile.png",
+				"ChecksumSha1": "d5d3db55a3667eac19fe9a380695a2607f08e3c7"
+			},
+			"billingPackage": "22000000",
+			"additionalValue": 17
+		},
+		{
+			"type": 31,
+			"id": 36572,
+			"version": 1,
+			"variantId": 1,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20230901T052300.000Z",
+			"endTime": "20331001T052300.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/de8ca657-bcfe-4e28-8a57-48893e580beb_Clash_Gems_Sack.png",
+				"ChecksumSha1": "e19ce878105d39fabbcf16513aee7632b51a5dd2"
+			},
+			"billingPackage": "22000002",
+			"additionalValue": 45
+		},
+		{
+			"type": 31,
+			"id": 36573,
+			"version": 1,
+			"variantId": 1,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20230901T052300.000Z",
+			"endTime": "20331001T052300.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/0982794e-fc3b-4410-9219-166d01f4fefb_Clash_Gems_Bag.png",
+				"ChecksumSha1": "540633be804f9e60810304bf8e4ec7c25db3acee"
+			},
+			"billingPackage": "22000001",
+			"additionalValue": 40
+		},
+		{
+			"type": 31,
+			"id": 36574,
+			"version": 1,
+			"variantId": 1,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20230901T052300.000Z",
+			"endTime": "20331001T052300.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/94561c67-1012-4e36-8498-c83bdbc5b118_Clash_Gems_Chest.png",
+				"ChecksumSha1": "c5e878a97d7c860c4a839a722a05d0dcc592ff79"
+			},
+			"billingPackage": "22000004",
+			"additionalValue": 63
+		},
+		{
+			"type": 31,
+			"id": 36575,
+			"version": 1,
+			"variantId": 1,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20230901T052300.000Z",
+			"endTime": "20331001T052300.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/20e9c3df-0bd4-4f26-82b4-59da85d3d283_Clash_Gems_Pocket.png",
+				"ChecksumSha1": "fc3affaec94f29b8c118b8e6bbc310e4b306436e"
+			},
+			"billingPackage": "22000006"
+		},
+		{
+			"type": 11,
+			"id": 31032,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20211001T080100.000Z",
+			"endTime": "20301001T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"items": [
+				{
+					"deliverable": {
+						"type": "1",
+						"resource": "3000001",
+						"resourceAmount": 2500000
+					},
+					"cost": 25
+				},
+				{
+					"deliverable": {
+						"type": "1",
+						"resource": "3000002",
+						"resourceAmount": 2500000
+					},
+					"cost": 25
+				},
+				{
+					"deliverable": {
+						"type": "8",
+						"magicItem": "46000007",
+						"magicItemAmount": 1,
+						"source": 0
+					},
+					"cost": 10
+				},
+				{
+					"deliverable": {
+						"type": "8",
+						"magicItem": "46000006",
+						"magicItemAmount": 1,
+						"source": 0
+					},
+					"cost": 10
+				},
+				{
+					"deliverable": {
+						"type": "8",
+						"magicItem": "46000022",
+						"magicItemAmount": 1,
+						"source": 0
+					},
+					"cost": 20
+				},
+				{
+					"deliverable": {
+						"type": "8",
+						"magicItem": "46000014",
+						"magicItemAmount": 1,
+						"source": 0
+					},
+					"cost": 30
+				},
+				{
+					"deliverable": {
+						"type": "8",
+						"magicItem": "46000013",
+						"magicItemAmount": 10,
+						"source": 0
+					},
+					"cost": 50
+				},
+				{
+					"deliverable": {
+						"type": "8",
+						"magicItem": "46000015",
+						"magicItemAmount": 1,
+						"source": 0
+					},
+					"cost": 120,
+					"cooldownHours": 168
+				},
+				{
+					"deliverable": {
+						"type": "8",
+						"magicItem": "46000016",
+						"magicItemAmount": 1,
+						"source": 0
+					},
+					"cost": 120,
+					"cooldownHours": 168
+				},
+				{
+					"deliverable": {
+						"type": "8",
+						"magicItem": "46000017",
+						"magicItemAmount": 1,
+						"source": 0
+					},
+					"cost": 120,
+					"cooldownHours": 168
+				},
+				{
+					"deliverable": {
+						"type": "8",
+						"magicItem": "46000018",
+						"magicItemAmount": 1,
+						"source": 0
+					},
+					"cost": 165,
+					"cooldownHours": 168
+				},
+				{
+					"deliverable": {
+						"type": "3",
+						"decoration": "18000051"
+					},
+					"cost": 100
+				},
+				{
+					"deliverable": {
+						"type": "3",
+						"decoration": "18000050"
+					},
+					"cost": 250,
+					"minLeague": "48000009"
+				},
+				{
+					"deliverable": {
+						"type": "3",
+						"decoration": "18000049"
+					},
+					"cost": 500,
+					"minLeague": "48000012"
+				},
+				{
+					"deliverable": {
+						"type": "3",
+						"decoration": "18000048"
+					},
+					"cost": 1000,
+					"minLeague": "48000015"
+				},
+				{
+					"deliverable": {
+						"type": "3",
+						"decoration": "18000047"
+					},
+					"cost": 2000,
+					"minLeague": "48000018"
+				},
+				{
+					"deliverable": {
+						"type": "9",
+						"skin": "52000091"
+					},
+					"cost": 2000
+				},
+				{
+					"deliverable": {
+						"type": "9",
+						"skin": "52000102"
+					},
+					"cost": 2000
+				},
+				{
+					"deliverable": {
+						"type": "9",
+						"skin": "52000080"
+					},
+					"cost": 2000
+				},
+				{
+					"deliverable": {
+						"type": "9",
+						"skin": "52000112"
+					},
+					"cost": 2000
+				},
+				{
+					"deliverable": {
+						"type": "12",
+						"villageBackground": "60000042"
+					},
+					"cost": 2400
+				}
+			]
+		},
+		{
+			"type": 16,
+			"id": 37737,
+			"version": 3,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20231031T080000.000Z",
+			"endTime": "20241031T103800.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"skin": "52000116",
+			"skinPack": {
+				"Path": "/1dbda9ef-a715-4e47-80cf-408f7106fa18_634ced41_2846_4fd9_9be4_c95c689495aa_skin_20231109195151.scp",
+				"ChecksumSha1": "6fe81268e74ed107311fa9618b71c74462a49ee2"
+			},
+			"fallbackSkinPackIos": {
+				"Path": "/cfbcd2f5-273b-4fc4-943c-276ecb884749_8dae4c5e_a243_44e5_a19e_f589f66a485f_skin_20231109195151_fallback_ios.scp",
+				"ChecksumSha1": "9e5440c32ba7cd765a7441a53d27d6fbc7338546"
+			},
+			"fallbackSkinPackAndroid": {
+				"Path": "/24e8b85f-53b4-4c71-bf6d-432e5265af01_869292fb_9897_4c85_915e_02d9bc93510c_skin_20231109195151_fallback_android.scp",
+				"ChecksumSha1": "33e7b3c0c554e72aee314f415540b7d1bf211a37"
+			},
+			"key": {
+				"Key": "dcbb34f78d995dac0c02c58a393a4eea0ff6db13d3eb1efcc2775bc62322b853",
+				"Nonce": "7396d3eb152aea5e80ef7d72381a7d0cbf2d09a40afcb2bc"
+			}
+		},
+		{
+			"type": 18,
+			"id": 38258,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20231031T080000.000Z",
+			"endTime": "20241031T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"localizationFile": {
+				"Path": "/b337a051-1945-43ac-8ba4-588786991831_ChampionScenery_LOC__3_.csv",
+				"ChecksumSha1": "a2f624f51b4cc0de6705bc9185619146d5727b32"
+			},
+			"villageBackground": "60000052",
+			"foregroundExportName": "Player_war_bg",
+			"tid": "TID_SCENERY_CHAMPION",
+			"homeType": 1,
+			"sceneryScFile": {
+				"Path": "/dc5af533-ba47-44f2-aab0-46439623c544_scenery_war_champion_2023_dl_opt.sc",
+				"ChecksumSha1": "a6702fbce62bc1211d00eba4db5c3fe2bd9c52cc"
+			},
+			"baseScFile": {
+				"Path": "/f33c971c-8ee6-44dc-8969-703b26bce462_scenery_war_gamearea_champion23_dl_opt.sc",
+				"ChecksumSha1": "a23cec043ff52fab7db807e956ba1ad412296404"
+			},
+			"buildingBasesScFile": {
+				"Path": "/a39ed870-084a-46b5-ba90-c2bd274df09d_scenery_war_bases_champion23_dl_opt.sc",
+				"ChecksumSha1": "2d5409b3e5afeef11bf58a0416c469865cfa9bf4"
+			},
+			"iconFile": {
+				"Path": "/89bd1d12-bb72-49ea-8ea7-90ff5da6fed8_scenery_war_champion23_dl_opt.ktx",
+				"ChecksumSha1": "2ddaa63903bbc5172cca299cc2f3744506a7e59c"
+			},
+			"thumbnailFile": {
+				"Path": "/37eeb7f0-c4fe-4546-80b7-c3e18b95064c_war_champion23_bgr_image_dl_opt__1_.ktx",
+				"ChecksumSha1": "bbd0a811b2f7e43e7e2fe031466b608ff6a3c6f5"
+			},
+			"musicFile": {
+				"Path": "/f28b3b1c-2fdb-438f-bc0e-f558b6d16032_Champion_Scenery_Music_Ambience_dl_opt.ogg",
+				"ChecksumSha1": "2bcc559cb419080f008c14b49cc4df3155f6a447"
+			},
+			"parallaxLayers": [
+				{"layer": "background_1", "strength": -10},
+				{"layer": "foreground_1", "strength": 5},
+				{"layer": "foreground_2", "strength": 15}
+			]
+		},
+		{
+			"type": 18,
+			"id": 40270,
+			"version": 2,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20231120T080000.000Z",
+			"endTime": "20231212T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"villageBackground": "60000000",
+			"isFree": true,
+			"update": true,
+			"foregroundExportName": "Player_Background",
+			"sceneryScFile": {
+				"Path": "/99becccf-0224-4639-bd3e-9a615910d9b7.sc",
+				"ChecksumSha1": "968a67418e84261d8e8ca07230fd6aee337549f8",
+				"Key": "7de900ef5ecf1f1892fe7c6c4c16bd62edbeea8ae3c5d94567c92cfa7c2e0251",
+				"Nonce": "f2dc74e05b2c7dd477c8840b69a0860fee70515f686cff8d"
+			},
+			"musicFile": {
+				"Path": "/29034d45-a27d-4ed3-878c-a8e97170fdc3.ogg",
+				"ChecksumSha1": "525084d1f9d23af3384c847f30910837e7dc17c8",
+				"Key": "b95e9fc96a6b0992e2edce3b134f601ede53a07f10c3e3c11b175e1cb508581b",
+				"Nonce": "c7961641bfa9b4cd9a7398faa37bc948b809f95c6a34fa65"
+			}
+		},
+		{
+			"type": 13,
+			"id": 40283,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "20231201T080100.000Z",
+			"startTime": "20231201T080100.000Z",
+			"endTime": "20240101T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/4c0e89da-7e56-4a78-9e53-7ff23d3da313_event_banner_Gingerbread_GW.png",
+				"ChecksumSha1": "56116911580217e52b80bf4e860e535e433c9fdb"
+			},
+			"scFile": {
+				"Path": "/6847a8a9-b5b1-40f4-a36c-76ce6ea47c54_battlepass_background_gold.sc",
+				"ChecksumSha1": "14b21f884914345a687f7fdb749fc201d32a4ea4"
+			},
+			"localizationFile": {
+				"Path": "/a3885bad-f229-47df-ade9-5f61dbb6ea07_December_Season___1___1_.csv",
+				"ChecksumSha1": "c489fe6b0581282f7c34a7a7e39e22c125abfcfb"
+			},
+			"weeks": [
+				{"tasks": ["53000363", "53000414", "53000013", "53000303", "53000203", "53000135"]},
+				{"tasks": ["53000152", "53000171", "53000384", "53000279", "53000131", "53000154"]},
+				{"tasks": ["53000366", "53000387", "53000190", "53000349", "53000071", "53000076"]},
+				{"tasks": ["53000168", "53000367", "53000021", "53000356", "53000324", "53000120"]}
+			],
+			"rewardTiers": [
+				{"points": 0, "premiumReward": "52000123", "premiumRewardAmount": 1},
+				{"points": 40, "freeReward": "46000007", "freeRewardAmount": 2, "premiumReward": "37000040", "premiumRewardAmount": 99},
+				{"points": 80, "premiumReward": "37000034", "premiumRewardAmount": 10},
+				{"points": 120, "freeReward": "46000019", "freeRewardAmount": 1, "premiumReward": "37000074", "premiumRewardAmount": 10},
+				{"points": 160, "premiumReward": "37000037", "premiumRewardAmount": 10},
+				{"points": 200, "freeReward": "3000013", "freeRewardAmount": 500, "premiumReward": "37000039", "premiumRewardAmount": 100000},
+				{"points": 240, "premiumReward": "37000122", "premiumRewardAmount": 40000},
+				{"points": 280, "freeReward": "46000025", "freeRewardAmount": 1, "premiumReward": "46000024", "premiumRewardAmount": 1},
+				{"points": 320, "premiumReward": "46000000", "premiumRewardAmount": 1},
+				{"points": 360, "freeReward": "46000006", "freeRewardAmount": 1, "premiumReward": "46000005", "premiumRewardAmount": 2},
+				{"points": 400, "premiumReward": "37000123", "premiumRewardAmount": 1},
+				{"points": 460, "freeReward": "46000022", "freeRewardAmount": 1, "premiumReward": "46000021", "premiumRewardAmount": 2},
+				{"points": 520, "premiumReward": "46000013", "premiumRewardAmount": 5},
+				{"points": 580, "freeReward": "46000023", "freeRewardAmount": 1, "premiumReward": "37000039", "premiumRewardAmount": 150000},
+				{"points": 640, "premiumReward": "37000122", "premiumRewardAmount": 60000},
+				{"points": 700, "freeReward": "46000005", "freeRewardAmount": 1, "premiumReward": "37000124", "premiumRewardAmount": 2},
+				{"points": 760, "premiumReward": "37000125", "premiumRewardAmount": 4},
+				{"points": 820, "freeReward": "46000021", "freeRewardAmount": 1, "premiumReward": "37000034", "premiumRewardAmount": 15},
+				{"points": 880, "premiumReward": "37000074", "premiumRewardAmount": 15},
+				{"points": 940, "freeReward": "3000013", "freeRewardAmount": 1000, "premiumReward": "37000037", "premiumRewardAmount": 15},
+				{"points": 1000, "premiumReward": "46000008", "premiumRewardAmount": 1},
+				{"points": 1080, "freeReward": "3000001", "freeRewardAmount": 1000000, "premiumReward": "46000009", "premiumRewardAmount": 1},
+				{"points": 1160, "premiumReward": "37000039", "premiumRewardAmount": 200000},
+				{"points": 1240, "freeReward": "3000002", "freeRewardAmount": 1000000, "premiumReward": "37000122", "premiumRewardAmount": 80000},
+				{"points": 1320, "premiumReward": "3000013", "premiumRewardAmount": 2000},
+				{"points": 1400, "freeReward": "3000007", "freeRewardAmount": 1000000, "premiumReward": "46000011", "premiumRewardAmount": 1},
+				{"points": 1480, "premiumReward": "37000034", "premiumRewardAmount": 20},
+				{"points": 1560, "freeReward": "3000008", "freeRewardAmount": 1000000, "premiumReward": "37000074", "premiumRewardAmount": 20},
+				{"points": 1640, "premiumReward": "37000037", "premiumRewardAmount": 20},
+				{"points": 1720, "freeReward": "3000003", "freeRewardAmount": 10000, "premiumReward": "46000012", "premiumRewardAmount": 1},
+				{"points": 1800, "premiumReward": "46000002", "premiumRewardAmount": 1},
+				{"points": 1880, "freeReward": "3000001", "freeRewardAmount": 2000000, "premiumReward": "37000039", "premiumRewardAmount": 300000},
+				{"points": 1960, "premiumReward": "37000122", "premiumRewardAmount": 100000},
+				{"points": 2040, "freeReward": "3000002", "freeRewardAmount": 2000000, "premiumReward": "46000013", "premiumRewardAmount": 5},
+				{"points": 2120, "premiumReward": "46000010", "premiumRewardAmount": 1},
+				{"points": 2200, "freeReward": "3000013", "freeRewardAmount": 1500, "premiumReward": "46000014", "premiumRewardAmount": 1},
+				{"points": 2300, "premiumReward": "46000003", "premiumRewardAmount": 1},
+				{"points": 2400, "freeReward": "3000003", "freeRewardAmount": 20000, "premiumReward": "46000020", "premiumRewardAmount": 1},
+				{"points": 2500, "premiumReward": "3000013", "premiumRewardAmount": 3000},
+				{"points": 2600, "freeReward": "46000003", "freeRewardAmount": 1, "premiumReward": "46000001", "premiumRewardAmount": 1}
+			],
+			"keyRewardImage": {
+				"Path": "/17829da6-1e55-4a57-a3cf-49ece2cff1e5_Gingerbread_GW_Reward_flipped.png",
+				"ChecksumSha1": "df7a0c67f2aeb91fcae400d0acb438ae49c18e91"
+			}
+		},
+		{
+			"type": 0,
+			"id": 40293,
+			"version": 4,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "20231127T101500.000Z",
+			"startTime": "20231127T101500.000Z",
+			"endTime": "20231212T090000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/58e299f2-9fef-44cf-ad48-e448bbf2eed0_50_off_village.png",
+				"ChecksumSha1": "1f4636f0e6f5572a69be4245dc0e6b3648ce2b74"
+			},
+			"scFile": {
+				"Path": "/8dbdccd4-93cb-4970-ad16-8562d5e2e944_green_neon_background.sc",
+				"ChecksumSha1": "a329253805a3ac2e243a0606c5153b867bfb3152"
+			},
+			"localizationFile": {
+				"Path": "/940ad84a-b8c4-40fd-9bd7-e87fc46645f9_ev_Hammer_Jam_2023_video.csv",
+				"ChecksumSha1": "1888c7576e4dd9245a2b770200bf2d9889cd609b"
+			}
+		},
+		{
+			"type": 28,
+			"id": 40295,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "20231211T070100.000Z",
+			"startTime": "20231215T070000.000Z",
+			"endTime": "20231218T070000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/5d114d56-5d81-4ec6-8113-841c22dc6fbb_raid_weekend.png",
+				"ChecksumSha1": "e189252645367f9192eb496ac7df8b0dae1f7e61"
+			},
+			"scFile": {
+				"Path": "/34202d5d-0a6d-4416-9ac4-77499d207857_purple_background.sc",
+				"ChecksumSha1": "0b48e0186b6651a30cb26e4e2b4adb89691e31e9"
+			},
+			"localizationFile": {
+				"Path": "/333d101e-7f1b-402a-8b46-5a936da1e47d.csv",
+				"ChecksumSha1": "ea15df7670dcc48da585fc62e7072478b10f9308",
+				"Key": "bd9ed69a803b73d71ee7b02c9f21cfc59d52c13a408dbf159c312f39a0d84dad",
+				"Nonce": "778ebf768d75acb79276f26d14d2b1e5dacb38852b2f349e"
+			},
+			"attackCount": 5
+		},
+		{
+			"type": 16,
+			"id": 40303,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20231130T075500.000Z",
+			"endTime": "20241128T075500.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"skin": "52000094",
+			"skinPack": {
+				"Path": "/5f31aebb-d66e-485e-a6f2-07c959cdb358_skin_20231128095459.scp",
+				"ChecksumSha1": "563238fcb466bf271f49772e3cf725f8b3d8f67f"
+			},
+			"fallbackSkinPackIos": {
+				"Path": "/3b94d2d7-064d-4c23-b1f7-b2edde31e381_skin_20231128095459_fallback_ios.scp",
+				"ChecksumSha1": "2282af708b2f5256aaee43129411785e9228246f"
+			},
+			"fallbackSkinPackAndroid": {
+				"Path": "/3ca85820-5980-44ad-8171-bd440fbfd87d_skin_20231128095459_fallback_android.scp",
+				"ChecksumSha1": "b130d36f5094831e390756ac3078afa966f751f4"
+			},
+			"key": {
+				"Key": "1296feb346f4ed3aa85dc6d76aab9ee61b89803de00252a23b0d135907d14a42",
+				"Nonce": "cb3cd68ec9ba5423ea0a140571bd9ae922c45b29240608bf"
+			}
+		},
+		{
+			"type": 16,
+			"id": 40304,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20231130T080000.000Z",
+			"endTime": "20241128T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"skin": "52000104",
+			"skinPack": {
+				"Path": "/0cb7552e-d842-4569-b6bc-6a2d34b0d630_skin_20231128104018.scp",
+				"ChecksumSha1": "80376bc67f9715f99c5a91f4eaab3e15c590dc5f"
+			},
+			"fallbackSkinPackIos": {
+				"Path": "/0fe16594-ef41-4b3c-ad5c-227858c7e04a_skin_20231128104018_fallback_ios.scp",
+				"ChecksumSha1": "49eaabb61e634c25fa841a7f14cfc84b16762ce7"
+			},
+			"fallbackSkinPackAndroid": {
+				"Path": "/90574800-8250-41b7-aec6-66f5519420e8_skin_20231128104018_fallback_android.scp",
+				"ChecksumSha1": "b1ac5410991f304a58597b098ea00c91038508a6"
+			},
+			"key": {
+				"Key": "59d51fefb3f4abefb79d56b6e34d61075d5cf59eef22515a8d5b3f0774db12af",
+				"Nonce": "ad08d951d01ca53568688f68ef38886010219351149ba1d7"
+			}
+		},
+		{
+			"type": 16,
+			"id": 40305,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20231130T080000.000Z",
+			"endTime": "20241128T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"skin": "52000115",
+			"skinPack": {
+				"Path": "/9e798f4f-1b06-4252-80f5-99b953876668_skin_20231128095908.scp",
+				"ChecksumSha1": "fcc0e61d36f00046fde0a1a02d5af7e1ea41ab69"
+			},
+			"fallbackSkinPackIos": {
+				"Path": "/54dda75f-1b9a-429e-961f-c094d658c86a_skin_20231128095908_fallback_ios.scp",
+				"ChecksumSha1": "ed02c1368c6ed03f7cdc0c368fabe8458de4a4a2"
+			},
+			"fallbackSkinPackAndroid": {
+				"Path": "/e44b76bc-447d-4a5d-af23-0d0fe1ed6d4b_skin_20231128095908_fallback_android.scp",
+				"ChecksumSha1": "a05861cca909a8346cc3120643043fdb1a584cd7"
+			},
+			"key": {
+				"Key": "9b6e900af504d41f9940905d9b8256e88653db46409ff0bc40727c6d094556ea",
+				"Nonce": "3d3a5ab178a0c261cb3417821d0a7330bf0588ec4d72e895"
+			}
+		},
+		{
+			"type": 16,
+			"id": 40306,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20231130T082200.000Z",
+			"endTime": "20241123T082200.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"skin": "52000123",
+			"skinPack": {
+				"Path": "/aed62c74-5752-4fb4-87a8-39abaa12f8a4_skin_20231128131454.scp",
+				"ChecksumSha1": "6e9a222f954500de94493350e1d4a699030dfd4f"
+			},
+			"fallbackSkinPackIos": {
+				"Path": "/e78b73db-5ece-4a07-a2e7-63853e741b27_skin_20231128131454_fallback_ios.scp",
+				"ChecksumSha1": "a7d0e7b03d186c9400b5e3a7b4534c0ef8c22dc7"
+			},
+			"fallbackSkinPackAndroid": {
+				"Path": "/3b4a9871-a03b-42a0-a013-c261345ebc81_skin_20231128131454_fallback_android.scp",
+				"ChecksumSha1": "bbec39268e90031c2af96a25c1e0acaf96f7ec6a"
+			},
+			"key": {
+				"Key": "a1e4fc811c83b815384455df1b177598dcef40be5be3b25c3fd5319680ca5e7a",
+				"Nonce": "41bf7d7502e8d909f209a86c60dd6d2ff69c586f6f613c27"
+			}
+		},
+		{
+			"type": 6,
+			"id": 40312,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "20231201T080000.000Z",
+			"startTime": "20231201T080000.000Z",
+			"endTime": "20240101T080000.000Z",
+			"visibleEndTime": "20240101T080000.000Z",
+			"scFile": {
+				"Path": "/6af3f6ee-bd5d-43c7-b3cb-81dc428c0da0_loading_clashmas_2023_01__1_.sc",
+				"ChecksumSha1": "690637246db1c1f1260315f5242798b6a0186e2f"
+			},
+			"logoAlign": "0",
+			"jingleFile": {
+				"Path": "/84096c84-26e9-4564-be92-b2f4df2bcb33_e8daa605_2106_4260_b2ae_0442f6fa8ac3_forestclashloading01.ogg",
+				"ChecksumSha1": "52d94a48d065cacd6798dc0964a448cd5ba67a87"
+			}
+		},
+		{
+			"type": 18,
+			"id": 40313,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20231130T080000.000Z",
+			"endTime": "20241130T104200.000Z",
+			"visibleEndTime": "20241130T104200.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"localizationFile": {
+				"Path": "/c659f5dd-6c1d-4346-9620-26b7e62dff93_gingerbread_scenery_loc_fixed3.csv",
+				"ChecksumSha1": "3b4b19565482f0eb3a9f1a52fae4581bf42c8223"
+			},
+			"villageBackground": "60000053",
+			"foregroundExportName": "Player_Background",
+			"tid": "TID_SCENERY_GINGERBREAD",
+			"sceneryScFile": {
+				"Path": "/f98890b9-2545-46a4-8fe8-c843f9b8bd93_scenery_clashmas2023_dl_opt__2_.sc",
+				"ChecksumSha1": "68bde45688d5c3b30a079985428e4a2d8dcb3be0"
+			},
+			"baseScFile": {
+				"Path": "/1aef59fb-2556-4366-9159-1e8e16a1a0e1_scenery_gamearea_clashmas_2023_dl_opt.sc",
+				"ChecksumSha1": "22ff982c085b1afd9b3686b7bc3b488dc4556e76"
+			},
+			"buildingBasesScFile": {
+				"Path": "/397b7b40-a038-4e62-afff-0751cb5864e8_scenery_bases_clashmas_2023_dl_opt.sc",
+				"ChecksumSha1": "7fecf91a74369bd28f8154619c2332f043e7b76a"
+			},
+			"iconFile": {
+				"Path": "/5608ea35-6daf-4763-b39b-a0b291d44abf_scenery_clashmas2023_dl_opt.ktx",
+				"ChecksumSha1": "78d98a817e7df1566c4da52d794cc069c9fc9b8b"
+			},
+			"thumbnailFile": {
+				"Path": "/0388881c-e6e1-4d7a-bd58-11c4f5022ff9_clashmas2023_bgr_image_dl_opt.ktx",
+				"ChecksumSha1": "a6f72ce0e4d4da6e141ae5bab5c89c975936e24f"
+			},
+			"musicFile": {
+				"Path": "/5f7dc08d-19c8-4102-a7a0-6cc0b248c0dc_Gingerbread_Clashmas23_Music_and_Ambience_dl_opt.ogg",
+				"ChecksumSha1": "4d887b47b2040af7a65f1fd636d9b4e227ffc9c0"
+			},
+			"parallaxLayers": [
+				{"layer": "foreground2", "strength": 20},
+				{"layer": "foreground1", "strength": 10}
+			],
+			"villageObjectLocators": [
+				{"locator": "ship_location", "villageObject": "39000000"},
+				{"locator": "boat_location", "villageObject": "39000002"},
+				{"locator": "air_ship_location", "villageObject": "39000025"},
+				{"locator": "forge_location", "villageObject": "39000024"}
+			]
+		},
+		{
+			"type": 0,
+			"id": 40315,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "20231209T080000.000Z",
+			"startTime": "20231211T080000.000Z",
+			"endTime": "20231214T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/d317c61f-6dc8-44c7-a39b-b31a0e1b7f84_armyboost__1_.png",
+				"ChecksumSha1": "f7c7ae4472125dc01a7953a7387368b5d9d33b18"
+			},
+			"scFile": {
+				"Path": "/e9e2c86f-f6cd-466a-94fc-9b57d4b5cf1e_green_background.sc",
+				"ChecksumSha1": "d96e4eead9cdf35d8684f7532d226e02619e0f19"
+			},
+			"localizationFile": {
+				"Path": "/16ff3dfe-7d0c-4e38-8d7e-8216caec20c1_1_Gem_Army_Boost.csv",
+				"ChecksumSha1": "1ff35c3cf95a0a3e163c7930975a79f0c343e183"
+			},
+			"functions": [
+				{"name": "BuildingBoost", "parameters": ["1000022", "1"]},
+				{"name": "BuildingBoost", "parameters": ["1000025", "1"]},
+				{"name": "BuildingBoost", "parameters": ["1000030", "1"]},
+				{"name": "BuildingBoost", "parameters": ["1000066", "1"]},
+				{"name": "SpellBrewingBoost", "parameters": ["1"]},
+				{"name": "TroopTrainingBoost", "parameters": ["1"]}
+			]
+		},
+		{
+			"type": 7,
+			"id": 40334,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20231212T080000.000Z",
+			"endTime": "20231219T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"free": [
+				{"item": "3000002", "amount": 500000, "start": 0, "end": 10080}
+			],
+			"offer": [
+				{"item": "46000007", "amount": 1, "maxBuys": 3, "cost": 25},
+				{"item": "46000025", "amount": 1, "maxBuys": 3, "cost": 100},
+				{"item": "46000006", "amount": 1, "maxBuys": 3, "cost": 115},
+				{"item": "46000022", "amount": 1, "maxBuys": 3, "cost": 120},
+				{"item": "46000024", "amount": 1, "maxBuys": 3, "cost": 120},
+				{"item": "46000005", "amount": 1, "maxBuys": 3, "cost": 150},
+				{"item": "46000014", "amount": 1, "maxBuys": 3, "cost": 285},
+				{"item": "46000012", "amount": 1, "maxBuys": 1, "cost": 1500},
+				{"item": "46000009", "amount": 1, "maxBuys": 1, "cost": 1500},
+				{"item": "46000003", "amount": 1, "maxBuys": 1, "cost": 500},
+				{"item": "46000000", "amount": 1, "maxBuys": 1, "cost": 925},
+				{"item": "46000020", "amount": 1, "maxBuys": 1, "cost": 500},
+				{"item": "46000013", "amount": 5, "maxBuys": 3, "cost": 250}
+			],
+			"capital": [
+				{"item": "3000001", "amount": 2500000, "maxBuys": 1, "cost": 300},
+				{"item": "3000002", "amount": 2500000, "maxBuys": 1, "cost": 300},
+				{"item": "3000003", "amount": 25000, "maxBuys": 1, "cost": 300},
+				{"item": "3000007", "amount": 1000000, "maxBuys": 1, "cost": 250},
+				{"item": "3000008", "amount": 1000000, "maxBuys": 1, "cost": 250},
+				{"item": "46000007", "amount": 1, "maxBuys": 3, "cost": 100},
+				{"item": "46000019", "amount": 1, "maxBuys": 3, "cost": 100},
+				{"item": "46000025", "amount": 1, "maxBuys": 3, "cost": 150},
+				{"item": "46000005", "amount": 1, "maxBuys": 3, "cost": 150},
+				{"item": "46000021", "amount": 1, "maxBuys": 3, "cost": 150},
+				{"item": "46000006", "amount": 1, "maxBuys": 3, "cost": 200},
+				{"item": "46000022", "amount": 1, "maxBuys": 3, "cost": 200},
+				{"item": "46000013", "amount": 5, "maxBuys": 3, "cost": 300},
+				{"item": "82000045", "amount": 1, "maxBuys": 1, "cost": 3500},
+				{"item": "82000028", "amount": 1, "maxBuys": 1, "cost": 3500},
+				{"item": "82000038", "amount": 1, "maxBuys": 1, "cost": 3500},
+				{"item": "82000056", "amount": 1, "maxBuys": 1, "cost": 3000},
+				{"item": "82000007", "amount": 1, "maxBuys": 1, "cost": 2500},
+				{"item": "82000065", "amount": 1, "maxBuys": 1, "cost": 2000}
+			],
+			"personallyTargeted": false
+		}
+	]
+}
