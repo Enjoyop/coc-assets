@@ -1,0 +1,345 @@
+"Name","Level","IconSWF","IconExportName","TID","InfoTID","Deprecated","AllowedCharacters","Rarity","Claimable","DiamondValue","RequiredBlacksmithLevel","RequiredCharacterLevel","UpgradeResources","UpgradeCosts","MainAbilities","MainAbilityLevels","ExtraAbilities","ExtraAbilityLevels","Speed","HitPoints","AttackRange","AttackSpeedPercentage","DPS","PreviewScenario","HealOnActivation"
+"String","int","String","String","String","String","boolean","String","String","boolean","int","int","int","String","String","String","String","String","String","int","int","int","int","int","String","int"
+"Barbarian Crown",1,"sc/ui.sc","icon_gear_BK_BarbDoll","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN",,"Barbarian King;","Common",,,1,1,"CommonOre",120,"BarbarianKingSpawnBarbarians",1,,,,281,,,,"GearBarbarianCrown",100
+,2,,,,,,,,,,1,,"CommonOre; RareOre","240;20",,1,,,,350,,,,,150
+,3,,,,,,,,,,1,,"CommonOre",400,,2,,,,425,,,,,200
+,4,,,,,,,,,,1,,"CommonOre",600,,2,,,,513,,,,,250
+,5,,,,,,,,,,1,,"CommonOre; RareOre","840;100",,2,,,,590,,,,,300
+,6,,,,,,,,,,1,,"CommonOre",1120,,3,,,,668,,,,,350
+,7,,,,,,,,,,1,,"CommonOre",1440,,3,,,,760,,,,,400
+,8,,,,,,,,,,1,,"CommonOre; RareOre","1800;200",,3,,,,855,,,,,450
+,9,,,,,,,,,,1,,"CommonOre",1900,,4,,,,950,,,,,520
+,10,,,,,,,,,,3,,"CommonOre",2000,,4,,,,1050,,,,,600
+,11,,,,,,,,,,3,,"CommonOre; RareOre","2100;400",,4,,,,1150,,,,,680
+,12,,,,,,,,,,3,,"CommonOre",2200,,5,,,,1314,,,,,770
+,13,,,,,,,,,,5,,"CommonOre",2300,,5,,,,1520,,,,,860
+,14,,,,,,,,,,5,,"CommonOre; RareOre","2400;600",,5,,,,1726,,,,,940
+,15,,,,,,,,,,5,,"CommonOre",2500,,6,,,,1932,,,,,1060
+,16,,,,,,,,,,7,,"CommonOre",2600,,6,,,,2138,,,,,1130
+,17,,,,,,,,,,7,,"CommonOre; RareOre","2700;600",,6,,,,2344,,,,,1200
+,18,,,,,,,,,,7,,,,,7,,,,2550,,,,,1260
+"Iron Fist",1,"sc/ui.sc","icon_gear_BK_RageVial","TID_GEAR_TITLE_IRON_FIST","TID_GEAR_INFO_IRON_FIST",,"Barbarian King;","Common",,,1,1,"CommonOre",120,"BarbarianKingRage",1,,,,,,,17,"GearFist",150
+,2,,,,,,,,,,1,,"CommonOre; RareOre","240;20",,1,,,,,,,22,,225
+,3,,,,,,,,,,1,,"CommonOre",400,,2,,,,,,,27,,300
+,4,,,,,,,,,,1,,"CommonOre",600,,2,,,,,,,32,,375
+,5,,,,,,,,,,1,,"CommonOre; RareOre","840;100",,2,,,,,,,37,,450
+,6,,,,,,,,,,1,,"CommonOre",1120,,3,,,,,,,42,,525
+,7,,,,,,,,,,1,,"CommonOre",1440,,3,,,,,,,48,,600
+,8,,,,,,,,,,1,,"CommonOre; RareOre","1800;200",,3,,,,,,,54,,675
+,9,,,,,,,,,,1,,"CommonOre",1900,,4,,,,,,,60,,780
+,10,,,,,,,,,,3,,"CommonOre",2000,,4,,,,,,,66,,900
+,11,,,,,,,,,,3,,"CommonOre; RareOre","2100;400",,4,,,,,,,72,,1020
+,12,,,,,,,,,,3,,"CommonOre",2200,,5,,,,,,,79,,1155
+,13,,,,,,,,,,5,,"CommonOre",2300,,5,,,,,,,86,,1290
+,14,,,,,,,,,,5,,"CommonOre; RareOre","2400;600",,5,,,,,,,94,,1410
+,15,,,,,,,,,,5,,"CommonOre",2500,,6,,,,,,,104,,1590
+,16,,,,,,,,,,7,,"CommonOre",2600,,6,,,,,,,112,,1695
+,17,,,,,,,,,,7,,"CommonOre; RareOre","2700;600",,6,,,,,,,120,,1800
+,18,,,,,,,,,,7,,,,,7,,,,,,,128,,1890
+"Archer Crown",1,"sc/ui.sc","icon_gear_AQ_ArcherDoll","TID_GEAR_TITLE_ARCHER_CROWN","TID_GEAR_INFO_ARCHER_CROWN",,"Archer Queen;","Common",,,1,1,"CommonOre",120,"ArcherQueenSpawnArchers",1,,,,,,,26,"GearArcherCrown",160
+,2,,,,,,,,,,1,,"CommonOre; RareOre","240;20",,1,,,,,,,34,,175
+,3,,,,,,,,,,1,,"CommonOre",400,,2,,,,,,,42,,190
+,4,,,,,,,,,,1,,"CommonOre",600,,2,,,,,,,49,,205
+,5,,,,,,,,,,1,,"CommonOre; RareOre","840;100",,2,,,,,,,55,,220
+,6,,,,,,,,,,1,,"CommonOre",1120,,3,,,,,,,62,,235
+,7,,,,,,,,,,1,,"CommonOre",1440,,3,,,,,,,71,,250
+,8,,,,,,,,,,1,,"CommonOre; RareOre","1800;200",,3,,,,,,,80,,265
+,9,,,,,,,,,,1,,"CommonOre",1900,,4,,,,,,,90,,280
+,10,,,,,,,,,,3,,"CommonOre",2000,,4,,,,,,,100,,295
+,11,,,,,,,,,,3,,"CommonOre; RareOre","2100;400",,4,,,,,,,109,,310
+,12,,,,,,,,,,3,,"CommonOre",2200,,5,,,,,,,115,,325
+,13,,,,,,,,,,5,,"CommonOre",2300,,5,,,,,,,122,,340
+,14,,,,,,,,,,5,,"CommonOre; RareOre","2400;600",,5,,,,,,,127,,360
+,15,,,,,,,,,,5,,"CommonOre",2500,,6,,,,,,,132,,380
+,16,,,,,,,,,,7,,"CommonOre",2600,,6,,,,,,,136,,400
+,17,,,,,,,,,,7,,"CommonOre; RareOre","2700;600",,6,,,,,,,140,,420
+,18,,,,,,,,,,7,,,,,7,,,,,,,144,,440
+"Royal Cloak",1,"sc/ui.sc","icon_gear_AQ_InvisVial","TID_GEAR_TITLE_ROYAL_CLOAK","TID_GEAR_INFO_ROYAL_CLOAK",,"Archer Queen;","Common",,,1,1,"CommonOre",120,"ArcherQueenInvisibility",1,,,,80,,,,"GearRoyalCloak",
+,2,,,,,,,,,,1,,"CommonOre; RareOre","240;20",,2,,,,100,,,,,
+,3,,,,,,,,,,1,,"CommonOre",400,,3,,,,120,,,,,
+,4,,,,,,,,,,1,,"CommonOre",600,,4,,,,140,,,,,
+,5,,,,,,,,,,1,,"CommonOre; RareOre","840;100",,5,,,,170,,,,,
+,6,,,,,,,,,,1,,"CommonOre",1120,,6,,,,200,,,,,
+,7,,,,,,,,,,1,,"CommonOre",1440,,7,,,,250,,,,,
+,8,,,,,,,,,,1,,"CommonOre; RareOre","1800;200",,8,,,,300,,,,,
+,9,,,,,,,,,,1,,"CommonOre",1900,,9,,,,340,,,,,
+,10,,,,,,,,,,3,,"CommonOre",2000,,10,,,,380,,,,,
+,11,,,,,,,,,,3,,"CommonOre; RareOre","2100;400",,11,,,,420,,,,,
+,12,,,,,,,,,,3,,"CommonOre",2200,,12,,,,460,,,,,
+,13,,,,,,,,,,5,,"CommonOre",2300,,13,,,,500,,,,,
+,14,,,,,,,,,,5,,"CommonOre; RareOre","2400;600",,14,,,,540,,,,,
+,15,,,,,,,,,,5,,"CommonOre",2500,,15,,,,580,,,,,
+,16,,,,,,,,,,7,,"CommonOre",2600,,16,,,,620,,,,,
+,17,,,,,,,,,,7,,"CommonOre; RareOre","2700;600",,17,,,,660,,,,,
+,18,,,,,,,,,,7,,,,,18,,,,700,,,,,
+"Eternal Tome",1,"sc/ui.sc","icon_gear_GW_EternalTome","TID_GEAR_TITLE_ETERNAL_TOME","TID_GEAR_INFO_ETERNAL_TOME",,"Grand Warden;","Common",,,1,1,"CommonOre",120,"GrandWardenInvulnerability",1,,,,,,,,"GearEternalTome",
+,2,,,,,,,,,,1,,"CommonOre; RareOre","240;20",,2,,,,,,,,,
+,3,,,,,,,,,,1,,"CommonOre",400,,3,,,,,,,,,
+,4,,,,,,,,,,1,,"CommonOre",600,,4,,,,,,,,,
+,5,,,,,,,,,,1,,"CommonOre; RareOre","840;100",,5,,,,,,,,,
+,6,,,,,,,,,,1,,"CommonOre",1120,,6,,,,,,,,,
+,7,,,,,,,,,,1,,"CommonOre",1440,,7,,,,,,,,,
+,8,,,,,,,,,,1,,"CommonOre; RareOre","1800;200",,8,,,,,,,,,
+,9,,,,,,,,,,1,,"CommonOre",1900,,9,,,,,,,,,
+,10,,,,,,,,,,3,,"CommonOre",2000,,10,,,,,,,,,
+,11,,,,,,,,,,3,,"CommonOre; RareOre","2100;400",,11,,,,,,,,,
+,12,,,,,,,,,,3,,"CommonOre",2200,,12,,,,,,,,,
+,13,,,,,,,,,,5,,"CommonOre",2300,,13,,,,,,,,,
+,14,,,,,,,,,,5,,"CommonOre; RareOre","2400;600",,14,,,,,,,,,
+,15,,,,,,,,,,5,,"CommonOre",2500,,15,,,,,,,,,
+,16,,,,,,,,,,7,,"CommonOre",2600,,16,,,,,,,,,
+,17,,,,,,,,,,7,,"CommonOre; RareOre","2700;600",,17,,,,,,,,,
+,18,,,,,,,,,,7,,,,,18,,,,,,,,,
+"Life Gem",1,"sc/ui.sc","icon_gear_GW_HealGem","TID_GEAR_TITLE_LIFE_GEM","TID_GEAR_INFO_LIFE_GEM",,"Grand Warden;","Common",,,1,1,"CommonOre",120,"GrandWardenLifeAura",1,,,,150,,,10,"GearLifeGem",
+,2,,,,,,,,,,1,,"CommonOre; RareOre","240;20",,1,,,,163,,,12,,
+,3,,,,,,,,,,1,,"CommonOre",400,,2,,,,172,,,14,,
+,4,,,,,,,,,,1,,"CommonOre",600,,2,,,,181,,,16,,
+,5,,,,,,,,,,1,,"CommonOre; RareOre","840;100",,2,,,,192,,,18,,
+,6,,,,,,,,,,1,,"CommonOre",1120,,3,,,,203,,,20,,
+,7,,,,,,,,,,1,,"CommonOre",1440,,3,,,,225,,,22,,
+,8,,,,,,,,,,1,,"CommonOre; RareOre","1800;200",,3,,,,249,,,24,,
+,9,,,,,,,,,,1,,"CommonOre",1900,,4,,,,275,,,28,,
+,10,,,,,,,,,,3,,"CommonOre",2000,,4,,,,304,,,32,,
+,11,,,,,,,,,,3,,"CommonOre; RareOre","2100;400",,4,,,,336,,,38,,
+,12,,,,,,,,,,3,,"CommonOre",2200,,5,,,,351,,,42,,
+,13,,,,,,,,,,5,,"CommonOre",2300,,5,,,,366,,,46,,
+,14,,,,,,,,,,5,,"CommonOre; RareOre","2400;600",,5,,,,381,,,50,,
+,15,,,,,,,,,,5,,"CommonOre",2500,,6,,,,396,,,54,,
+,16,,,,,,,,,,7,,"CommonOre",2600,,6,,,,411,,,58,,
+,17,,,,,,,,,,7,,"CommonOre; RareOre","2700;600",,6,,,,426,,,62,,
+,18,,,,,,,,,,7,,,,,7,,,,441,,,66,,
+"Seeking Shield",1,"sc/ui.sc","icon_gear_RC_SeekingShield","TID_GEAR_TITLE_SEEKING_SHIELD","TID_GEAR_INFO_SEEKING_SHIELD",,"Warrior Princess;","Common",,,1,1,"CommonOre",120,"RoyalChampionShieldBounce",1,,,,40,,,,"GearSeekingShield",
+,2,,,,,,,,,,1,,"CommonOre; RareOre","240;20",,1,,,,60,,,,,
+,3,,,,,,,,,,1,,"CommonOre",400,,2,,,,80,,,,,
+,4,,,,,,,,,,1,,"CommonOre",600,,2,,,,100,,,,,
+,5,,,,,,,,,,1,,"CommonOre; RareOre","840;100",,2,,,,120,,,,,
+,6,,,,,,,,,,1,,"CommonOre",1120,,3,,,,140,,,,,
+,7,,,,,,,,,,1,,"CommonOre",1440,,3,,,,160,,,,,
+,8,,,,,,,,,,1,,"CommonOre; RareOre","1800;200",,3,,,,180,,,,,
+,9,,,,,,,,,,1,,"CommonOre",1900,,4,,,,200,,,,,
+,10,,,,,,,,,,3,,"CommonOre",2000,,4,,,,220,,,,,
+,11,,,,,,,,,,3,,"CommonOre; RareOre","2100;400",,4,,,,240,,,,,
+,12,,,,,,,,,,3,,"CommonOre",2200,,5,,,,260,,,,,
+,13,,,,,,,,,,5,,"CommonOre",2300,,5,,,,280,,,,,
+,14,,,,,,,,,,5,,"CommonOre; RareOre","2400;600",,5,,,,300,,,,,
+,15,,,,,,,,,,5,,"CommonOre",2500,,6,,,,320,,,,,
+,16,,,,,,,,,,7,,"CommonOre",2600,,6,,,,340,,,,,
+,17,,,,,,,,,,7,,"CommonOre; RareOre","2700;600",,6,,,,360,,,,,
+,18,,,,,,,,,,7,,,,,7,,,,380,,,,,
+"Protective Cloak",1,"sc/ui.sc","icon_gear_RC_LifeGem","TID_GEAR_PROTECTIVE_CLOAK","TID_GEAR_INFO_PROTECTIVE_CLOAK",,"Warrior Princess;","Common",,,1,1,"CommonOre",120,"RCProtectiveCloak",1,,,,40,,,20,"GearProtective",
+,2,,,,,,,,,,1,,"CommonOre; RareOre","240;20",,1,,,,60,,,25,,
+,3,,,,,,,,,,1,,"CommonOre",400,,2,,,,80,,,30,,
+,4,,,,,,,,,,1,,"CommonOre",600,,2,,,,100,,,35,,
+,5,,,,,,,,,,1,,"CommonOre; RareOre","840;100",,2,,,,120,,,40,,
+,6,,,,,,,,,,1,,"CommonOre",1120,,3,,,,140,,,45,,
+,7,,,,,,,,,,1,,"CommonOre",1440,,3,,,,160,,,50,,
+,8,,,,,,,,,,1,,"CommonOre; RareOre","1800;200",,3,,,,180,,,55,,
+,9,,,,,,,,,,1,,"CommonOre",1900,,4,,,,200,,,60,,
+,10,,,,,,,,,,3,,"CommonOre",2000,,4,,,,220,,,65,,
+,11,,,,,,,,,,3,,"CommonOre; RareOre","2100;400",,4,,,,240,,,70,,
+,12,,,,,,,,,,3,,"CommonOre",2200,,5,,,,260,,,75,,
+,13,,,,,,,,,,5,,"CommonOre",2300,,5,,,,280,,,80,,
+,14,,,,,,,,,,5,,"CommonOre; RareOre","2400;600",,5,,,,300,,,85,,
+,15,,,,,,,,,,5,,"CommonOre",2500,,6,,,,320,,,90,,
+,16,,,,,,,,,,7,,"CommonOre",2600,,6,,,,340,,,95,,
+,17,,,,,,,,,,7,,"CommonOre; RareOre","2700;600",,6,,,,360,,,100,,
+,18,,,,,,,,,,7,,,,,7,,,,380,,,105,,
+"Earthquake Boots",1,"sc/ui.sc","icon_gear_BK_StompBoots","TID_GEAR_EARTHQUAKE_BOOTS","TID_GEAR_INFO_EARTHQUAKE_BOOTS",,"Barbarian King;","Common",,,1,1,"CommonOre",120,"BarbarianKingEarthquakeBoots",1,,,,209,,,13,"GearEQboots",
+,2,,,,,,,,,,1,,"CommonOre; RareOre","240;20",,1,,,,244,,,15,,
+,3,,,,,,,,,,1,,"CommonOre",400,,2,,,,278,,,17,,
+,4,,,,,,,,,,1,,"CommonOre",600,,2,,,,313,,,19,,
+,5,,,,,,,,,,1,,"CommonOre; RareOre","840;100",,2,,,,348,,,21,,
+,6,,,,,,,,,,1,,"CommonOre",1120,,3,,,,383,,,23,,
+,7,,,,,,,,,,1,,"CommonOre",1440,,3,,,,418,,,26,,
+,8,,,,,,,,,,1,,"CommonOre; RareOre","1800;200",,3,,,,452,,,28,,
+,9,,,,,,,,,,1,,"CommonOre",1900,,4,,,,522,,,32,,
+,10,,,,,,,,,,3,,"CommonOre",2000,,4,,,,677,,,40,,
+,11,,,,,,,,,,3,,"CommonOre; RareOre","2100;400",,4,,,,831,,,48,,
+,12,,,,,,,,,,3,,"CommonOre",2200,,5,,,,986,,,55,,
+,13,,,,,,,,,,5,,"CommonOre",2300,,5,,,,1140,,,63,,
+,14,,,,,,,,,,5,,"CommonOre; RareOre","2400;600",,5,,,,1295,,,71,,
+,15,,,,,,,,,,5,,"CommonOre",2500,,6,,,,1449,,,79,,
+,16,,,,,,,,,,7,,"CommonOre",2600,,6,,,,1604,,,86,,
+,17,,,,,,,,,,7,,"CommonOre; RareOre","2700;600",,6,,,,1758,,,94,,
+,18,,,,,,,,,,7,,,,,7,,,,1913,,,102,,
+"UNUSED1",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Barbarian King;","Common",,,1,1,"CommonOre",120,,,,,,,,,,,
+"Giant Gauntlet",1,"sc/ui.sc","icon_gear_BK_GiantGauntlet","TID_GEAR_GIANT_GAUNTLET","TID_GEAR_INFO_GIANT_GAUNTLET",,"Barbarian King;","Epic","TRUE",,1,1,"CommonOre",120,"BarbarianKingGetsBig",1,"Regeneration",1,,,,,17,"GearGauntlet",
+,2,,,,,,,,,,1,,"CommonOre; RareOre","240;20",,1,,2,,,,,20,,
+,3,,,,,,,,,,1,,"CommonOre",400,,2,,3,,,,,23,,
+,4,,,,,,,,,,1,,"CommonOre",600,,2,,4,,,,,26,,
+,5,,,,,,,,,,1,,"CommonOre; RareOre","840;100",,2,,5,,,,,29,,
+,6,,,,,,,,,,1,,"CommonOre",1120,,3,,6,,,,,32,,
+,7,,,,,,,,,,1,,"CommonOre",1440,,3,,7,,,,,34,,
+,8,,,,,,,,,,1,,"CommonOre; RareOre; EpicOre","1800;200;10",,3,,8,,,,,37,,
+,9,,,,,,,,,,1,,"CommonOre",1900,,4,,9,,,,,43,,
+,10,,,,,,,,,,1,,"CommonOre",2000,,4,,10,,,,,53,,
+,11,,,,,,,,,,1,,"CommonOre; RareOre; EpicOre","2100;400;20",,4,,11,,,,,63,,
+,12,,,,,,,,,,1,,"CommonOre",2200,,5,,12,,,,,74,,
+,13,,,,,,,,,,3,,"CommonOre",2300,,5,,13,,,,,84,,
+,14,,,,,,,,,,3,,"CommonOre; RareOre; EpicOre","2400;600;30",,5,,14,,,,,94,,
+,15,,,,,,,,,,3,,"CommonOre",2500,,6,,15,,,,,104,,
+,16,,,,,,,,,,5,,"CommonOre",2600,,6,,16,,,,,115,,
+,17,,,,,,,,,,5,,"CommonOre; RareOre; EpicOre","2700;600;50",,6,,17,,,,,125,,
+,18,,,,,,,,,,5,,"CommonOre",2800,,7,,18,,,,,135,,
+,19,,,,,,,,,,7,,"CommonOre",2900,,7,,19,,,,,140,,
+,20,,,,,,,,,,7,,"CommonOre; RareOre; EpicOre","3000;600;100",,7,,20,,,,,145,,
+,21,,,,,,,,,,7,,"CommonOre",3100,,8,,21,,,,,150,,
+,22,,,,,,,,,,8,,"CommonOre",3200,,8,,22,,,,,155,,
+,23,,,,,,,,,,8,,"CommonOre; RareOre; EpicOre","3300;600;120",,8,,23,,,,,160,,
+,24,,,,,,,,,,8,,"CommonOre",3400,,9,,24,,,,,165,,
+,25,,,,,,,,,,9,,"CommonOre",3500,,9,,25,,,,,170,,
+,26,,,,,,,,,,9,,"CommonOre; RareOre; EpicOre","3600;600;150",,9,,26,,,,,175,,
+,27,,,,,,,,,,9,,,,,10,,27,,,,,180,,
+"Vampstache",1,"sc/ui.sc","icon_gear_BK_VampStache","TID_GEAR_VAMPSTACHE","TID_GEAR_INFO_VAMPSTACHE",,"Barbarian King;","Common",,,3,1,"CommonOre",120,"BarbarianKingVampstache",1,,,,,,5,9,"GearVampstache",
+,2,,,,,,,,,,1,,"CommonOre; RareOre","240;20",,1,,,,,,6,10,,
+,3,,,,,,,,,,1,,"CommonOre",400,,2,,,,,,7,12,,
+,4,,,,,,,,,,1,,"CommonOre",600,,2,,,,,,8,13,,
+,5,,,,,,,,,,1,,"CommonOre; RareOre","840;100",,2,,,,,,9,15,,
+,6,,,,,,,,,,1,,"CommonOre",1120,,3,,,,,,10,16,,
+,7,,,,,,,,,,1,,"CommonOre",1440,,3,,,,,,11,18,,
+,8,,,,,,,,,,1,,"CommonOre; RareOre","1800;200",,3,,,,,,12,19,,
+,9,,,,,,,,,,1,,"CommonOre",1900,,4,,,,,,13,22,,
+,10,,,,,,,,,,3,,"CommonOre",2000,,4,,,,,,14,27,,
+,11,,,,,,,,,,3,,"CommonOre; RareOre","2100;400",,4,,,,,,15,32,,
+,12,,,,,,,,,,3,,"CommonOre",2200,,5,,,,,,16,37,,
+,13,,,,,,,,,,5,,"CommonOre",2300,,5,,,,,,17,42,,
+,14,,,,,,,,,,5,,"CommonOre; RareOre","2400;600",,5,,,,,,18,48,,
+,15,,,,,,,,,,5,,"CommonOre",2500,,6,,,,,,19,53,,
+,16,,,,,,,,,,7,,"CommonOre",2600,,6,,,,,,20,58,,
+,17,,,,,,,,,,7,,"CommonOre; RareOre","2700;600",,6,,,,,,21,63,,
+,18,,,,,,,,,,7,,,,,7,,,,,,22,68,,
+"UNUSED2",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Barbarian King;","Common",,,4,1,,,,,,,,,,,,,
+"UNUSED3",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Barbarian King;","Common",,,5,1,,,,,,,,,,,,,
+"UNUSED4",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Archer Queen;","Common",,,1,1,,,,,,,,,,,,,
+"Frozen Arrow",1,"sc/ui.sc","icon_gear_AQ_FreezeArrow","TID_GEAR_FROZEN_ARROW","TID_GEAR_INFO_FROZEN_ARROW",,"Archer Queen;","Epic","TRUE",,1,1,"CommonOre",120,"ArcherQueenAttackFreeze",1,,,,,,,35,"GearFrozenArrow",
+,2,,,,,,,,,,1,,"CommonOre; RareOre","240;20",,2,,,,,,,40,,
+,3,,,,,,,,,,1,,"CommonOre",400,,3,,,,,,,45,,
+,4,,,,,,,,,,1,,"CommonOre",600,,4,,,,,,,50,,
+,5,,,,,,,,,,1,,"CommonOre; RareOre","840;100",,5,,,,,,,55,,
+,6,,,,,,,,,,1,,"CommonOre",1120,,6,,,,,,,60,,
+,7,,,,,,,,,,1,,"CommonOre",1440,,7,,,,,,,66,,
+,8,,,,,,,,,,1,,"CommonOre; RareOre; EpicOre","1800;200;10",,8,,,,,,,72,,
+,9,,,,,,,,,,1,,"CommonOre",1900,,9,,,,,,,78,,
+,10,,,,,,,,,,1,,"CommonOre",2000,,10,,,,,,,85,,
+,11,,,,,,,,,,1,,"CommonOre; RareOre; EpicOre","2100;400;20",,11,,,,,,,92,,
+,12,,,,,,,,,,1,,"CommonOre",2200,,12,,,,,,,99,,
+,13,,,,,,,,,,3,,"CommonOre",2300,,13,,,,,,,105,,
+,14,,,,,,,,,,3,,"CommonOre; RareOre; EpicOre","2400;600;30",,14,,,,,,,111,,
+,15,,,,,,,,,,3,,"CommonOre",2500,,15,,,,,,,117,,
+,16,,,,,,,,,,5,,"CommonOre",2600,,16,,,,,,,122,,
+,17,,,,,,,,,,5,,"CommonOre; RareOre; EpicOre","2700;600;50",,17,,,,,,,127,,
+,18,,,,,,,,,,5,,"CommonOre",2800,,18,,,,,,,132,,
+,19,,,,,,,,,,7,,"CommonOre",2900,,19,,,,,,,136,,
+,20,,,,,,,,,,7,,"CommonOre; RareOre; EpicOre","3000;600;100",,20,,,,,,,140,,
+,21,,,,,,,,,,7,,"CommonOre",3100,,21,,,,,,,144,,
+,22,,,,,,,,,,8,,"CommonOre",3200,,22,,,,,,,148,,
+,23,,,,,,,,,,8,,"CommonOre; RareOre; EpicOre","3300;600;120",,23,,,,,,,152,,
+,24,,,,,,,,,,8,,"CommonOre",3400,,24,,,,,,,156,,
+,25,,,,,,,,,,9,,"CommonOre",3500,,25,,,,,,,160,,
+,26,,,,,,,,,,9,,"CommonOre; RareOre; EpicOre","3600;600;150",,26,,,,,,,164,,
+,27,,,,,,,,,,9,,,,,27,,,,,,,168,,
+"UNUSED5",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Archer Queen;","Common",,,1,1,,,,,,,,,,,,,
+"Piercing Arrow",1,"sc/ui.sc","icon_gear_AQ_MagicArrow","TID_GEAR_PIERCING_ARROW","TID_GEAR_INFO_PIERCING_ARROW",,"Archer Queen;","Common",,,2,1,"CommonOre",120,"ArcherQueenPierceProjectile",1,,,,80,,,20,"GearPiercingArrow",
+,2,,,,,,,,,,1,,"CommonOre; RareOre","240;20",,1,,,,93,,,23,,
+,3,,,,,,,,,,1,,"CommonOre",400,,2,,,,106,,,27,,
+,4,,,,,,,,,,1,,"CommonOre",600,,2,,,,119,,,30,,
+,5,,,,,,,,,,1,,"CommonOre; RareOre","840;100",,2,,,,133,,,33,,
+,6,,,,,,,,,,1,,"CommonOre",1120,,3,,,,146,,,37,,
+,7,,,,,,,,,,1,,"CommonOre",1440,,3,,,,159,,,40,,
+,8,,,,,,,,,,1,,"CommonOre; RareOre","1800;200",,3,,,,172,,,43,,
+,9,,,,,,,,,,1,,"CommonOre",1900,,4,,,,199,,,50,,
+,10,,,,,,,,,,3,,"CommonOre",2000,,4,,,,241,,,59,,
+,11,,,,,,,,,,3,,"CommonOre; RareOre","2100;400",,4,,,,284,,,68,,
+,12,,,,,,,,,,3,,"CommonOre",2200,,5,,,,326,,,77,,
+,13,,,,,,,,,,5,,"CommonOre",2300,,5,,,,369,,,86,,
+,14,,,,,,,,,,5,,"CommonOre; RareOre","2400;600",,5,,,,411,,,96,,
+,15,,,,,,,,,,5,,"CommonOre",2500,,6,,,,454,,,105,,
+,16,,,,,,,,,,7,,"CommonOre",2600,,6,,,,496,,,114,,
+,17,,,,,,,,,,7,,"CommonOre; RareOre","2700;600",,6,,,,539,,,123,,
+,18,,,,,,,,,,7,,,,,7,,,,581,,,132,,
+"UNUSED6",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Archer Queen;","Common",,,1,1,,,,,,,,,,,,,
+"UNUSED7",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Archer Queen;","Common",,,3,1,,,"ArcherQueenExtraDamageWall",1,,,,10,,,3,,
+"Healer Jar",1,"sc/ui.sc","icon_gear_AQ_HealerDoll","TID_GEAR_HEALER_JAR","TID_GEAR_INFO_HEALER_JAR",,"Archer Queen;","Common",,,5,1,"CommonOre",120,"ArcherQueenSpawnHealers",1,"Regeneration",1,,132,,,,"GearHealerJar",
+,2,,,,,,,,,,1,,"CommonOre; RareOre","240;20",,1,,2,,154,,,,,
+,3,,,,,,,,,,1,,"CommonOre",400,,2,,3,,177,,,,,
+,4,,,,,,,,,,1,,"CommonOre",600,,2,,4,,199,,,,,
+,5,,,,,,,,,,1,,"CommonOre; RareOre","840;100",,2,,5,,221,,,,,
+,6,,,,,,,,,,1,,"CommonOre",1120,,3,,6,,243,,,,,
+,7,,,,,,,,,,1,,"CommonOre",1440,,3,,7,,265,,,,,
+,8,,,,,,,,,,1,,"CommonOre; RareOre","1800;200",,3,,8,,287,,,,,
+,9,,,,,,,,,,1,,"CommonOre",1900,,4,,9,,331,,,,,
+,10,,,,,,,,,,3,,"CommonOre",2000,,4,,10,,402,,,,,
+,11,,,,,,,,,,3,,"CommonOre; RareOre","2100;400",,4,,11,,473,,,,,
+,12,,,,,,,,,,3,,"CommonOre",2200,,5,,12,,543,,,,,
+,13,,,,,,,,,,5,,"CommonOre",2300,,5,,13,,614,,,,,
+,14,,,,,,,,,,5,,"CommonOre; RareOre","2400;600",,5,,14,,685,,,,,
+,15,,,,,,,,,,5,,"CommonOre",2500,,6,,15,,756,,,,,
+,16,,,,,,,,,,7,,"CommonOre",2600,,6,,16,,826,,,,,
+,17,,,,,,,,,,7,,"CommonOre; RareOre","2700;600",,6,,17,,897,,,,,
+,18,,,,,,,,,,7,,,,,7,,18,,968,,,,,
+"UNUSED8",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Archer Queen;","Common",,,1,1,,,,,,,,,,,,,
+"Fire in a Can",1,"sc/ui.sc","icon_gear_GW_FireSack","TID_GEAR_FIRE_IN_A_CAN","TID_GEAR_INFO_FIRE_IN_A_CAN","TRUE","Grand Warden;","Common",,,2,1,,,"GrandWardenFireball",1,,,,,,,,"GearFireInCan",
+"UNUSED9",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Grand Warden;","Common",,,1,1,,,,,,,,,,,,,
+"Angry Tome",1,"sc/ui.sc","icon_gear_GW_RageGem","TID_GEAR_ANGRY_TOME","TID_GEAR_INFO_ANGRY_TOME",,"Grand Warden;","Common",,,4,1,"CommonOre",120,"GrandWardenRageAura",1,,,,,,5,12,"GearAngryTome",
+,2,,,,,,,,,,1,,"CommonOre; RareOre","240;20",,1,,,,,,6,14,,
+,3,,,,,,,,,,1,,"CommonOre",400,,2,,,,,,7,16,,
+,4,,,,,,,,,,1,,"CommonOre",600,,2,,,,,,8,18,,
+,5,,,,,,,,,,1,,"CommonOre; RareOre","840;100",,2,,,,,,9,20,,
+,6,,,,,,,,,,1,,"CommonOre",1120,,3,,,,,,10,22,,
+,7,,,,,,,,,,1,,"CommonOre",1440,,3,,,,,,11,24,,
+,8,,,,,,,,,,1,,"CommonOre; RareOre","1800;200",,3,,,,,,12,26,,
+,9,,,,,,,,,,1,,"CommonOre",1900,,4,,,,,,13,30,,
+,10,,,,,,,,,,3,,"CommonOre",2000,,4,,,,,,14,36,,
+,11,,,,,,,,,,3,,"CommonOre; RareOre","2100;400",,4,,,,,,15,43,,
+,12,,,,,,,,,,3,,"CommonOre",2200,,5,,,,,,16,49,,
+,13,,,,,,,,,,5,,"CommonOre",2300,,5,,,,,,17,56,,
+,14,,,,,,,,,,5,,"CommonOre; RareOre","2400;600",,5,,,,,,18,62,,
+,15,,,,,,,,,,5,,"CommonOre",2500,,6,,,,,,19,69,,
+,16,,,,,,,,,,7,,"CommonOre",2600,,6,,,,,,20,75,,
+,17,,,,,,,,,,7,,"CommonOre; RareOre","2700;600",,6,,,,,,21,82,,
+,18,,,,,,,,,,7,,,,,7,,,,,,22,88,,
+"UNUSED10",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Grand Warden;","Common",,,1,1,,,,,,,,,,,,,
+"UNUSED11",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Grand Warden;","Common",,,1,1,,,,,,,,,,,,,
+"UNUSED12",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Grand Warden;","Common",,,1,1,,,,,,,,,,,,,
+"UNUSED13",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Warrior Princess;","Common",,,1,1,,,,,,,,,,,,,
+"UNUSED14",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Warrior Princess;","Common",,,1,1,,,,,,,,,,,,,
+"Hog Rider Doll",1,"sc/ui.sc","icon_unit_a","TID_GEAR_HOG_TOTEM","TID_GEAR_INFO_HOG_TOTEM","TRUE","Warrior Princess;","Common",,,4,1,,,"RoyalChampionSpawnHeadhunter",1,,,,,,,,,
+"UNUSED16",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Warrior Princess;","Common",,,1,1,,,,,,,,,,,,,
+"UNUSED17",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Barbarian King;","Epic",,,1,1,,,"BarbarianKingSpawnOnTakeDamage",1,,,,,,,,,
+"UNUSED18",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Warrior Princess;","Common",,,6,1,,,"RoyalChampionElectrifiedShield",1,,,,,,,,,
+"Healing Tome",1,"sc/ui.sc","icon_gear_GW_HeartTome","TID_GEAR_HEALING_TOME","TID_GEAR_INFO_HEALING_TOME",,"Grand Warden;","Common",,,6,1,"CommonOre",120,"GrandWardenHealAura",1,,,,92,,,,"GearHealingTome",165
+,2,,,,,,,,,,1,,"CommonOre; RareOre","240;20",,1,,,,107,,,,,193
+,3,,,,,,,,,,1,,"CommonOre",400,,2,,,,122,,,,,220
+,4,,,,,,,,,,1,,"CommonOre",600,,2,,,,137,,,,,248
+,5,,,,,,,,,,1,,"CommonOre; RareOre","840;100",,2,,,,153,,,,,275
+,6,,,,,,,,,,1,,"CommonOre",1120,,3,,,,168,,,,,303
+,7,,,,,,,,,,1,,"CommonOre",1440,,3,,,,183,,,,,330
+,8,,,,,,,,,,1,,"CommonOre; RareOre","1800;200",,3,,,,198,,,,,358
+,9,,,,,,,,,,1,,"CommonOre",1900,,4,,,,229,,,,,413
+,10,,,,,,,,,,3,,"CommonOre",2000,,4,,,,280,,,,,463
+,11,,,,,,,,,,3,,"CommonOre; RareOre","2100;400",,4,,,,330,,,,,513
+,12,,,,,,,,,,3,,"CommonOre",2200,,5,,,,381,,,,,563
+,13,,,,,,,,,,5,,"CommonOre",2300,,5,,,,432,,,,,613
+,14,,,,,,,,,,5,,"CommonOre; RareOre","2400;600",,5,,,,482,,,,,663
+,15,,,,,,,,,,5,,"CommonOre",2500,,6,,,,533,,,,,713
+,16,,,,,,,,,,7,,"CommonOre",2600,,6,,,,584,,,,,763
+,17,,,,,,,,,,7,,"CommonOre; RareOre","2700;600",,6,,,,634,,,,,813
+,18,,,,,,,,,,7,,,,,7,,,,685,,,,,863
+"Protective RC Gear",1,"sc/ui.sc","icon_gear_GW_HeartTome","TID_GEAR_PROTECTIVE_CLOAK","TID_GEAR_INFO_PROTECTIVE_CLOAK","TRUE","Warrior Princess;","Common",,,6,1,,,"RCProtectiveCloak",1,,,,123,,,,,363
+,2,,,,,,,,,,1,,,,,1,,,,143,,,,,423
+,3,,,,,,,,,,1,,,,,2,,,,164,,,,,484
+,4,,,,,,,,,,1,,,,,2,,,,184,,,,,544
+,5,,,,,,,,,,1,,,,,2,,,,205,,,,,605
+,6,,,,,,,,,,1,,,,,3,,,,225,,,,,665
+,7,,,,,,,,,,1,,,,,3,,,,246,,,,,726
+,8,,,,,,,,,,1,,,,,3,,,,266,,,,,786
+,9,,,,,,,,,,1,,,,,4,,,,307,,,,,907
+,10,,,,,,,,,,3,,,,,4,,,,375,,,,,1108
+,11,,,,,,,,,,3,,,,,4,,,,443,,,,,1310
+,12,,,,,,,,,,3,,,,,5,,,,511,,,,,1511
+,13,,,,,,,,,,5,,,,,5,,,,579,,,,,1713
+,14,,,,,,,,,,5,,,,,5,,,,648,,,,,1914
+,15,,,,,,,,,,5,,,,,6,,,,716,,,,,2116
+,16,,,,,,,,,,7,,,,,6,,,,784,,,,,2317
+,17,,,,,,,,,,7,,,,,6,,,,852,,,,,2519
+,18,,,,,,,,,,7,,,,,7,,,,920,,,,,2720
