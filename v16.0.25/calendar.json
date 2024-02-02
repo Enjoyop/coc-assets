@@ -1,0 +1,660 @@
+{
+	"events": [
+		{
+			"type": 11,
+			"id": 31032,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20211001T080100.000Z",
+			"endTime": "20301001T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"items": [
+				{"deliverable": {"type": "1", "resource": "3000001", "resourceAmount": 2500000}, "cost": 25},
+				{"deliverable": {"type": "1", "resource": "3000002", "resourceAmount": 2500000}, "cost": 25},
+				{"deliverable": {"type": "8", "magicItem": "46000007", "magicItemAmount": 1, "source": 0}, "cost": 10},
+				{"deliverable": {"type": "8", "magicItem": "46000006", "magicItemAmount": 1, "source": 0}, "cost": 10},
+				{"deliverable": {"type": "8", "magicItem": "46000022", "magicItemAmount": 1, "source": 0}, "cost": 20},
+				{"deliverable": {"type": "8", "magicItem": "46000014", "magicItemAmount": 1, "source": 0}, "cost": 30},
+				{"deliverable": {"type": "8", "magicItem": "46000013", "magicItemAmount": 10, "source": 0}, "cost": 50},
+				{"deliverable": {"type": "8", "magicItem": "46000015", "magicItemAmount": 1, "source": 0}, "cost": 120, "cooldownHours": 168},
+				{"deliverable": {"type": "8", "magicItem": "46000016", "magicItemAmount": 1, "source": 0}, "cost": 120, "cooldownHours": 168},
+				{"deliverable": {"type": "8", "magicItem": "46000017", "magicItemAmount": 1, "source": 0}, "cost": 120, "cooldownHours": 168},
+				{"deliverable": {"type": "8", "magicItem": "46000018", "magicItemAmount": 1, "source": 0}, "cost": 165, "cooldownHours": 168},
+				{"deliverable": {"type": "3", "decoration": "18000051"}, "cost": 100},
+				{"deliverable": {"type": "3", "decoration": "18000050"}, "cost": 250, "minLeague": "48000009"},
+				{"deliverable": {"type": "3", "decoration": "18000049"}, "cost": 500, "minLeague": "48000012"},
+				{"deliverable": {"type": "3", "decoration": "18000048"}, "cost": 1000, "minLeague": "48000015"},
+				{"deliverable": {"type": "3", "decoration": "18000047"}, "cost": 2000, "minLeague": "48000018"},
+				{"deliverable": {"type": "9", "skin": "52000091"}, "cost": 2000},
+				{"deliverable": {"type": "9", "skin": "52000102"}, "cost": 2000},
+				{"deliverable": {"type": "9", "skin": "52000080"}, "cost": 2000},
+				{"deliverable": {"type": "9", "skin": "52000112"}, "cost": 2000},
+				{"deliverable": {"type": "12", "villageBackground": "60000042"}, "cost": 2400}
+			]
+		},
+		{
+			"type": 16,
+			"id": 40413,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20231231T080000.000Z",
+			"endTime": "20331201T085400.000Z",
+			"visibleEndTime": "20331201T085400.000Z",
+			"skin": "52000106",
+			"skinPack": {
+				"Path": "/dcfc9eac-a4f3-47e9-9588-61240cd283d1_skin_20231219141037.scp",
+				"ChecksumSha1": "cceb1e61a40dc7fb0cd3bab4bf9529b4d22712a2"
+			},
+			"fallbackSkinPackIos": {
+				"Path": "/ae450e88-c5e5-4fd2-aedb-96079a262834_skin_20231219141037_fallback_ios.scp",
+				"ChecksumSha1": "5cf1cad9720747bfe32a355101c57e609a96d6a4"
+			},
+			"fallbackSkinPackAndroid": {
+				"Path": "/a3c44895-c58a-4eac-9898-f9ba3a47eb9c_skin_20231219141037_fallback_android.scp",
+				"ChecksumSha1": "2773023c8dddc57b5579a991091a9f2b40f47637"
+			},
+			"key": {
+				"Key": "77ff1325336846ab1e4f7fdee3b7dcc2126f6dcad6874602ae9324b224676cab",
+				"Nonce": "55ac5f89eefc250f18b7ee5825a4ce538b18aad35deda6e4"
+			}
+		},
+		{
+			"type": 16,
+			"id": 40414,
+			"version": 2,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20231231T080000.000Z",
+			"endTime": "20331201T090400.000Z",
+			"visibleEndTime": "20331201T090400.000Z",
+			"skin": "52000133",
+			"skinPack": {
+				"Path": "/7800cbce-fd6d-478a-866f-95270b0a4b9a_14fdb871_5da7_4f5a_a845_9ef068ddf4a3_skin_20240119131614.scp",
+				"ChecksumSha1": "0dc73ee051f24e051cd6e8d157eb598a7538fefd"
+			},
+			"fallbackSkinPackIos": {
+				"Path": "/c63389ea-7685-4838-bb76-bfc4a13cbead_fc6606e0_f13d_4989_afac_dc3aed828fdc_skin_20240119131614_fallback_ios.scp",
+				"ChecksumSha1": "6e1fd9715fd8d4da9e4731b2cef99e2fe756ddc2"
+			},
+			"fallbackSkinPackAndroid": {
+				"Path": "/da04ef7a-b973-48e1-9ce8-068a54465a2e_6d16d454_79fb_4f41_8703_ad04debe5774_skin_20240119131614_fallback_android.scp",
+				"ChecksumSha1": "f7a77b7165f866721990ba6ce07f6fb6ab38fa18"
+			},
+			"key": {
+				"Key": "968bcc76ce2fcb7435974ee5d208159a1d2609ad11ebe707f385c8dbf807f0c8",
+				"Nonce": "85db04f2d7b7ac324ca448d791bf283a16bd7a89b2086d36"
+			}
+		},
+		{
+			"type": 16,
+			"id": 40415,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20240103T080000.000Z",
+			"endTime": "20331201T083700.000Z",
+			"visibleEndTime": "20331201T083700.000Z",
+			"skin": "52000156",
+			"skinPack": {
+				"Path": "/c2b3f57c-6762-406e-bb0d-5b0c1411d663_skin_20231221115400.scp",
+				"ChecksumSha1": "c5436d547834df48dd2ce203c7175e0469ce1677"
+			},
+			"fallbackSkinPackIos": {
+				"Path": "/b31956d7-81e7-4391-89a4-c0e60818c136_skin_20231221115400_fallback_ios.scp",
+				"ChecksumSha1": "bfcfecc33684f8fc75a3780b54acdafbcb36562b"
+			},
+			"fallbackSkinPackAndroid": {
+				"Path": "/9afd2108-fe3b-426b-aff3-14d4d79bc6de_skin_20231221115400_fallback_android.scp",
+				"ChecksumSha1": "7620ab4463586c684b97b024952e426eb97db183"
+			},
+			"key": {
+				"Key": "3f2203b49576a9307eceabf1812dc843fcbc4f43dc0253da7951dbb0bb61f16b",
+				"Nonce": "5b9189780e0525336bbcfb511d30256134c2c7679531480c"
+			}
+		},
+		{
+			"type": 18,
+			"id": 40416,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20240103T080000.000Z",
+			"endTime": "20340101T121700.000Z",
+			"visibleEndTime": "20340101T121700.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"localizationFile": {
+				"Path": "/50a9506f-a1b5-49c0-941f-3115b571d89c_North_BB_Scenery_Offer_Card.csv",
+				"ChecksumSha1": "e65e73785ed34deb44efcb41c0c0c3321bd0d5ad"
+			},
+			"villageBackground": "60000054",
+			"nightMode": true,
+			"foregroundExportName": "Player_BB_Background",
+			"tid": "TID_EVENT_TITLE_BB_WINTER_SCENERY",
+			"homeType": 2,
+			"sceneryScFile": {
+				"Path": "/ca9d2cf6-e561-4b90-b8a2-409ff4e873a9.sc",
+				"ChecksumSha1": "02263137d4e20648fd43349ac4e61404d7647036",
+				"Key": "3aaef8e1b59eacaf8b8b659b2ab799ffa16da032a935c8e6b3b3e5ea09c2ecf9",
+				"Nonce": "3658d0017ede89aaa4e61df8a930913c9575c67531e8f92c"
+			},
+			"buildingBasesScFile": {
+				"Path": "/5b435e56-5010-4ff9-ae3a-506d971ac40b.sc",
+				"ChecksumSha1": "3682ccddb734bd0df943a070d62eef50ba2f7821",
+				"Key": "376ac6e9c9457f1c3f8796f7ec4e2280709cf8b96b1704290c5cb134f3e76c33",
+				"Nonce": "7ac82a5e06b2512d527f3103a8855a713a0846c409392bd9"
+			},
+			"iconFile": {
+				"Path": "/c02ba2ea-eba1-4e4b-b459-b87caf6776c1.ktx",
+				"ChecksumSha1": "6ef104ba3f26a346394bc1659cb58e03c5308111",
+				"Key": "7d4f37d03f04beff85a169cb730ea89474cfa378176c1fee3be1e25337dfeb1d",
+				"Nonce": "4a3378b9e768db5ad32f821fe039247daa3140923138ef79"
+			},
+			"thumbnailFile": {
+				"Path": "/0b4aa5fd-bb5a-48b2-9725-f68750db209e.ktx",
+				"ChecksumSha1": "6c4bbf40134fb72cc2eea29c48b4071808054517",
+				"Key": "b70f55cf2522673d301dc1d270bf063d9b5f2e76f547ebc9311717e4595af73a",
+				"Nonce": "4b5d3ba8a30d65ec735ca343af7a0ec3fc5899f1f1094f11"
+			},
+			"musicFile": {
+				"Path": "/e9a96cb3-e44a-4cbe-b05f-00a2f62e0e15.ogg",
+				"ChecksumSha1": "bdae385ac6b374433cc8513960e9d7a19f7529b1",
+				"Key": "d6dc899c3e901290c680dc1767f8d946ac29b169674ea18bf42d52d1d54c0917",
+				"Nonce": "9ac2de869399296c81fce1576e22cd8f84640a0cefcfad83"
+			},
+			"parallaxLayers": [
+				{"layer": "foreground_1", "strength": 10},
+				{"layer": "foreground_2", "strength": 10},
+				{"layer": "foreground_3", "strength": 15},
+				{"layer": "foreground_4", "strength": 15}
+			],
+			"villageObjectLocators": [
+				{"locator": "gate_next_location", "villageObject": "39000029"},
+				{"locator": "gate_prev_location", "villageObject": "39000030"},
+				{"locator": "ship_location", "villageObject": "39000001"},
+				{"locator": "boat_location", "villageObject": "39000003"},
+				{"locator": "harbor_location", "villageObject": "39000031"},
+				{"locator": "loot_cart_bb_location", "villageObject": "39000028"}
+			]
+		},
+		{
+			"type": 28,
+			"id": 40433,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "20240129T070100.000Z",
+			"startTime": "20240202T070000.000Z",
+			"endTime": "20240205T070000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/5d114d56-5d81-4ec6-8113-841c22dc6fbb_raid_weekend.png",
+				"ChecksumSha1": "e189252645367f9192eb496ac7df8b0dae1f7e61"
+			},
+			"scFile": {
+				"Path": "/34202d5d-0a6d-4416-9ac4-77499d207857_purple_background.sc",
+				"ChecksumSha1": "0b48e0186b6651a30cb26e4e2b4adb89691e31e9"
+			},
+			"localizationFile": {
+				"Path": "/333d101e-7f1b-402a-8b46-5a936da1e47d.csv",
+				"ChecksumSha1": "ea15df7670dcc48da585fc62e7072478b10f9308",
+				"Key": "bd9ed69a803b73d71ee7b02c9f21cfc59d52c13a408dbf159c312f39a0d84dad",
+				"Nonce": "778ebf768d75acb79276f26d14d2b1e5dacb38852b2f349e"
+			},
+			"attackCount": 5
+		},
+		{
+			"type": 7,
+			"id": 40438,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20240130T080000.000Z",
+			"endTime": "20240206T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"free": [
+				{"item": "3000001", "amount": 500000, "start": 0, "end": 10080}
+			],
+			"offer": [
+				{"item": "3000021", "amount": 15, "maxBuys": 1, "cost": 275},
+				{"item": "3000020", "amount": 60, "maxBuys": 2, "cost": 150},
+				{"item": "3000019", "amount": 300, "maxBuys": 5, "cost": 150},
+				{"item": "46000007", "amount": 1, "maxBuys": 3, "cost": 25},
+				{"item": "46000025", "amount": 1, "maxBuys": 3, "cost": 100},
+				{"item": "46000006", "amount": 1, "maxBuys": 3, "cost": 115},
+				{"item": "46000022", "amount": 1, "maxBuys": 3, "cost": 120},
+				{"item": "46000021", "amount": 1, "maxBuys": 3, "cost": 150},
+				{"item": "46000023", "amount": 1, "maxBuys": 3, "cost": 150},
+				{"item": "46000014", "amount": 1, "maxBuys": 3, "cost": 285},
+				{"item": "46000009", "amount": 1, "maxBuys": 1, "cost": 1500},
+				{"item": "46000003", "amount": 1, "maxBuys": 1, "cost": 500},
+				{"item": "46000002", "amount": 1, "maxBuys": 1, "cost": 925},
+				{"item": "46000001", "amount": 1, "maxBuys": 1, "cost": 925},
+				{"item": "46000020", "amount": 1, "maxBuys": 1, "cost": 500},
+				{"item": "46000013", "amount": 5, "maxBuys": 3, "cost": 250}
+			],
+			"capital": [
+				{"item": "3000001", "amount": 2500000, "maxBuys": 1, "cost": 300},
+				{"item": "3000002", "amount": 2500000, "maxBuys": 1, "cost": 300},
+				{"item": "3000003", "amount": 25000, "maxBuys": 1, "cost": 300},
+				{"item": "3000007", "amount": 1000000, "maxBuys": 1, "cost": 250},
+				{"item": "3000008", "amount": 1000000, "maxBuys": 1, "cost": 250},
+				{"item": "46000007", "amount": 1, "maxBuys": 3, "cost": 100},
+				{"item": "46000019", "amount": 1, "maxBuys": 3, "cost": 100},
+				{"item": "46000025", "amount": 1, "maxBuys": 3, "cost": 150},
+				{"item": "46000005", "amount": 1, "maxBuys": 3, "cost": 150},
+				{"item": "46000021", "amount": 1, "maxBuys": 3, "cost": 150},
+				{"item": "46000006", "amount": 1, "maxBuys": 3, "cost": 200},
+				{"item": "46000022", "amount": 1, "maxBuys": 3, "cost": 200},
+				{"item": "46000024", "amount": 1, "maxBuys": 3, "cost": 200},
+				{"item": "46000013", "amount": 5, "maxBuys": 3, "cost": 300},
+				{"item": "82000043", "amount": 1, "maxBuys": 1, "cost": 3500},
+				{"item": "82000044", "amount": 1, "maxBuys": 1, "cost": 3500},
+				{"item": "82000039", "amount": 1, "maxBuys": 1, "cost": 3500},
+				{"item": "82000050", "amount": 1, "maxBuys": 1, "cost": 3000},
+				{"item": "82000086", "amount": 1, "maxBuys": 1, "cost": 2500},
+				{"item": "82000065", "amount": 1, "maxBuys": 1, "cost": 2000}
+			],
+			"personallyTargeted": false
+		},
+		{
+			"type": 0,
+			"id": 40452,
+			"version": 3,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "20240130T080000.000Z",
+			"startTime": "20240201T080000.000Z",
+			"endTime": "20240204T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/868d2ee2-039c-4fcd-9db1-87adc1f98d19_valkyrie_image.png",
+				"ChecksumSha1": "e36a36f583685187babed6d6be010e2450b93a5b"
+			},
+			"scFile": {
+				"Path": "/f5ab2dcc-ee26-49d2-81f8-2fd05a041e55_purple_background.sc",
+				"ChecksumSha1": "e431049eb08697197ff5083fb2fe9f8adee6cf02"
+			},
+			"localizationFile": {
+				"Path": "/b72e3504-3ae0-4381-a523-402b325956bd_Valk_troop_event_2022.csv",
+				"ChecksumSha1": "7b72840ab2b16cb16e2ad077b51ec29f6aecb013"
+			},
+			"functions": [
+				{"name": "UseTroopGiveBooster", "parameters": ["4000012", "5", "15", "0", "400", "46000005", "1"]}
+			]
+		},
+		{
+			"type": 0,
+			"id": 40453,
+			"version": 3,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "20240130T080000.000Z",
+			"startTime": "20240201T080000.000Z",
+			"endTime": "20240204T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/d5ecba66-6e79-437f-a463-97ba2808c0f9_healer_image.png",
+				"ChecksumSha1": "9bb14445bf85bb213f0a09d93a89b8d1a6295b79"
+			},
+			"scFile": {
+				"Path": "/e790579f-b1b3-4d3d-9b81-203b87372e2d_purple_background.sc",
+				"ChecksumSha1": "12578402311514fca4f783317866a6f065448e37"
+			},
+			"localizationFile": {
+				"Path": "/00165d36-11db-49e3-baf1-a61e58f4df82_Healer_Event.csv",
+				"ChecksumSha1": "2250c0c97a5b2d2fd0b9204d8207abedf04325d2"
+			},
+			"functions": [
+				{"name": "UseTroopGiveBooster", "parameters": ["4000007", "5", "10", "0", "400", "46000021", "1"]}
+			]
+		},
+		{
+			"type": 0,
+			"id": 41440,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "20240130T080000.000Z",
+			"startTime": "20240201T080000.000Z",
+			"endTime": "20240204T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/23fd3896-dec6-45bb-bcc1-289ff9e9e7ef_super_archer.png",
+				"ChecksumSha1": "fe85c3fe8f7a8fff45231e881c2a6c4a10d21a58"
+			},
+			"scFile": {
+				"Path": "/40c4a60d-8a48-4bf0-93c5-40b2c788349d_red_background.sc",
+				"ChecksumSha1": "3db252474982307fd098d9612692e26b80cf2887"
+			},
+			"localizationFile": {
+				"Path": "/d2b55dbc-73f1-4686-b8bd-17caf15cd0e1_Super_Troop_event___Super_Archer.csv",
+				"ChecksumSha1": "3d14dbae788fe1547a0b711b1e97382c596a1630"
+			},
+			"functions": [
+				{"name": "UseTroopGiveBooster", "parameters": ["4000027", "5", "1", "0", "400", "46000022", "1"]}
+			]
+		},
+		{
+			"type": 18,
+			"id": 42937,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20240131T000000.000Z",
+			"endTime": "20340101T000000.000Z",
+			"visibleEndTime": "20340101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"localizationFile": {
+				"Path": "/eb3474de-f4cd-4e40-a6ab-9560eebaea04_texts_skins.csv",
+				"ChecksumSha1": "62ca16e113e37a6c1ea93710c2adea72a73e5945"
+			},
+			"villageBackground": "60000055",
+			"foregroundExportName": "Player_Background",
+			"tid": "TID_MAGIC_THEATER_SCENERY",
+			"sceneryScFile": {
+				"Path": "/8d1a1405-5f4f-4c5b-ab0f-3b383347bb4b_scenery_lny2024_dl_opt.sc",
+				"ChecksumSha1": "10de131476473cc2f2d730d9475e3f2200790af4"
+			},
+			"baseScFile": {
+				"Path": "/027fb15b-33a1-460c-9506-2e4f898314b7_scenery_gamearea_lny2024_dl_opt.sc",
+				"ChecksumSha1": "fb16149296c5415eb02eeb9e23bc5a17e2bc4208"
+			},
+			"buildingBasesScFile": {
+				"Path": "/34db835c-810d-4e48-a342-4424ddbead33_scenery_bases_lny2024_dl_opt.sc",
+				"ChecksumSha1": "6e586f2664dead2a7367b5698feff7dae60ee78f"
+			},
+			"iconFile": {
+				"Path": "/dcd63490-5123-4b6d-8c8f-35bb58efbd7b_scenery_lny2024_dl_opt.ktx",
+				"ChecksumSha1": "a17cfb35fff59bf31274a535a404717b2cdd7c7e"
+			},
+			"thumbnailFile": {
+				"Path": "/2b965bc2-1d49-447c-9dcd-0e64dfd71c24_lny2024_bgr_image_dl_opt.ktx",
+				"ChecksumSha1": "5f00983da937c159639cf7deb9b1b0cb00a9e1ec"
+			},
+			"musicFile": {
+				"Path": "/d9eb7566-b9a9-4e98-81fb-9f9c242b0ffd_LNY_2024_scenery_music_dl_opt.ogg",
+				"ChecksumSha1": "798e114a73558660006b66d20443d0b05e1ab63d"
+			},
+			"parallaxLayers": [
+				{"layer": "foreground1", "strength": 15}
+			],
+			"villageObjectLocators": [
+				{"locator": "ship_location", "villageObject": "39000000"},
+				{"locator": "boat_location", "villageObject": "39000002"},
+				{"locator": "air_ship_location", "villageObject": "39000025"},
+				{"locator": "forge_location", "villageObject": "39000024"}
+			]
+		},
+		{
+			"type": 16,
+			"id": 42939,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20240130T080000.000Z",
+			"endTime": "20340101T132400.000Z",
+			"visibleEndTime": "20340101T132400.000Z",
+			"skin": "52000132",
+			"skinPack": {
+				"Path": "/f3fdef1e-4f18-421b-83e6-17cd67441d36_skin_20240118123603.scp",
+				"ChecksumSha1": "3d70395e9c5a7e30b6188c256c6f0ea2d8080e1d"
+			},
+			"fallbackSkinPackIos": {
+				"Path": "/bd027bde-ae4d-44d2-8c57-5624a0072d3e_skin_20240118123603_fallback_ios.scp",
+				"ChecksumSha1": "79388b27d9d9c5e20c7832d047816d4a8a929a49"
+			},
+			"fallbackSkinPackAndroid": {
+				"Path": "/71d5aa53-0023-4752-bc37-d95ccc1e4af7_skin_20240118123603_fallback_android.scp",
+				"ChecksumSha1": "db74ad4259fc46c9203a9711791a402793016f5d"
+			},
+			"key": {
+				"Key": "0a485b29e4bb886848f58a1ea7161f7118ddca1bfa10488975241cb238fecad9",
+				"Nonce": "961bacb7a29d329f1cf10e21d36132b778854d40bcfcb18f"
+			}
+		},
+		{
+			"type": 8,
+			"id": 43933,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "20240126T080000.000Z",
+			"startTime": "20240201T080000.000Z",
+			"endTime": "20240209T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/d5200536-dfa9-48c8-8ab0-caf9e8ea7234_original_war_leagues.png",
+				"ChecksumSha1": "e00ea00a36812df0abbcf1bc6f90e2acb8fbc583"
+			},
+			"scFile": {
+				"Path": "/fb188b80-a449-4837-ab9c-3872e96a75ac_13bd1528_2495_4a3d_b5a1_abe0b8cf60e8_07c7617e_572f_438a_a8bb_7466bd06e20a_clan_games_background_march__1_.sc",
+				"ChecksumSha1": "240a083bf5daeec4949f61c22244e0c3ea58c41d"
+			},
+			"localizationFile": {
+				"Path": "/464b6df1-ab53-4fe5-a3de-154a9cba55ab_CWL_text_with_link_6clans.csv",
+				"ChecksumSha1": "722faa8dbc3f6ce180b6bd1bd952fe70b97c70b4"
+			},
+			"signupDuration": 172800,
+			"bracketSize": 6,
+			"warSizes": [15, 30],
+			"warDuration": 172800,
+			"warAttacks": 1,
+			"warWinLootMultiplier": 3,
+			"warDrawLootMultiplier": 3,
+			"warLoseLootMultiplier": 3,
+			"warWinLootMultiplierOre": 1,
+			"warDrawLootMultiplierOre": 1,
+			"warLoseLootMultiplierOre": 1
+		},
+		{
+			"type": 6,
+			"id": 44446,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "20240201T080000.000Z",
+			"startTime": "20240201T080000.000Z",
+			"endTime": "20240301T080000.000Z",
+			"visibleEndTime": "20240301T080000.000Z",
+			"scFile": {
+				"Path": "/3e77292d-b6a2-46a8-9794-9e549e91c84f_loading_LNY_2024.sc",
+				"ChecksumSha1": "ff226d98f808180fda88d6397755e62d4b8c47b5"
+			},
+			"logoAlign": "1"
+		},
+		{
+			"type": 13,
+			"id": 44447,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "20240201T080100.000Z",
+			"startTime": "20240201T080100.000Z",
+			"endTime": "20240301T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
+			"eventEntryName": "CustomSCLoading",
+			"imageFile": {
+				"Path": "/fa446167-c8a0-40c0-9971-54ac827d8bca_LNY_Gold_Pass_RC.png",
+				"ChecksumSha1": "8b4124a10c7626617881ec0576e4725e2d996738"
+			},
+			"scFile": {
+				"Path": "/6847a8a9-b5b1-40f4-a36c-76ce6ea47c54_battlepass_background_gold.sc",
+				"ChecksumSha1": "14b21f884914345a687f7fdb749fc201d32a4ea4"
+			},
+			"localizationFile": {
+				"Path": "/936112a5-9dd1-4871-abf5-17d9005d97b2_February_Season.csv",
+				"ChecksumSha1": "63c928feba42e0ed9d1e25c4d17240d87a768ad5"
+			},
+			"weeks": [
+				{"tasks": ["53000363", "53000034", "53000202", "53000310", "53000093", "53000154"]},
+				{"tasks": ["53000424", "53000035", "53000205", "53000357", "53000083", "53000128"]},
+				{"tasks": ["53000366", "53000387", "53000005", "53000345", "53000335", "53000130"]},
+				{"tasks": ["53000168", "53000033", "53000025", "53000390", "53000350", "53000163"]}
+			],
+			"rewardTiers": [
+				{"points": 0, "premiumReward": "52000117", "premiumRewardAmount": 1},
+				{"points": 40, "freeReward": "46000007", "freeRewardAmount": 2, "premiumReward": "37000040", "premiumRewardAmount": 99},
+				{"points": 80, "premiumReward": "37000034", "premiumRewardAmount": 10},
+				{"points": 120, "freeReward": "46000019", "freeRewardAmount": 1, "premiumReward": "37000074", "premiumRewardAmount": 10},
+				{"points": 160, "premiumReward": "37000037", "premiumRewardAmount": 10},
+				{"points": 200, "freeReward": "3000013", "freeRewardAmount": 500, "premiumReward": "37000039", "premiumRewardAmount": 100000},
+				{"points": 240, "premiumReward": "37000122", "premiumRewardAmount": 40000},
+				{"points": 280, "freeReward": "46000025", "freeRewardAmount": 1, "premiumReward": "46000024", "premiumRewardAmount": 1},
+				{"points": 320, "premiumReward": "46000000", "premiumRewardAmount": 1},
+				{"points": 360, "freeReward": "46000006", "freeRewardAmount": 1, "premiumReward": "46000005", "premiumRewardAmount": 2},
+				{"points": 400, "premiumReward": "37000123", "premiumRewardAmount": 1},
+				{"points": 460, "freeReward": "46000022", "freeRewardAmount": 1, "premiumReward": "46000021", "premiumRewardAmount": 2},
+				{"points": 520, "premiumReward": "46000013", "premiumRewardAmount": 5},
+				{"points": 580, "freeReward": "46000023", "freeRewardAmount": 1, "premiumReward": "37000039", "premiumRewardAmount": 150000},
+				{"points": 640, "premiumReward": "37000122", "premiumRewardAmount": 60000},
+				{"points": 700, "freeReward": "46000005", "freeRewardAmount": 1, "premiumReward": "37000124", "premiumRewardAmount": 2},
+				{"points": 760, "premiumReward": "37000125", "premiumRewardAmount": 4},
+				{"points": 820, "freeReward": "46000021", "freeRewardAmount": 1, "premiumReward": "37000034", "premiumRewardAmount": 15},
+				{"points": 880, "premiumReward": "37000074", "premiumRewardAmount": 15},
+				{"points": 940, "freeReward": "3000013", "freeRewardAmount": 1000, "premiumReward": "37000037", "premiumRewardAmount": 15},
+				{"points": 1000, "premiumReward": "46000008", "premiumRewardAmount": 1},
+				{"points": 1080, "freeReward": "3000001", "freeRewardAmount": 1000000, "premiumReward": "46000009", "premiumRewardAmount": 1},
+				{"points": 1160, "premiumReward": "37000039", "premiumRewardAmount": 200000},
+				{"points": 1240, "freeReward": "3000002", "freeRewardAmount": 1000000, "premiumReward": "37000122", "premiumRewardAmount": 80000},
+				{"points": 1320, "premiumReward": "3000013", "premiumRewardAmount": 2000},
+				{"points": 1400, "freeReward": "3000007", "freeRewardAmount": 1000000, "premiumReward": "46000011", "premiumRewardAmount": 1},
+				{"points": 1480, "premiumReward": "37000034", "premiumRewardAmount": 20},
+				{"points": 1560, "freeReward": "3000008", "freeRewardAmount": 1000000, "premiumReward": "37000074", "premiumRewardAmount": 20},
+				{"points": 1640, "premiumReward": "37000037", "premiumRewardAmount": 20},
+				{"points": 1720, "freeReward": "3000003", "freeRewardAmount": 10000, "premiumReward": "46000012", "premiumRewardAmount": 1},
+				{"points": 1800, "premiumReward": "46000002", "premiumRewardAmount": 1},
+				{"points": 1880, "freeReward": "3000001", "freeRewardAmount": 2000000, "premiumReward": "37000039", "premiumRewardAmount": 300000},
+				{"points": 1960, "premiumReward": "37000122", "premiumRewardAmount": 100000},
+				{"points": 2040, "freeReward": "3000002", "freeRewardAmount": 2000000, "premiumReward": "46000013", "premiumRewardAmount": 5},
+				{"points": 2120, "premiumReward": "46000010", "premiumRewardAmount": 1},
+				{"points": 2200, "freeReward": "3000013", "freeRewardAmount": 1500, "premiumReward": "46000014", "premiumRewardAmount": 1},
+				{"points": 2300, "premiumReward": "46000003", "premiumRewardAmount": 1},
+				{"points": 2400, "freeReward": "3000003", "freeRewardAmount": 20000, "premiumReward": "46000020", "premiumRewardAmount": 1},
+				{"points": 2500, "premiumReward": "3000013", "premiumRewardAmount": 3000},
+				{"points": 2600, "freeReward": "46000003", "freeRewardAmount": 1, "premiumReward": "46000001", "premiumRewardAmount": 1}
+			],
+			"keyRewardImage": {
+				"Path": "/73563449-de67-4374-b4f7-66efc2b4a827_LNY_RC_Keyreward.png",
+				"ChecksumSha1": "af00e5344e7d6c715f2995a54b8a230704f86e5c"
+			}
+		},
+		{
+			"type": 16,
+			"id": 44449,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20240131T080000.000Z",
+			"endTime": "20340101T132000.000Z",
+			"visibleEndTime": "20340101T132000.000Z",
+			"skin": "52000117",
+			"skinPack": {
+				"Path": "/4499a121-a7df-4b6d-ad0f-e6128dc065aa_skin_20240130110823.scp",
+				"ChecksumSha1": "f2f455f6ead78af272f91421b742f39204001aee"
+			},
+			"fallbackSkinPackIos": {
+				"Path": "/0613721b-0943-4cfa-ae8f-9f6e6eea0222_skin_20240130110823_fallback_ios.scp",
+				"ChecksumSha1": "5004eb031f38a76bad23bf68bd6b6dded66dd466"
+			},
+			"fallbackSkinPackAndroid": {
+				"Path": "/e1c66e39-bbd2-446f-8392-f997b93ca01c_skin_20240130110823_fallback_android.scp",
+				"ChecksumSha1": "158861997d685776f71c56a8b3bcd944818c3b8e"
+			},
+			"key": {
+				"Key": "57260fc025f79c8bf913142d56ca76dc43aa3c8fbfe958f7f45d4998307acb70",
+				"Nonce": "b98e718a11cda63d9ffe9f4dd9d12667285650cfb8af3147"
+			}
+		},
+		{
+			"type": 16,
+			"id": 44450,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20240131T080000.000Z",
+			"endTime": "20340101T131700.000Z",
+			"visibleEndTime": "20340101T131700.000Z",
+			"skin": "52000124",
+			"skinPack": {
+				"Path": "/6d82378b-6b4b-4708-b53f-67eb58d2c177_skin_20240118124019.scp",
+				"ChecksumSha1": "970bc5cd91cd466d05ba0a8f6ed418b5ac97e037"
+			},
+			"fallbackSkinPackIos": {
+				"Path": "/073b71ba-a3b3-4ef2-87f9-84ed7531b991_skin_20240118124019_fallback_ios.scp",
+				"ChecksumSha1": "da5c2737dd377bf346cb426da2ce9aa56eda703e"
+			},
+			"fallbackSkinPackAndroid": {
+				"Path": "/9125a808-4d36-4242-9687-1690e5730c99_skin_20240118124019_fallback_android.scp",
+				"ChecksumSha1": "917c96098970a4cc64402f5efa1059581bbfa803"
+			},
+			"key": {
+				"Key": "488bbd103e6dae080e82de7367259e69abc57f58820ed15a966229ef1f75347d",
+				"Nonce": "a5d88a74f77ef5cbc923d4e41b36f0c273ef0b8b93f09f15"
+			}
+		},
+		{
+			"type": 16,
+			"id": 44451,
+			"version": 1,
+			"variantId": 0,
+			"eventPriority": 0,
+			"impressionId": 1,
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20240131T080000.000Z",
+			"endTime": "20340101T131000.000Z",
+			"visibleEndTime": "20340101T131000.000Z",
+			"skin": "52000142",
+			"skinPack": {
+				"Path": "/149bb04b-2a52-4228-9e2b-decafc559ac4_skin_20240130110411.scp",
+				"ChecksumSha1": "981405e1cacc2054532158e002ef2822942f4b28"
+			},
+			"fallbackSkinPackIos": {
+				"Path": "/2589f7ac-e7bc-4cb5-a821-0fb84b04ed3c_skin_20240130110411_fallback_ios.scp",
+				"ChecksumSha1": "5a166e56a7a254dca597025e27c2fda06385ebff"
+			},
+			"fallbackSkinPackAndroid": {
+				"Path": "/90afeb5b-5844-4a96-9f12-fd6fbded0487_skin_20240130110411_fallback_android.scp",
+				"ChecksumSha1": "5a23818827335fff3e27c35cb11d741338f3992c"
+			},
+			"key": {
+				"Key": "020b8ec5ca74af44de4735569c9be1845dc2a5829d45090bf22cb4a6495df7c4",
+				"Nonce": "fe8c186c71b044cf00992e4d626d3bc306f9193b4a062a44"
+			}
+		}
+	]
+}
