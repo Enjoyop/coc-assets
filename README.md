@@ -9,6 +9,6 @@ Supercell Fan Content Policy
 
 Clash of Clans includes CSVs and battle bases and events in your game.
 
-[Created for creators and other fan content in accordance withSupercell's fan content policy](http://supercell.com/en/fan-content-policy/)
+[Created for creators and other fan content in accordance withSupercell's fan content policy](http://supercell.com/en/fan-content-policy/).
 
 It is not supported by Supercell.
