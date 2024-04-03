@@ -1,0 +1,7 @@
+"Arto Upgrade Tasks",,,,,,,,,,,,,,,
+,"Name","TaskType","ProgressType","Set","TID","IconSWF","IconExportName","Quantity","Quantity2","Data1","Data2","Disabled","FluffTID","Score","DurationMinutes"
+,"String","String","String","String","String","String","String","int","int","String","String","boolean","String","int","int"
+,"GearUp","GearUp","Best","Regular","TID_BOB_TASK_GEAR_UP","sc/ui.sc","req_icon_gearup",3,,,,,"TID_BOB_TASK_GEAR_UP_FLUFF",1,1
+,"UpgradeTroop","HighestBuilderTroopLevel","Best","Regular","TID_BOB_TASK_TROOP","sc/ui.sc","req_icon_troop_level",18,,,,,"TID_BOB_TASK_TROOP_FLUFF",1,1
+,"UpgradeDefence","HighestBuilderDefenceLevel","Best","Regular","TID_BOB_TASK_DEFENCE","sc/ui.sc","req_icon_defence_level",9,,,,,"TID_BOB_TASK_DEFENCE_FLUFF",1,1
+,"UpgradeHeroes","TotalBuilderHeroLevels","Best","Regular","TID_BOB_TASK_HEROES","sc/ui.sc","req_icon_heros_level",45,,,,,"TID_BOB_TASK_HEROES_FLUFF",1,1
